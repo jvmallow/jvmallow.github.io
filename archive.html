@@ -1,0 +1,25 @@
+---
+layout: page
+title: Archive
+---
+
+<div id="archives">
+  {% assign tag_list = site.tags | sort: tagName %}
+  {% for tag in tag_list %}
+  <div class="archive-group">
+    {% capture tag_name %}{{ tag | first }}{% endcapture %}
+    <div id="#{{ tag_name | slugize }}"></div>
+    <p></p>
+
+    <h3 class="tag-head">{{ tag_name }}</h3>
+    <a name="{{ tag_name | slugize }}"></a>
+    <ul>
+    {% for post in site.tags[tag_name] %}
+    <article class="archive-item">
+      <li><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a> ({{ post.date | date: "%Y-%m-%d" }})</li>
+    </article>
+    {% endfor %}
+    </ul>
+  </div>
+{% endfor %}
+</div>
