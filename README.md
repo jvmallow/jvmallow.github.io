@@ -19,3 +19,22 @@ bundle exec jekyll build
 ~~~
 
 Note that if you change the file `_config.yml`, you must rebuild the website.
+
+# Action items
+
+- [ ] Edit your [Welcome page](https://github.com/jvmallow/jvmallow.github.io/edit/main/welcome.md)
+- [ ] Edit your [About page](https://github.com/jvmallow/jvmallow.github.io/edit/main/about.md)
+- [ ] Create a new post
+  * Name the file `_posts/YYYY-MM-DD-TITLE.md`
+  * Use the following template
+~~~
+---
+layout: post
+mathjax: true
+title: Your catchy article title
+tags: [topic1,topic2,etc...]
+---
+
+_One sentence for the article brief._
+
+The body of your article, which can include $math equations$.
