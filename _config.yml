@@ -90,12 +90,12 @@ exclude:
 #   - jekyll-redirect-from
 
 collections:
-  news:
+  physics:
     output: true
     directory: /physics
-  people:
+  gender:
     output: true
     directory: /gender
-  topics:
+  judaica:
     output: true
     directory: /judaica
