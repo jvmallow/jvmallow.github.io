@@ -41,7 +41,10 @@ tags: [Topic1,Topic2,Etc]
 
 *One sentence for the article brief.*
 
-The body of your article, which can include $math equations$ and [!images].
+The body of your article, which can include $math equations$ and images such as Figure 1.
+
+![Jeffry Mallow](/images/jvmallow.jpeg "Jeffry V. Mallow")
+Figure 1: A sample image
 ~~~
 
 * Including `mathjax: true` is necessary if the article contains any Latex math equations.
