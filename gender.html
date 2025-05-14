@@ -10,7 +10,7 @@ title: Science Anxiety and Gender
     <li>
       <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
       {% assign date = post.date | date: "%Y-%m-%d" %}
-      <nobr>{% assign excerpt = post.excerpt | append: " (Posted "  | append: date | append: ")" %}
+      <nobr>{% assign excerpt = post.excerpt | append: " (Published on "  | append: date | append: ")" %}
       {{ excerpt }}</nobr>
     </li>
     {% endif %}
