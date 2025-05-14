@@ -5,7 +5,11 @@ Jeffry V. Mallow Website
 
 This is the CMS for [Jeffry V. Mallow's website](https://jvmallow.github.io/).
 
-To run this locally using `gem`, run the command
+# Automatic updates
+
+Any change made to this repository will automatically update the public website. The update usually takes about 1 minute.  See [Actions](https://github.com/jvmallow/jvmallow.github.io/actions) for the status of the most recent updates.
+# Local deployment
+To run this locally you your laptop/desktop using `gem`, run the command
 
 ~~~
 bundle exec jekyll serve --livereload
