@@ -22,7 +22,7 @@ Note that if you change the file `_config.yml`, you must rebuild the website.
 
 # Action items
 
-- [ ] Edit Line 11 of the [Website configuration file](https://github.com/jvmallow/jvmallow.github.io/edit/main/_config.yml)
+- [ ] Edit your tagline at Line 11 of the [Website configuration file](https://github.com/jvmallow/jvmallow.github.io/edit/main/_config.yml)
 - [ ] Edit your [Welcome page](https://github.com/jvmallow/jvmallow.github.io/edit/main/welcome.md)
 - [ ] Edit your [About page](https://github.com/jvmallow/jvmallow.github.io/edit/main/about.md)
 - [ ] Create a new post
