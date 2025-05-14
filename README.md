@@ -33,7 +33,8 @@ Note that if you change the file `_config.yml`, you must rebuild the website.
 layout: post
 mathjax: true
 title: Your catchy article title
-tags: [topic1,topic2,etc...]
+category: Tab title
+tags: [Topic1,Topic2,Etc]
 ---
 
 _One sentence for the article brief._

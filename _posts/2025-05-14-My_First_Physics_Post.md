@@ -2,9 +2,10 @@
 layout: post
 mathjax: true
 title: My First Physics Post
-tags: [Physics]
+category: Physics
+tags: [Test]
 ---
 
-_This is an abstract/one-sentence catchy statement._
+*This is an abstract, one-sentence, and/or catchy statement.*
 
 The body of your article, which can include $math equations$ and [!images].
