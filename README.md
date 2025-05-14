@@ -27,6 +27,8 @@ Note that if you change the file `_config.yml`, you must rebuild the website.
 - [ ] Edit your [About page](https://github.com/jvmallow/jvmallow.github.io/edit/main/about.md)
 - [ ] Create a new post
   * Name the file `_posts/YYYY-MM-DD-TITLE.md`
+    - The date `YYYY-MM-DD` is the publication date. (Anything in the past or present is ok, future dates are not allowed).
+    - The `TITLE` is for internal use only, it just has to be unique to your website. (Not necessarily unique to the world).
   * Use the following template
 ~~~
 ---
@@ -37,6 +39,14 @@ category: Tab title
 tags: [Topic1,Topic2,Etc]
 ---
 
-_One sentence for the article brief._
+*One sentence for the article brief.*
 
 The body of your article, which can include $math equations$ and [!images].
+~~~
+
+* Including `mathjax: true` is necessary if the article contains any Latex math equations.
+* The `category` must match the tab title exactly
+* The `tags` become the keywords when the page is published.  They will also be used to create the collection in the archive (if you use that feature).
+* The first paragraph becomes the brief that is include the list of pages on each tab.
+* The rest of the article can be any length and uses Markdown for formatting. See https://www.markdownguide.org/tools/jekyll/ for details.
+  
