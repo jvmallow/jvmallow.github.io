@@ -1,10 +1,10 @@
 - name: Welcome
   link: /
-- name: Articles
-  link: /articles/
-- name: Books
-  link: /books/
-- name: Research
-  link: /research/
+- name: Physics
+  link: /physics/
+- name: Science Anxiety and Gender
+  link: /gender/
+- name: Judaica
+  link: /judaica/
 - name: About
   link: /about/
