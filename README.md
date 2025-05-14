@@ -26,9 +26,10 @@ Note that if you change the file `_config.yml`, you must rebuild the website.
 - [ ] Edit your [Welcome page](https://github.com/jvmallow/jvmallow.github.io/edit/main/welcome.md)
 - [ ] Edit your [About page](https://github.com/jvmallow/jvmallow.github.io/edit/main/about.md)
 - [ ] Create a new post
+  * Click the `Code` tab, click on `Add file`, and choose `+ Create new file` or click [here](https://github.com/jvmallow/jvmallow.github.io/new/main)
   * Name the file `_posts/YYYY-MM-DD-TITLE.md`
     - The date `YYYY-MM-DD` is the publication date. (Anything in the past or present is ok, future dates are not allowed).
-    - The `TITLE` is for internal use only, it just has to be unique to your website. (Not necessarily unique to the world).
+    - The `TITLE` is for internal use only, it just has to be unique to your website. (Not necessarily unique to the world). Do not use spaces. Use underscores instead.
   * Use the following template
 ~~~
 ---
