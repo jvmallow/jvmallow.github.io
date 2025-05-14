@@ -24,7 +24,6 @@ Note that if you change the file `_config.yml`, you must rebuild the website.
 
 - [ ] Edit your tagline at Line 11 of the [Website configuration file](https://github.com/jvmallow/jvmallow.github.io/edit/main/_config.yml)
 - [ ] Edit your [Welcome page](https://github.com/jvmallow/jvmallow.github.io/edit/main/welcome.md)
-- [ ] Edit your [About page](https://github.com/jvmallow/jvmallow.github.io/edit/main/about.md)
 - [ ] Create a new post
   * Click the `Code` tab, click on `Add file`, and choose `+ Create new file` or click [here](https://github.com/jvmallow/jvmallow.github.io/new/main)
   * Name the file `_posts/YYYY-MM-DD-TITLE.md`
