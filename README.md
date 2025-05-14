@@ -1,7 +1,7 @@
+[![pages-build-deployment](https://github.com/jvmallow/jvmallow.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/jvmallow/jvmallow.github.io/actions/workflows/pages/pages-build-deployment)
+
 # jvmallow.github.io
 Jeffry V. Mallow Website
-
-[![pages-build-deployment](https://github.com/jvmallow/jvmallow.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/jvmallow/jvmallow.github.io/actions/workflows/pages/pages-build-deployment)
 
 This is the CMS for [Jeffry V. Mallow's website](https://jvmallow.github.io/).
 
@@ -38,4 +38,4 @@ tags: [topic1,topic2,etc...]
 
 _One sentence for the article brief._
 
-The body of your article, which can include $math equations$.
+The body of your article, which can include $math equations$ and [!images].
