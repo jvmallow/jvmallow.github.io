@@ -2,7 +2,7 @@
 layout: post
 mathjax: true
 title: My First Physics Post
-tags: [topic1,topic2,etc...]
+tags: [physics]
 ---
 
 _This is an abstract/one-sentence catchy statement._
