@@ -38,4 +38,4 @@ tags: [topic1,topic2,etc...]
 
 _One sentence for the article brief._
 
-The body of your article, which can include $math equations$.
+The body of your article, which can include $math equations$ and [!images].
