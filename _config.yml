@@ -92,10 +92,10 @@ exclude:
 collections:
   news:
     output: true
-    directory: /articles
+    directory: /physics
   people:
     output: true
-    directory: /books
+    directory: /gender
   topics:
     output: true
-    directory: /research
+    directory: /judaica
