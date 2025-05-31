@@ -93,9 +93,16 @@ collections:
   physics:
     output: true
     directory: /physics
-  gender:
+  yiddish:
     output: true
-    directory: /gender
-  judaica:
+    directory: /yiddish
+  zionism:
     output: true
-    directory: /judaica
+    directory: /zionism
+  feminism:
+    output: true
+    directory: /feminism
+  humor:
+    output: true
+    directory: /humor
+  
