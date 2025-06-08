@@ -1,9 +1,9 @@
 ---
 layout: post
 mathjax: true
-title: Jewish_Humor
-category: Jewish_Humor
-tags: [Jewish_Humor]
+title: Jewish Humor
+category: Jewish Humor
+tags: [Jewish Humor]
 ---
 
 
