@@ -102,7 +102,7 @@ collections:
   feminism:
     output: true
     directory: /feminism
-  humor:
+  jewish_humor:
     output: true
     directory: /jewish_humor
   
