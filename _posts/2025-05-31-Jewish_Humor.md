@@ -15,6 +15,7 @@ https://www.iuniverse.com/en/bookstore/bookdetails/108093-OUR-PAL-GOD-and-Other-
 Here are some of the jokes therin and therout.
 
 SPORTY SYNAGOGUE
+
 A Jewish golfer is a real duffer: never done better than ten over par. One day he’s playing, and he sees a foursome of ultra-Orthodox Jews playing amazingly good golf. He watches for a while, and finally goes over and asks them the secret of their skill.
 “Religion,” they reply, “Are you Jewish?” He says yes.
 “OK. Here’s what you have to do: pray three times a day. Keep kosher. And join the Orthodox shul (synagogue).”
@@ -30,6 +31,7 @@ Two months later, he encounters the same pious foursome, playing their usual und
 “Ah,”say the foursome, “That’s the problem. Anshe Sholem’s the tennis shul.”
 
 THIS YOU CALL ENGLISH? A TRIAD.
+
 An elderly Jewish man is run over. He’s lying in the street when the paramedics arrive. As they load him carefully onto the stretcher, one asks, “Are you comfortable?”
 He replies, “Thank God, I make a living.”
 
@@ -40,6 +42,7 @@ The lady replies, “Damages I already have. What I need is repairs!”
 Sadie thinks for a minute and says, “No, I think we have State Farm.”
 
 TO FORGIVE IS DIVINE
+
 It is required that Jews who have been quarreling with each other make peace before Yom Kippur.  Asking and receiving forgiveness from one’s fellow must precede asking forgiveness from God.  
 
  Two Jews who have been at each others’ throats for the entire year are persuaded to meet and reconcile. 
@@ -49,16 +52,19 @@ Khatskl  replies, “I forgive you, and I also ask your forgiveness.”
 “Oh,” says Khatskl, “you’re starting again already?”
 
 A LONG MEMORY
+
 Mrs. Yoshimura, a Japanese senior citizen on her first trip to America, comes into Macy’s Department store in Manhattan. She walks up to Mrs. Cohen, a Jewish saleslady about her own age and says, “Excuse me, can you tell me where the cosmetics department is?”
 “Oh,” says Mrs. Cohen, “Pearl Harbor you could find?”
 
 OUT TO SEA
+
 A grandmother and granddaughter are at the beach.  Suddenly a wave comes in and sweeps the little girl out to sea. 
 The grandmother looks up to Heaven and cries, “Dear God, please save my granddaughter!”
 Another wave comes crashing in, delivering the child to shore unharmed.  
 The grandmother looks up to Heaven and says, “She had a hat.”
 
 THE ARTFUL MATCHMAKER
+
 “Shadkhn” (Yiddish): matchmaker.
 
 A shadkhn comes to a prospective groom, and announces “Have I got a match for you! She’s as beautiful as a work of art!”
@@ -66,6 +72,7 @@ The young man agrees to meet the prospect. When the shadkhn returns a few days l
 “So,” asks the shadkhn, “Picasso you don’t like?”
 
 THE INSIDE STRAIGHT
+
 Six retired guys are playing poker in their Miami Beach condo rec room. Goldstein loses five hundred dollars trying to fill an inside straight. He clutches his chest, staggers, and falls to the floor—dead.
 The question is, how are they going to tell Mrs. Goldstein? Mandelbaum says, “Don’t worry; I can do it diplomatically.”
 So up he goes to the Goldstein apartment and knocks. Mrs. Goldstein comes to the door.
@@ -74,6 +81,7 @@ So up he goes to the Goldstein apartment and knocks. Mrs. Goldstein comes to the
 “OK,” says Mandelbaum, “I’ll tell him.”
 
 THE COLLEGE LANGUAGE REQUIREMENT
+
 Here is a tale that can serve as revenge for all those who experienced anti-Jewish quotas in college:
 A college president tells his Dean of Admissions that they are getting too many Jews at the school, and they need to start “changing the balance.” The president says, “Use the interviews with prospective freshmen to weed out the Jews. Don’t ask overt questions: that’s illegal. Find some clever ways to get the information.”
 So the Dean does this. He eliminates all the obvious ones: Cohen, Levy, Goldstein, and other Jewish or Jewish-sounding names. For the rest, he questions where they live, whether they’re interested in religion, if they’ve ever been to Israel….
@@ -82,11 +90,13 @@ Finally in desperation he asks, “Mr. Green, do you happen to speak Yiddish?”
 Green replies, “Enough to get around in this campus.”
 
 ISRAEL’S WEATHER
+
 Moyshe returns from his first trip to Israel. His friends ask, “So how was it?”
 “Nice, but hot! 110 degrees in the shade.”
 “So who told you to stand in the shade?”
 
 THE BET
+
 Levine and Feinberg are sitting on their usual Miami park bench, making their usual bets.
 “I’ll bet you two dollars that the next plane to fly overhead is a 747.”
 “I’ll bet you three dollars that the next girl to walk by is a natural blonde.”
@@ -95,6 +105,7 @@ Finally Levine says to Feinberg, “How about a real bet? I’ll bet you a thous
 “Since 1956.”
 
 PRIESTLY GARB
+
 Moishe Feigenbaum, newly arrived from Czarist Russia, is riding the New York subway for the first time. He sees across from him a Catholic priest. Not recognizing the clerical garb (Russian Orthodox priests wear long cassocks), Moishe approaches him and says, “Mister, you got your shoyt on beckvards.”
 “I’m a Father,” replies the priest.
 “Fadder shmadder,” says Moishe, “You still got your shoyt on beckvards.”
@@ -102,6 +113,7 @@ Moishe Feigenbaum, newly arrived from Czarist Russia, is riding the New York sub
 “Mister,” says Moishe, “Never mind de shoyt. Better you should put your pents on beckvards!”
 
 THE MORE THINGS CHANGE…
+
 Vladimir goes for a job at a large Moscow firm. The head of personnel asks if there is anything in Vladimir’s past that they should know.
 “Yes,” says Vladimir, “My grandfather was a general in the army of the last Czar.”
 “Please comrade,” replies the personnel chief, “we are not barbarians. That was more than half a century ago. We do not hold grudges. Anything else?”
@@ -109,6 +121,7 @@ Vladimir goes for a job at a large Moscow firm. The head of personnel asks if th
 “Comrade,” replies the head of personnel, “this is the Soviet Union. We are not prejudiced against any religion. But come to think of it, your grandfather’s service in the Czar’s army may present a problem….”
 
 A BAD BET
+
 A priest, a minister and a rabbi all served congregations in a town near the Canadian border. They were good friends, and even more—drinking buddies. One day, several sheets to the wind, they decided to make a bet: who can convert a bear? So off they all stagger into the North Woods.
 Three days later, the priest and minister are visiting the rabbi in the hospital. Swathed in bandages, the rabbi asks, “How did it go?”
 “Well,” said the priest, “I went into the woods with a vial of holy water, and suddenly a bear rushed at me. Just as he was about to grab me, I threw the holy water at him and cried, ‘I hereby baptize you in the name of the Father, the Son, and the Holy Ghost.’ The bear dropped to its knees and clasped its hands together. I left.”
@@ -117,15 +130,18 @@ Said the minister, “I went into the woods and stayed near the river. A bear ca
 “You ever try to circumcise a bear?”
 
 KOSHER DANISH
+
 Nazi Germany’s occupation of Denmark began on April 9, 1940, and lasted until German forces withdrew at the end of World War II following their surrender to the Allies on May 5, 1945. Surprisingly, there are Danish Jewish jokes about the occupation. Here is one.
 
 Cohen is picked up by the Gestapo in occupied Copenhagen and brought to their headquarters for questioning. As he sits in the commandant’s office trembling with fear, the phone rings. The commandant picks it up, listens for a minute disgustedly, hands the phone to Cohen and tells him, “I don’t speak Danish. You translate.” Cohen takes the receiver and says, “Gestapo. Cohen speaking.”
 
 THE FLASHER
+
 Tailoring was a popular Jewish trade, especially among immigrants to America. Those who had to learn the skill here were actually called “Columbuses shnayders”: Columbus’s tailors.
 Pauline, a retired seamstress, is walking down Fifth Avenue, when suddenly a man in a raincoat opens it wide, and exposes himself. She peers closely, and remarks, “That you call a lining?”
 
 MERRY CHRISTMAS
+
 A Jew goes to a minister and asks to be converted.
 “Before I do so,” says the minister, “I need to know if you are familiar with the basic facts of our faith. Where was Jesus born?”
 The Jew thinks for a minute, and answers, “Pittsburgh.”
@@ -137,6 +153,7 @@ The minister shakes his head. “Sorry, but you have so little knowledge that I 
 “Well,” comes the rejoinder, “at least I knew it was Pennsylvania.”
 
 HAPPY EASTER
+
 A Jew decides to convert to Christianity. He goes to a priest who says, “I’ll be glad to convert you, providing you can satisfy me that you know the basics of our faith.”
 “Ask away,” says the Jew.
 “What is the meaning of Easter?”
@@ -145,6 +162,7 @@ The Jew quickly replies, “Jesus was crucified on Good Friday, and buried in a 
 “He looked around, he saw his shadow, he went back into the cave, and they had six more weeks of winter.”
 
 THE OIL OF LOVE
+
 An Italian, a Frenchman, and a Jew are boasting about their love lives. The Italian says, “I rub my wife’s entire body with the finest olive oil before we make love; she screams for fifteen minutes.”
 The Frenchman says, ” “I rub my wife’s entire body with the finest French butter before we make love; she screams for thirty minutes.”
 The Jew says, “I rub my wife’s entire body with the finest chicken shmaltz before we make love; she screams for two hours.”
@@ -152,7 +170,8 @@ The Jew says, “I rub my wife’s entire body with the finest chicken shmaltz b
 “Yes. I wipe my hands on the drapes.”
 
 GOING NATIVE
-(Sit shivah: carry out the seven days of mourning)
+
+(Sit shivah: Carry out the seven days of mourning)
 Howie Solomon calls his mother from North Dakota State University. “Mama, I have wonderful news! I got married!”
 “Oh? To whom, may I ask?” says Mama.
 “She’s a Native American,” replies Howie, “And you’ll meet her and her family tomorrow. We’re flying to New York.”
@@ -161,17 +180,20 @@ The next day, Mrs. Solomon’s bell rings, and she opens the door to see Howie, 
 “Very pleased to make your acquaintance,” says Mrs. Solomon, “I’m Howard’s mother, Sitting Shiva.
 
  MORE INFORMATION THAN NEEDED
+ 
  A Hassid in full battle dress: shtrayml (fur hat) , kapote (long coat) , beard and peyes (earlocks) enters a supermarket, goes up to the appetizing counter, points at the baked Virginia ham, and says to the clerk, “I’d like a pound of that nice kosher turkey.”
 “But sir,” replies the clerk, “that’s not turkey, it’s ham.”
 The Hassid fixes her with a cold stare. “Did I ask you?”
 
 ONE LAST WISH
+
 A rabbi, a cantor, and a shammes (beadle) are captured by terrorists between Rosh Hashoneh and Yom Kippur. The terrorists offer each a last wish before being killed.
 The rabbi says, “I have written a a new sermon for Yom Kippur. I would like to preach it to you.” The terrorists agree.
 The cantor says, “I have written a new liturgy for Kol Nidrei. I would like to chant it to you.” Agreed.
 The shammes says, “Kill me first.”
 
 KOSHERER THAN THOU
+
 Moses goes up to the mountain to talk to God, and God is giving
 him the commandments and other rules to write down. At one
 point God says, “Remember Moses, it’s cruel to cook a calf
@@ -184,6 +206,7 @@ Moses: And when eventually we have dishwashers we should have one for each set o
 God: Moses, do what you want.
 
 THE UNKINDEST CUT
+
 A fellow is visiting a strange town, when he notices that his watch has stopped. He walks down the main street and comes upon a storefront filled with watches: in display cases, in the windows, on the walls. He walks in and asks the proprietor to repair his watch.
 “I don’t fix watches. I’m a moyhel (circumciser),” is the reply.
 “Then why do you have watches displayed everywhere?” asks the frustrated customer.
