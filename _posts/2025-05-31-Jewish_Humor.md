@@ -12,7 +12,7 @@ I began doing stand-up comedy. Sometimes, it was in the guise of a lecture on Je
 
 Many books are written about the meaning and purpose(s) of humor. Some have focused on Jewish humor. I have written one: Our Pal God and Other Presumptions
 https://www.iuniverse.com/en/bookstore/bookdetails/108093-OUR-PAL-GOD-and-Other-Presumptions.
-Here are some of the jokes therin and therout.
+Here are some of the jokes therein and newer ones thereout.
 
 SPORTY SYNAGOGUE
 
