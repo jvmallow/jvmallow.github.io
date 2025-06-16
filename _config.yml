@@ -93,15 +93,15 @@ collections:
   physics:
     output: true
     directory: /physics
+  science_anxiety:
+    output: true
+    direction: /science_anxiety
   yiddish:
     output: true
     directory: /yiddish
   zionism:
     output: true
     directory: /zionism
-  feminism:
-    output: true
-    directory: /feminism
   humor:
     output: true
     directory: /humor
