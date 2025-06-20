@@ -1,5 +1,4 @@
-“Gender, Science Anxiety, and Science Attitudes: A Multinational Perspective,” Proceedings of the  Expert Group Meeting: Gender, Science and Technology, UN Division for the Advancement of Women & UNESCO, Paris (2010). http://www.un.org/womenwatch/daw/egm/gst_2010/Mallow-EP.5-EGM-ST.pdf
----
+
 layout: post
 mathjax: true
 title: Science Anxiety
