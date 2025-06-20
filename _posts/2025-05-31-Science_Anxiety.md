@@ -25,7 +25,7 @@ The causes of science anxiety are many, including past bad experiences in scienc
 
 In addition to Helge's and my books, here is a list of some of our publications.
 
-“Gender-related Science Anxiety: A First Binational Study,” J. V. Mallow, Journal of Science Education and Technology 3, 227 (1994).!
+“Gender-related Science Anxiety: A First Binational Study,” J. V. Mallow, Journal of Science Education and Technology 3, 227 (1994).
 
 “Students’ Confidence and Teachers’ Styles: A Binational Comparison,” J. V. Mallow, Am. J. Physics 63, 1007-1011 (1995).
 
