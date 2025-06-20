@@ -1,3 +1,4 @@
+“Gender, Science Anxiety, and Science Attitudes: A Multinational Perspective,” Proceedings of the  Expert Group Meeting: Gender, Science and Technology, UN Division for the Advancement of Women & UNESCO, Paris (2010). http://www.un.org/womenwatch/daw/egm/gst_2010/Mallow-EP.5-EGM-ST.pdf![image](https://github.com/user-attachments/assets/b4cd2377-c9ac-4b27-93aa-6a06830726ff)
 ---
 layout: post
 mathjax: true
@@ -32,8 +33,6 @@ In addition to Helge's and my books, here is a list of some of our publications.
 “Student Attitudes and Enrolments in Physics, with Emphasis on Gender, Nationality, and Science Anxiety,” J. V. Mallow.  In Jensen, J. H., Niss, M., and Wedege, T.  (Eds.) Justification and EnrolmentProblems in Education Involving Mathematics or Physics, Roskilde U. Press, Roskilde, DK, 237-258 (1998). 
 
 “Does Physics Teaching Affect Gender-based Science Anxiety?” M. K. Udo, G. P. Ramsey, S. Reynolds-Alpert, and J. V. Mallow, Journal of Science Education and Technology 10,  237-247 (2001).
-
-“Gender, Science Anxiety, and Physics Teaching,” M. K. Udo, G. P. Ramsey, and J. V. Mallow GASAT 10 (refereed proceedings), Vol. I, 36- 41 (2001).
 
 “Science Anxiety and Gender in Students taking General Education Science Courses” M. K. Udo, G. P. Ramsey, and J. V. Mallow, J. Sci. Educ. and Technol. 13, 435-446 (2004).
 
