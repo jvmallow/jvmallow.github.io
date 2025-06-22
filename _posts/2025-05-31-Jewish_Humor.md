@@ -23,7 +23,7 @@ It would be impossible to say what the oldest Jewish joke is. But the oldest Jew
 
 THE NEWEST JEWISH JOKE-PROBABLY
 
-A priest, a minister, and a rabbit walk into  bar.  The bartender asks the rabbit, "What are you doing here?" The rabbit answer, "I came in on Autocorrect.""
+A priest, a minister, and a rabbit walk into  bar.  The bartender asks the rabbit, "What are you doing here?" The rabbit answers, "I came in on Autocorrect.""
 
 
 
