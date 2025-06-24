@@ -35,6 +35,8 @@ In addition to Helge's and my books, here is a list of some of our publications.
 
 “Science Anxiety and Gender in Students taking General Education Science Courses” M. K. Udo, G. P. Ramsey, and J. V. Mallow, J. Sci. Educ. and Technol. 13, 435-446 (2004).
 
+“Science Anxiety: Research and Action.”  J. V. Mallow. In Mintzes , J. J. and Leonard, W. H.  (Eds.)  Handbook of College Science Teaching, NSTA Press, Arlington, VA, 3-14 (2006).
+
 “Science Anxiety, Science Attitudes, and Gender: Interviews from a Binational Study,” J. Mallow, H. Kastrup,  F. Bryant, N. Hislop, R.Shefner, and M. Udo, J. Sci. Educ. and Technol. 19, 356 - 369 (2010).
 
 “Gender, Science Anxiety, and Science Attitudes: A Multinational Perspective,” Proceedings of the  Expert Group Meeting: Gender, Science and Technology, UN Division for the Advancement of Women & UNESCO, Paris (2010). http://www.un.org/womenwatch/daw/egm/gst_2010/Mallow-EP.5-EGM-ST.pdf
