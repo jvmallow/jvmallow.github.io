@@ -7,9 +7,11 @@ tags: [Science_Anxiety]
 ---
 
 
-In 1978, as a young assistant professor at Loyola University Chicago, I became aware that some students were doing poorly, although it seemed to me that they were bright and hardworking. What was going on? The term “science anxiety” leapt into mind, and I coined it forthwith. I hearkened back to my own days as an undergraduate physics major. I experienced crippling panic on exams, and did so poorly that my advisor told me that I was not smart enough to become a physicist. In the early 70’s, the concept of math anxiety had been recognized and various measures were being taken to alleviate it, including “clinics”: small groups of math- anxious students working with mathematicians and psychologists. I proposed to the Loyola Counseling Center that we try a Science Anxiety Clinic. We did, and it worked. 
+In 1978, as a young assistant professor at Loyola University Chicago, I became aware that some students were doing poorly, although it seemed to me that they were bright and hardworking. What was going on? The term “science anxiety” leapt into mind, and I coined it forthwith. I hearkened back to my own days as an undergraduate physics major. I experienced crippling panic on exams, and did so poorly that my advisor told me that I was not smart enough to become a physicist. In the early 70’s, the concept of math anxiety had been recognized and various measures were being taken to alleviate it, including “clinics”: small groups of math- anxious students working with mathematicians and psychologists. I proposed to the Loyola Counseling Center that we try a Science Anxiety Clinic. We did, and it worked.
 
-In 1991, I was awarded a Fulbright Fellowship to Denmark, where I investigated science anxiety among college students. I continued these studeis, and in 1996, I had the good fortune of meeting a Danish mathematician and physicist who expressd the desire to work with me. His name is Helge Kastrup, and everything I say further on this page is due to our partnership. Over the last few decades, we and our co-researchers studied sciences anxiety in high school and college students. Helge and I published two books on the theme, 
+ADD 1987 ETC. 
+
+In 1991, I was awarded a Fulbright Fellowship to Denmark, where I investigated science anxiety among college students. I continued these studies, and in 1996, I had the good fortune of meeting a Danish mathematician and physicist who expressd the desire to work with me. His name is Helge Kastrup, and everything I say further on this page is due to our partnership. Over the last few decades, we and our co-researchers studied sciences anxiety in high school and college students. Helge and I published two books on the theme, 
 
 the first on general science anxiety: 
 
