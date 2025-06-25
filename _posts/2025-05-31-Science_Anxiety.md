@@ -15,11 +15,9 @@ In 1978, as a young assistant professor at Loyola University Chicago, I became a
  
 In 1987 I receivd a message from Karin Beyer, a faculty member at Roskilde University, Denmark. She and several other science teachers of gymnasium (approximately equivalent to high school) and college, several females and one male, would be coming to a meeting in Arbor, Michigan on gender and science education, and could they pass through Chicago and meet me? It turns out they had read my book Science Anxiety and were especially interested in my take on gender in it. So we met, and the rest is history. Here's the history. We really clicked, both intellectually and personally, and established regular contact. In 1988, they invited my wife Ann and me to visit. There I met with a large variety of educators, and all in all had a great time. When we got home, Ann said, "Get a leave of absence, get a a grant, and get us over there." It took almost three years, but we did it (studying Danish in the meantime). In 1991, I was awarded a Fulbright Fellowship to Denmark and a visiting professorship at Roskilde. My Danish colleagues and I investigated science anxiety among college students, with special attention to gender differences. We later expanded these studies to gymnasiums and teachers' colleges. Ann and I also became very good friends with some of of the "Ann Arbor Group", Karin Beyer, Mette Vedelsby, Sussanne Blegaa, and Helene Sørensen. The one male, Bjørn Felsager, was also a good friend, but sadly, he is no longer with us. Since then we have returned many times, twice for a semester as a vsiting profesor at Roskilde, and the rest for more research on science anxiety and for visits with friends.
 
-In 1996, at a Nordic educators' meeting in Sweden, I had the good fortune to meet a Danish mathematician and physicist who expressed the desire to work with me. His name is Helge Kastrup, and everything I say further on this page is due to our partnership.   
+In 1996, at a Nordic educators' meeting in Sweden, I had the good fortune to meet a Danish mathematician and physicist who expressed the desire to work with me. His name is Helge Kastrup, and we have become colleagues and best friends. He and I have published two books and numerous papers and given many talks. 
 
-Helge and I have published two books and numerous papers and given many talks. 
-
-The first book is on general science anxiety (dedicated to the memory of Bjørn):
+The first book is on general science anxiety (dedicated to the memory of Bjørn Felsager):
 
 Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)  https://iopscience.iop.org/book/mono/978-1-6817-4265-6.pdf
 
