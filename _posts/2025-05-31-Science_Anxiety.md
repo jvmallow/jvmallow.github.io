@@ -17,15 +17,15 @@ In 1987 I receivd a message from Karin Beyer, a faculty member at Roskilde Unive
 
 In 1996, at a Nordic educators' meeting in Sweden, I had the good fortune to meet a Danish mathematician and physicist who expressed the desire to work with me. His name is Helge Kastrup, and everything I say further on this page is due to our partnership.   
 
-Helge and I have published two books and numerous papers and given may talks. 
+Helge and I have published two books and numerous papers and given many talks. 
 
 The first book is on general science anxiety (dedicated to the memory of Bjørn):
 
-Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)
+Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)  https://iopscience.iop.org/book/mono/978-1-6817-4265-6.pdf
 
 Th second book is on physics anxiety in particular: 
 
-Fear of Physics, H. Kastrup and J. V. Mallow, London: Institute of Physics (2023).
+Fear of Physics, H. Kastrup and J. V. Mallow, London: Institute of Physics (2023).  https://store.ioppublishing.org/page/detail/Fear-of-Physics//?k=9780750348645
 
 SO WHAT EXACTLY IS SCIENCE ANXIETY?
 
