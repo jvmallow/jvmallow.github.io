@@ -23,7 +23,7 @@ The first book is on general science anxiety (dedicated to the memory of Bjørn)
 
 Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)  https://iopscience.iop.org/book/mono/978-1-6817-4265-6.pdf
 
-Th second book is on physics anxiety in particular: 
+The second book is on physics anxiety in particular: 
 
 Fear of Physics, H. Kastrup and J. V. Mallow, London: Institute of Physics (2023).  https://store.ioppublishing.org/page/detail/Fear-of-Physics//?k=9780750348645
 
