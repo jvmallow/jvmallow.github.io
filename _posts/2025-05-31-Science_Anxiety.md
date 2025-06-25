@@ -7,19 +7,25 @@ tags: [Science_Anxiety]
 ---
 
 
+THE BEGINNINGS
+
 In 1978, as a young assistant professor at Loyola University Chicago, I became aware that some students were doing poorly, although it seemed to me that they were bright and hardworking. What was going on? The term “science anxiety” leapt into mind, and I coined it forthwith. I hearkened back to my own days as an undergraduate physics major. I experienced crippling panic on exams, and did so poorly that my advisor told me that I was not smart enough to become a physicist. In the early 70’s, the concept of math anxiety had been recognized and various measures were being taken to alleviate it, including “clinics”: small groups of math- anxious students working with mathematicians and psychologists. I proposed to the Loyola Counseling Center that we try a Science Anxiety Clinic. We did, and it worked.
 
-ADD 1987 ETC. 
+ DENMARK
+ 
+In 1987 I receivd a message from Karin Beyer, a faculty member at Roskilde University, Denmark. She and several other science teachers of gymnasium (approximately high school) and college, several females and one male, would be coming to a meeting in Arbor, Michigan on gender and science education, and could they pass through Chicago and meet me? It turns out they had read my book Science Anxiety and were especially interested in my take on gender in it. So we met, and the rest is history. Here's the history. We really clicked, both intellectually and emotionally, and established regular contact. In 1988, they invited my wife Ann and me to visit. There I met with a large variety of educators, and all in all had a great time. When we got home, Ann said, "Get a leave of absence, get a a grant, and get us over there." It took almost three years, but we did it (studying Danish in the meantime). In 1991, I was awarded a Fulbright Fellowship to Denmark and a visiting professorship at Roskilde. My Danish colleagues and I investigated science anxiety among college students, with special attention to gender differences. We later expanded these studies to gymnasiums and teachers' colleges. Ann and I also became very good friends with some of of the "Ann Arbor Group", Karin Beyer, Mette Vedelsby, Sussanne Blegaa, and Helene Sørensen. The one male, Bjørn Felsager, was also a good friend, but sadly, he is no longer with us.
 
-In 1991, I was awarded a Fulbright Fellowship to Denmark, where I investigated science anxiety among college students. I continued these studies, and in 1996, I had the good fortune of meeting a Danish mathematician and physicist who expressd the desire to work with me. His name is Helge Kastrup, and everything I say further on this page is due to our partnership. Over the last few decades, we and our co-researchers studied sciences anxiety in high school and college students. Helge and I published two books on the theme, 
+In 1996, at a Nordic educators' meeting in Sweden, I had the good fortune to meet a Danish mathematician and physicist who expressed the desire to work with me. His name is Helge Kastrup, and everything I say further on this page is due to our partnership.  He and I have published two books, 
 
-the first on general science anxiety: 
+the first on general science anxiety (dedicated to the memory of Bjørn):
 
 Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)
 
-and the second on physics in particular: 
+and the second on physics anxiety in particular: 
 
 Fear of Physics, H. Kastrup and J. V. Mallow, London: Institute of Physics (2023).
+
+SO WHAT EXACTLY IS SCIENCE ANXIETY?
 
 The psychology of anxiety was considered as early as 1844 by the Danish philosopher Søren Kirkegaard in his book Begrebet Angest (The Concept of Anxiety). He distinguished between fear (frygt) and anxiety (angest). Fear deals with things of which there is good reason to be afraid, such as a viper in your bed. Anxiety on the other hand means being scared of something that is not intrinsically fearful. Science anxiety is not a viper in your bed. But to a science-anxious person, it feels like it. Many students suffer from science anxiety, affecting their studies, excluding them from careers where science and math are prerequisites, and leaving them uninformed citizens whose political decisions are not based on good information or careful analysis.  So is science anxiety an inborn deficiency that the pupil has to accept as narrowing his or her potential course of study? No. There are ways to diminish rather than create or enhance anxiety. 
 
