@@ -9,19 +9,21 @@ tags: [Science_Anxiety]
 
 THE BEGINNINGS
 
-In 1978, as a young assistant professor at Loyola University Chicago, I became aware that some students were doing poorly, although it seemed to me that they were bright and hardworking. What was going on? The term “science anxiety” leapt into mind, and I coined it forthwith. I hearkened back to my own days as an undergraduate physics major. I experienced crippling panic on exams, and did so poorly that my advisor told me that I was not smart enough to become a physicist. In the early 70’s, the concept of math anxiety had been recognized and various measures were being taken to alleviate it, including “clinics”: small groups of math- anxious students working with mathematicians and psychologists. I proposed to the Loyola Counseling Center that we try a Science Anxiety Clinic. We did, and it worked.
+In 1978, as a young assistant professor at Loyola University Chicago, I became aware that some students were doing poorly, although it seemed to me that they were bright and hardworking. What was going on? The term “science anxiety” leapt into mind, and I coined it forthwith. I hearkened back to my own days as an undergraduate physics major. I experienced crippling panic on exams, and did so poorly that my advisor told me that I was not smart enough to become a physicist. In the early 70’s, the concept of math anxiety had been recognized and various measures were being taken to alleviate it, including “clinics”: small groups of math- anxious students working with mathematicians and psychologists. I proposed to the Loyola Counseling Center that we try a Science Anxiety Clinic. We did, and it worked. ou can find the details in my first book, Science Anxiety https://www.ebay.com/p/419428. It's from 1986, but most of it is still relevant.
 
  DENMARK
  
-In 1987 I receivd a message from Karin Beyer, a faculty member at Roskilde University, Denmark. She and several other science teachers of gymnasium (approximately high school) and college, several females and one male, would be coming to a meeting in Arbor, Michigan on gender and science education, and could they pass through Chicago and meet me? It turns out they had read my book Science Anxiety and were especially interested in my take on gender in it. So we met, and the rest is history. Here's the history. We really clicked, both intellectually and emotionally, and established regular contact. In 1988, they invited my wife Ann and me to visit. There I met with a large variety of educators, and all in all had a great time. When we got home, Ann said, "Get a leave of absence, get a a grant, and get us over there." It took almost three years, but we did it (studying Danish in the meantime). In 1991, I was awarded a Fulbright Fellowship to Denmark and a visiting professorship at Roskilde. My Danish colleagues and I investigated science anxiety among college students, with special attention to gender differences. We later expanded these studies to gymnasiums and teachers' colleges. Ann and I also became very good friends with some of of the "Ann Arbor Group", Karin Beyer, Mette Vedelsby, Sussanne Blegaa, and Helene Sørensen. The one male, Bjørn Felsager, was also a good friend, but sadly, he is no longer with us.
+In 1987 I receivd a message from Karin Beyer, a faculty member at Roskilde University, Denmark. She and several other science teachers of gymnasium (approximately equivalent to high school) and college, several females and one male, would be coming to a meeting in Arbor, Michigan on gender and science education, and could they pass through Chicago and meet me? It turns out they had read my book Science Anxiety and were especially interested in my take on gender in it. So we met, and the rest is history. Here's the history. We really clicked, both intellectually and personally, and established regular contact. In 1988, they invited my wife Ann and me to visit. There I met with a large variety of educators, and all in all had a great time. When we got home, Ann said, "Get a leave of absence, get a a grant, and get us over there." It took almost three years, but we did it (studying Danish in the meantime). In 1991, I was awarded a Fulbright Fellowship to Denmark and a visiting professorship at Roskilde. My Danish colleagues and I investigated science anxiety among college students, with special attention to gender differences. We later expanded these studies to gymnasiums and teachers' colleges. Ann and I also became very good friends with some of of the "Ann Arbor Group", Karin Beyer, Mette Vedelsby, Sussanne Blegaa, and Helene Sørensen. The one male, Bjørn Felsager, was also a good friend, but sadly, he is no longer with us. Since then we have returned many times, twice for a semester as a vsiting profesor at Roskilde, and the rest for more research on science anxiety and for visits with friends.
 
-In 1996, at a Nordic educators' meeting in Sweden, I had the good fortune to meet a Danish mathematician and physicist who expressed the desire to work with me. His name is Helge Kastrup, and everything I say further on this page is due to our partnership.  He and I have published two books, 
+In 1996, at a Nordic educators' meeting in Sweden, I had the good fortune to meet a Danish mathematician and physicist who expressed the desire to work with me. His name is Helge Kastrup, and everything I say further on this page is due to our partnership.   
 
-the first on general science anxiety (dedicated to the memory of Bjørn):
+Helge and I have published two books and numerous papers and given may talks. 
+
+The first book is on general science anxiety (dedicated to the memory of Bjørn):
 
 Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)
 
-and the second on physics anxiety in particular: 
+Th second book is on physics anxiety in particular: 
 
 Fear of Physics, H. Kastrup and J. V. Mallow, London: Institute of Physics (2023).
 
@@ -31,7 +33,7 @@ The psychology of anxiety was considered as early as 1844 by the Danish philosop
 
 The causes of science anxiety are many, including past bad experiences in science classes, science-anxious teachers in elementary and secondary schools, a lack of role models, gender and racial stereotyping, and the stereotyping of scientists in the popular media. One of the strongest of these is gender, and we have spent a large fraction of our work studying the causes and proposing the remdies for this bias.
 
-In addition to Helge's and my books, here is a list of some of our publications.
+In addition to Helge's and my books, here is a list of some publications.
 
 “Gender-related Science Anxiety: A First Binational Study,” J. V. Mallow, Journal of Science Education and Technology 3, 227 (1994).
 
@@ -43,6 +45,8 @@ In addition to Helge's and my books, here is a list of some of our publications.
 
 “Science Anxiety and Gender in Students taking General Education Science Courses” M. K. Udo, G. P. Ramsey, and J. V. Mallow, J. Sci. Educ. and Technol. 13, 435-446 (2004).
 
+“Gender, Science Anxiety, and Constructivism: a Binational Study,” J. V. Mallow and H. Kastrup, Proceedings LMFK, Akureyri, Iceland (2005)
+
 “Science Anxiety: Research and Action.”  J. V. Mallow. In Mintzes , J. J. and Leonard, W. H.  (Eds.)  Handbook of College Science Teaching, NSTA Press, Arlington, VA, 3-14 (2006).
 
 “Science Anxiety, Science Attitudes, and Gender: Interviews from a Binational Study,” J. Mallow, H. Kastrup,  F. Bryant, N. Hislop, R.Shefner, and M. Udo, J. Sci. Educ. and Technol. 19, 356 - 369 (2010).
@@ -51,7 +55,10 @@ In addition to Helge's and my books, here is a list of some of our publications.
 
 “Science Anxiety, Science Attitudes, and Constructivism: A Binational Study,” F. Bryant, H. Kastrup, M. Udo, N. Hislop, R. Shefner, and J. Mallow, Journal of Science Education and Technology 22, 432-448 (2013).
 
+“Gender Roles in Science,”(in Danish) H. Kastrup and J. V. Mallow. In Introduction to Science Studies, ed. M. K. Sillasen (2014).
 
+
+We have also published in Danish.
 
 
 
