@@ -31,6 +31,10 @@ The psychology of anxiety was considered as early as 1844 by the Danish philosop
 
 The causes of science anxiety are many, including past bad experiences in science classes, science-anxious teachers in elementary and secondary schools, a lack of role models, gender and racial stereotyping, and the stereotyping of scientists in the popular media. One of the strongest of these is gender, and we have spent a large fraction of our work studying the causes and proposing the remdies for this bias.
 
+
+RESEARCH
+
+
 In addition to Helge's and my books, here is a list of some publications.
 
 “Gender-related Science Anxiety: A First Binational Study,” J. V. Mallow, Journal of Science Education and Technology 3, 227 (1994).
