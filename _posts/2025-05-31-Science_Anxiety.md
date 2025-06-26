@@ -225,7 +225,7 @@ Following are abstracts of some our research.
 
 “Gender-related Science Anxiety: A First Binational Study,” J. V. Mallow, Journal of Science Education and Technology 3, 227 (1994).
 
-An investigation was carried out to ascertain whether science anxiety as measured by a self-reporting instrument was related to gender for groups of American and Danish students aged 17 and up. In both national groups, females scored significantly higher on a variety of science anxiety measures than did males. Science anxiety proved to be also related to general anxiety and to field of study, but not significantly to national group, albeit the Danish group as a whole registered womewhat lower than the American group, and in particular, Danish fermales registered lower than American males.
+An investigation was carried out to ascertain whether science anxiety as measured by a self-reporting instrument was related to gender for groups of American and Danish students aged 17 and up. In both national groups, females scored significantly higher on a variety of science anxiety measures than did males. Science anxiety proved to be also related to general anxiety and to field of study, but not significantly to national group, albeit the Danish group as a whole registered somewhat lower than the American group, and in particular, Danish fermales registered lower than American males.
 
 
 
@@ -238,7 +238,6 @@ We present the results of a study designed to measure the level of science anxie
 Science Anxiety and Gender in Students taking General Education Science Courses” M. K. Udo, G. P. Ramsey, and J. V. Mallow, J. Sci. Educ. and Technol. 13, 435-446 (2004).
 
 Earlier studies [Mallow, J. V. (1994). Gender-related science anxiety: A first binational study. Journal of Science Education and Technology 3: 227–238; Udo, M. K., Ramsey, G. P., Reynolds-Alpert, S., and Mallow, J. V. (2001). Does physics teaching affect gender-based science anxiety? Journal of Science Education and Technology 10: 237–247] of science anxiety in various student cohorts suggested that nonscience majors were highly science anxious (SA), regardless of what science courses they were taking. In this study, we investigated science anxiety in a cohort consisting mostly of nonscience majors taking general education science courses. Regression analysis shows that the leading predictors of science anxiety are (i) nonscience anxiety and (ii) gender, as they were for different cohorts in the earlier studies. We confirm earlier findings that females are more SA than males. Chi-square analysis of acute science anxiety shows an amplification of these differences. We found statistically significant levels of science anxiety in humanities and social science students of both genders, and gender differences in science anxiety, despite the fact that the students were all enrolled in general education science courses specifically designed for nonscience majors. We found acute levels of anxiety in several groups, especially education, nursing, and business majors. We describe specific interventions to alleviate science anxiety.
-
 
 
 
