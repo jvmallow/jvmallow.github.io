@@ -119,7 +119,11 @@ SCIENCE ATTITUDES QUESTIONNAIRE
 
 Instructions.  Please circle the number that best describes the degree to which you agree or disagree with each item below, using the following scale:
 
-1. Strongly Disagree      2. Disagree           3. Neutral	     4. Agree         5. Strongly agree
+1. Strongly Disagree     
+2. Disagree
+3. Neutral
+4. Agree
+5. Strongly agree
    
 ----------------------------------------------------------------------------------------------------------------------------------
 
