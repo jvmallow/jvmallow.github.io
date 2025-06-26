@@ -60,10 +60,10 @@ OUR STUDIES' QUESTIONNAIRES
 
 We have used two questionnaires: one for anxieties, the other for attitudes. In some cases we studied anxieties alone; in others, we used both and compared them. The Science Anxiety Questionnaire was developed by Rosemarie Alvaro as part of her dissertation In the Loyola Applied Psychology Program.  It was first used by us in the  Loyola Science Anxiety Clinic, subsequently on cohorts in the US and Denmark. The Science Attitudes Questionnaire was constructed by Fred Bryant, Loyola Professor of Psychology. It was also used in conjunction with the Science Anxiety Questionnaire on cohorts in the US and Denmark. 
 
- Here they are combined.
-
+ Here they are.
  
- Science Anxiety Questionnaire
+
+ SCIENCE ANXIETY QUESTIONNAIRE
 
 The items in the questionnaire refer to things and experiences that may cause fear or apprehension. After  each item, place a number that describes how much YOU ARE FRIGHTENED BY IT NOWADAYS.
 	
@@ -115,18 +115,13 @@ The items in the questionnaire refer to things and experiences that may cause fe
 44.	Asking a question in an English Literature class.
 
 
-Science Attitudes Questionnaire
+SCIENCE ATTITUDES QUESTIONNAIRE
 
 Instructions.  Please circle the number that best describes the degree to which you agree or disagree with each item below, using the following scale:
 
-1. STRONGLY DISAGREE
-2. DISAGREE
-3. NEUTRAL	
-4. AGREE
-5. STRONGLY AGREE
-
-
-
+1. Strongly Disagree      2. Disagree           3. Neutral	     4. Agree         5. Strongly agree
+   
+----------------------------------------------------------------------------------------------------------------------------------
 
 45. Science reflects the social and political values, philosophical assumptions, and intellectual norms of the culture in which it is practiced. 
 
