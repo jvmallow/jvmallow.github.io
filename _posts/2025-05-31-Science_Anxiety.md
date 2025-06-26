@@ -56,7 +56,171 @@ In addition to Helge's and my books, here is a list of some publications.
 “Gender Roles in Science,”(in Danish) H. Kastrup and J. V. Mallow. In Introduction to Science Studies, ed. M. K. Sillasen (2014).
 
 
-We have also published in Danish.
+OUR STUDIES' QUESTIONNAIRES
+
+We have used two questionnaires: one for anxieties, the other for attitudes. In some cases we studied anxieties alone; in others, we used both and compared them. The Science Anxiety Questionnaire was developed by Rosemarie Alvaro as part of her dissertation In the Loyola Applied Psychology Program.  It was first used by us in the  Loyola Science Anxiety Clinic, subsequently on cohorts in the US and Denmark. The Science Attitudes Questionnaire was constructed by Fred Bryant, Loyola Professor of Psychology. It was also used in conjunction with the Science Anxiety Questionnaire on cohorts in the US and Denmark. 
+
+ Here they are combined.
+
+ 
+ Science Anxiety Questionnaire
+
+The items in the questionnaire refer to things and experiences that may cause fear or apprehension. After  each item, place a number that describes how much YOU ARE FRIGHTENED BY IT NOWADAYS.
+	
+    1. Not at all     2. A little       3. A fair amount         4. Much         5.  Very much 
+----------------------------------------------------------------
+ 1.	Learning how to convert Celsius To Fahrenheit degrees as you travel in Canada.
+ 2.	In a Philosophy discussion group, reading a chapter on the Categorical Imperative and being asked to answer questions.
+ 3.	Asking a question in a science class.
+ 4.	Converting kilometers to miles.
+ 5.	Studying for a midterm exam in Chemistry, Physics, or Biology.
+ 6.	Planning a well balanced diet.
+ 7.	Converting American dollars to English pounds as you travel in the British Isles.
+ 8.	Cooling down a hot tub of water to an appropriate temperature for a bath.
+ 9.	Planning the electrical circuit or pathway for a simple "light bulb" experiment.
+10.	Replacing a bulb on a movie projector.
+11.	Focusing the lens on your camera.
+12.	Changing the eyepiece on a microscope.
+13.	Using a thermometer in order to record the boiling point of a heating solution.
+14.	You want to vote on an upcoming referendum on student activities fees, and you are reading about it so that you might make an informed choice.
+15.	Having a fellow student watch you perform an experiment in the lab.
+16.	Visiting the Museum of Science and Industry and being asked to explain atomic energy to a 12-year old.
+17.	Studying for a final exam in English, History, or Philosophy.
+18.	Mixing the proper amount of baking soda and water to put on a bee sting.
+19.	Igniting a Coleman stove in preparation for cooking outdoors.
+20.	Tuning your guitar to a piano or some other musical instrument.
+21.	Filling your bicycle tires with the right amount of air.
+22.	Memorizing a chart of historical dates.
+23.	In a Physics discussion group, reading a chapter on Quantum Systems and being asked to answer some questions.
+24.	Having a fellow student listen to you read in a foreign language.
+25.	Reading signs on buildings in a foreign country.
+26.	Memorizing the names of elements in the periodic table.
+27.	Having your music teacher listen to you as you play an instrument.
+28.	Reading the Theater page of Time magazine and having one of your friends ask your opinion on what you have read.
+29.	Adding minute quantities of acid to a base solution in order to neutralize it.
+30.	Precisely inflating a balloon to be used as apparatus in a Physics experiment.
+31.	Lighting a Bunsen burner in the preparation of an experiment.
+32.	A vote is coming up on the issue of nuclear power plants, and you are reading background material in order to decide how to vote.
+33.	Using a tuning fork in an acoustical experiment.
+34.	Mixing boiling water and ice to get water at 70 degrees Fahrenheit.
+35.	Studying for a midterm in an History course.
+36.	Having your professor watch you perform an experiment in the lab.
+37.	Having a teaching assistant watch you perform an experiment in the lab.  
+38.	Focusing a microscope.
+39.	Using a meat thermometer for the first time, and checking the temperature periodically till the meat reaches the desired "doneness."
+40.	Having a teaching assistant watch you draw in Art class.
+41.	Reading the Science page of Time magazine and having one of your friends ask your opinion on what you have read.
+42.	Studying for a final exam in Chemistry, Physics, or Biology.
+43.	Being asked to explain the artistic quality of pop art to a 7th grader on a visit to the Art Museum.
+44.	Asking a question in an English Literature class.
+
+
+Science Attitudes Questionnaire
+
+Instructions.  Please circle the number that best describes the degree to which you agree or disagree with each item below, using the following scale:
+
+1. STRONGLY DISAGREE
+2. DISAGREE
+3. NEUTRAL	
+4. AGREE
+5. STRONGLY AGREE
+
+
+
+
+45. Science reflects the social and political values, philosophical assumptions, and intellectual norms of the culture in which it is practiced. 
+
+46. Science is a “level playing-field” in which men and women have equal status and opportunity.
+
+47. Tomorrow’s truths in science will be different from those of today.
+
+48. It is possible for two scientists to carefully perform the same experiment and get very different results, each of which is correct.
+
+49. Science has nothing to do with my life.
+
+50. Scientists agree on fundamental subjects like global warming, disposal of nuclear waste, and the use of stem cells.
+
+51. Science is by its nature hostile to women.
+
+52. Newton’s laws of motion may eventually be modified.
+
+53. Scientists’ ideas apply to some physical objects in the universe but not others.
+
+54. The difference in number of men and women scientists is primarily due to biological differences.
+
+55. The choice of topics for scientific research is affected by the views of the culture in which scientists work.
+
+56. There are no such things as objective facts.
+
+57. Science is boring.
+
+58. The difference in number of men and women scientists is primarily due to differences in opportunity.
+
+59. Science is inherently cold and unfriendly.
+
+60. Science is a conspiracy between governments and scientific agencies formed to keep ordinary people from taking part in the democratic process.
+
+61. Although interpretations can be ambiguous in things like personal relationships or poetry, in science the facts speak for themselves.
+
+62. Newer scientific theories build on their predecessors.
+
+63. Scientific experiments do not really discover “the laws of nature,” but instead let scientists find whatever they expect or want to find.
+
+64. Women have a harder time succeeding in science than men do.
+
+65. Modern scientists are responsible for most of the dangers in our world.
+
+66. Science is a mental representation constructed by the individual.
+
+67. When it comes to controversial topics such as which foods cause cancer, there’s no way for scientists to evaluate which scientific studies are the best: everything’s just a matter of opinion.
+
+68. Every scientific theory is eventually proved completely wrong, and must be discarded.
+
+69. The scientific view of the world is just an agreement among scientists.
+
+70. Despite what scientists would have us believe, science is actually subjective.
+
+71. Science transcends national, political, and cultural boundaries.
+
+72. Scientists don’t understand normal people.
+
+73. The natural world can best be explained through a combination of perspectives, including science, paranormal phenomena, and astrological horoscopes.
+
+74. The difference in number of men and women scientists is primarily due to individual choice.
+
+75. The scientific knowledge in use today may be obsolete tomorrow.
+
+ 76. Scientific laws work well in some situations but not in others.
+
+77. Current ideas about particles that make up the atom will always be maintained as they are.
+
+78. Objective facts are an illusion.
+
+79. I cannot fulfill my need for creativity within the closed framework of the natural sciences.
+
+80. Science is a naturally male field.
+
+81. Scientific theories are simply agreements among scientists.
+
+82. Current ideas about particles that make up the atom apply to physical objects everywhere in the universe.
+
+83. The reason fewer females than males choose careers in science is that women don't want to be restricted to the narrow scientific way of understanding the world.
+
+84. The results of scientific research experiments are affected by the views of the culture in which scientists work.
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
