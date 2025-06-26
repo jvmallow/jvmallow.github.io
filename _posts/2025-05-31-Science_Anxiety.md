@@ -12,6 +12,8 @@ THE BEGINNINGS
 In 1978, as a young assistant professor at Loyola University Chicago, I became aware that some students were doing poorly, although it seemed to me that they were bright and hardworking. What was going on? The term “science anxiety” leapt into mind, and I coined it forthwith. I hearkened back to my own days as an undergraduate physics major. I experienced crippling panic on exams, and did so poorly that my advisor told me that I was not smart enough to become a physicist. In the early 70’s, the concept of math anxiety had been recognized and various measures were being taken to alleviate it, including “clinics”: small groups of math- anxious students working with mathematicians and psychologists. I proposed to the Loyola Counseling Center that we try a Science Anxiety Clinic. We did, and it worked. ou can find the details in my first book, Science Anxiety https://www.ebay.com/p/419428. It's from 1986, but most of it is still relevant.
 
 
+
+
 SO WHAT EXACTLY IS SCIENCE ANXIETY?
 
 The psychology of anxiety was considered as early as 1844 by the Danish philosopher Søren Kirkegaard in his book Begrebet Angest (The Concept of Anxiety). He distinguished between fear (frygt) and anxiety (angest). Fear deals with things of which there is good reason to be afraid, such as a viper in your bed. Anxiety on the other hand means being scared of something that is not intrinsically fearful. Science anxiety is not a viper in your bed. But to a science-anxious person, it feels like it. Many students suffer from science anxiety, affecting their studies, excluding them from careers where science and math are prerequisites, and leaving them uninformed citizens whose political decisions are not based on good information or careful analysis.  So is science anxiety an inborn deficiency that the pupil has to accept as narrowing his or her potential course of study? No. There are ways to diminish rather than create or enhance anxiety. 
@@ -19,6 +21,8 @@ The psychology of anxiety was considered as early as 1844 by the Danish philosop
 The causes of science anxiety are many, including past bad experiences in science classes, science-anxious teachers in elementary and secondary schools, a lack of role models, gender and racial stereotyping, and the stereotyping of scientists in the popular media. One of the strongest of these is gender, and my colleages and I have spent a large fraction of our work studying the causes and proposing the remdies for this bias.
 
 
+
+ 
  DENMARK
  
 In 1987 I received a message from Karin Beyer, a faculty member at Roskilde University, Denmark. She and several other science teachers of college and gymnasium (approximately equivalent to high school), several females and one male, would be coming to a meeting in Arbor, Michigan on gender and science education, and could they pass through Chicago and meet me? It turns out they had read my book Science Anxiety and were especially interested in my take on gender in it. So we met, and the rest is history. Here's the history. We really clicked, both intellectually and personally, and established regular contact. In 1988, they invited my wife Ann and me to visit. There I met with a large variety of educators, and all in all had a great time. When we got home, Ann said, "Get a leave of absence, get a a grant, and get us over there." It took almost three years, but we did it (studying Danish in the meantime). In 1991, I was awarded a Fulbright Fellowship to Denmark and a visiting professorship at Roskilde. My Danish colleagues and I investigated science anxiety among college students, with special attention to gender differences. We later expanded these studies to gymnasiums and teachers' colleges. Ann and I also became very good friends with some of of the "Ann Arbor Group", Karin Beyer, Mette Vedelsby, Sussanne Blegaa, and Helene Sørensen. The one male, Bjørn Felsager, was also a good friend, but sadly, he is no longer with us. Since then we have returned many times, twice for a semester as a vsiting profesor at Roskilde, and the rest for more research on science anxiety and for visits with friends.
@@ -32,6 +36,8 @@ Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Sc
 The second book is on physics anxiety in particular: 
 
 Fear of Physics, H. Kastrup and J. V. Mallow, London: Institute of Physics (2023).  https://store.ioppublishing.org/page/detail/Fear-of-Physics//?k=9780750348645
+
+
 
 
 SOME OF OUR PUBLICATIONS
@@ -59,6 +65,7 @@ In addition to Helge's and my books, here is a list of some publications.
 “Science Anxiety, Science Attitudes, and Constructivism: A Binational Study,” F. Bryant, H. Kastrup, M. Udo, N. Hislop, R. Shefner, and J. Mallow, Journal of Science Education and Technology 22, 432-448 (2013).
 
 “Gender Roles in Science,”(in Danish) H. Kastrup and J. V. Mallow. In Introduction to Science Studies, ed. M. K. Sillasen (2014).
+
 
 
 OUR STUDIES' QUESTIONNAIRES
@@ -214,9 +221,12 @@ WHAT WE HAVE FOUND
 
 Following are abstracts of some our research.
 
+
+
 “Gender-related Science Anxiety: A First Binational Study,” J. V. Mallow, Journal of Science Education and Technology 3, 227 (1994).
 
 An investigation was carried out to ascertain whether science anxiety as measured by a self-reporting instrument was related to gender for groups of American and Danish students aged 17 and up. In both national groups, females scored significantly higher on a variety of science anxiety measures than did males. Science anxiety proved to be also related to general anxiety and to field of study, but not significantly to national group, albeit the Danish group as a whole registered womewhat lower than the American group, and in particular, Danish fermales registered lower than American males.
+
 
 
 “Does Physics Teaching Affect Gender-based Science Anxiety?” M. K. Udo, G. P. Ramsey, S. Reynolds-Alpert, and J. V. Mallow, Journal of Science Education and Technology 10,  237-247 (2001).
@@ -224,9 +234,11 @@ An investigation was carried out to ascertain whether science anxiety as measure
 We present the results of a study designed to measure the level of science anxiety in students enrolled in physics courses at Loyola University Chicago. We undertook this study with two objectives: (1) to determine the factors contributing to science anxiety; in particular, to ascertain whether the leading factors identified in an earlier study have remained constant over time, and (2) to investigate whether science anxiety was affected by a semester of introductory physics. This is the first study of its kind, analyzing science anxiety in pre- and posttests of a cohort composed entirely of students taking physics courses. We find that the leading factors contributing to science anxiety are nonscience anxiety, gender, and to a much lesser degree, course of study (major), in agreement with earlier results. In general, males start and end the course with somewhat less science anxiety (and nonscience anxiety) than females. Post-course responses indicated some improvement in nonscience anxiety and in science anxiety for both genders. Acute levels of science anxiety were somewhat decreased by exposure to a physics course. Different pedagogies and gender role models may correlate with anxiety reduction.
 
 
+
 Science Anxiety and Gender in Students taking General Education Science Courses” M. K. Udo, G. P. Ramsey, and J. V. Mallow, J. Sci. Educ. and Technol. 13, 435-446 (2004).
 
 Earlier studies [Mallow, J. V. (1994). Gender-related science anxiety: A first binational study. Journal of Science Education and Technology 3: 227–238; Udo, M. K., Ramsey, G. P., Reynolds-Alpert, S., and Mallow, J. V. (2001). Does physics teaching affect gender-based science anxiety? Journal of Science Education and Technology 10: 237–247] of science anxiety in various student cohorts suggested that nonscience majors were highly science anxious (SA), regardless of what science courses they were taking. In this study, we investigated science anxiety in a cohort consisting mostly of nonscience majors taking general education science courses. Regression analysis shows that the leading predictors of science anxiety are (i) nonscience anxiety and (ii) gender, as they were for different cohorts in the earlier studies. We confirm earlier findings that females are more SA than males. Chi-square analysis of acute science anxiety shows an amplification of these differences. We found statistically significant levels of science anxiety in humanities and social science students of both genders, and gender differences in science anxiety, despite the fact that the students were all enrolled in general education science courses specifically designed for nonscience majors. We found acute levels of anxiety in several groups, especially education, nursing, and business majors. We describe specific interventions to alleviate science anxiety.
+
 
 
 
