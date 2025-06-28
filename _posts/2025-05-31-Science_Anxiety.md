@@ -126,7 +126,54 @@ The items in the questionnaire refer to things and experiences that may cause fe
 42.	Studying for a final exam in Chemistry, Physics, or Biology.
 43.	Being asked to explain the artistic quality of pop art to a 7th grader on a visit to the Art Museum.
 44.	Asking a question in an English Literature class.
+    
 
+   1. Not at all     2. A little       3. A fair amount         4. Much         5.  Very much 
+----------------------------------------------------------------
+ 1.	Learning how to convert Celsius To Fahrenheit degrees as you travel in Canada.
+ 2.	In a Philosophy discussion group, reading a chapter on the Categorical Imperative and being asked to answer questions.
+ 3.	Asking a question in a science class.
+ 4.	Converting kilometers to miles.
+ 5.	Studying for a midterm exam in Chemistry, Physics, or Biology.
+ 6.	Planning a well balanced diet.
+ 7.	Converting American dollars to English pounds as you travel in the British Isles.
+ 8.	Cooling down a hot tub of water to an appropriate temperature for a bath.
+ 9.	Planning the electrical circuit or pathway for a simple "light bulb" experiment.
+10.	Replacing a bulb on a movie projector.
+11.	Focusing the lens on your camera.
+12.	Changing the eyepiece on a microscope.
+13.	Using a thermometer in order to record the boiling point of a heating solution.
+14.	You want to vote on an upcoming referendum on student activities fees, and you are reading about it so that you might make an informed choice.
+15.	Having a fellow student watch you perform an experiment in the lab.
+16.	Visiting the Museum of Science and Industry and being asked to explain atomic energy to a 12-year old.
+17.	Studying for a final exam in English, History, or Philosophy.
+18.	Mixing the proper amount of baking soda and water to put on a bee sting.
+19.	Igniting a Coleman stove in preparation for cooking outdoors.
+20.	Tuning your guitar to a piano or some other musical instrument.
+21.	Filling your bicycle tires with the right amount of air.
+22.	Memorizing a chart of historical dates.
+23.	In a Physics discussion group, reading a chapter on Quantum Systems and being asked to answer some questions.
+24.	Having a fellow student listen to you read in a foreign language.
+25.	Reading signs on buildings in a foreign country.
+26.	Memorizing the names of elements in the periodic table.
+27.	Having your music teacher listen to you as you play an instrument.
+28.	Reading the Theater page of Time magazine and having one of your friends ask your opinion on what you have read.
+29.	Adding minute quantities of acid to a base solution in order to neutralize it.
+30.	Precisely inflating a balloon to be used as apparatus in a Physics experiment.
+31.	Lighting a Bunsen burner in the preparation of an experiment.
+32.	A vote is coming up on the issue of nuclear power plants, and you are reading background material in order to decide how to vote.
+33.	Using a tuning fork in an acoustical experiment.
+34.	Mixing boiling water and ice to get water at 70 degrees Fahrenheit.
+35.	Studying for a midterm in an History course.
+36.	Having your professor watch you perform an experiment in the lab.
+37.	Having a teaching assistant watch you perform an experiment in the lab.  
+38.	Focusing a microscope.
+39.	Using a meat thermometer for the first time, and checking the temperature periodically till the meat reaches the desired       "doneness."
+40.	Having a teaching assistant watch you draw in Art class.
+41.	Reading the Science page of Time magazine and having one of your friends ask your opinion on what you have read.
+42.	Studying for a final exam in Chemistry, Physics, or Biology.
+43.	Being asked to explain the artistic quality of pop art to a 7th grader on a visit to the Art Museum.
+44.	Asking a question in an English Literature class.
 
 SCIENCE ATTITUDES QUESTIONNAIRE
 
