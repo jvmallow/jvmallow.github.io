@@ -80,8 +80,8 @@ SCIENCE ANXIETY QUESTIONNAIRE
 
 The items in the questionnaire refer to things and experiences that may cause fear or apprehension. After each item, place a number that describes how much YOU ARE FRIGHTENED BY IT NOWADAYS.
 
+ 1.Not at all       2. A little      A fair amount          Much             Very much
 
----------------------------------------------------------------------------------------------------------------------------
  1.	Learning how to convert Celsius to Fahrenheit degrees as you travel in Canada.
  2.	In a Philosophy discussion group, reading a chapter on the Categorical Imperative and being asked to answer questions.
  3.	Asking a question in a science class.
