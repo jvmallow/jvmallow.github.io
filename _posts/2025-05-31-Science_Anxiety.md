@@ -133,6 +133,7 @@ The items in the questionnaire refer to things and experiences that may cause fe
 
 
 
+
 SCIENCE ATTITUDES QUESTIONNAIRE
 
 Instructions.  Please circle the number that best describes the degree to which you agree or disagree with each item below, using the following scale:
