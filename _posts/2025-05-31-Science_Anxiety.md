@@ -83,6 +83,8 @@ The items in the questionnaire refer to things and experiences that may cause fe
       1. Not at all  2. A little  3. A fair amount  4. Much  5. Very much
           
 
+
+
  1.	Learning how to convert Celsius to Fahrenheit degrees as you travel in Canada.
  2.	In a Philosophy discussion group, reading a chapter on the Categorical Imperative and being asked to answer questions.
  3.	Asking a question in a science class.
