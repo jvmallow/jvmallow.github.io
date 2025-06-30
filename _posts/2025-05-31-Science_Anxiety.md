@@ -79,6 +79,8 @@ We have used two questionnaires: one for anxieties, the other for attitudes. In 
 SCIENCE ANXIETY QUESTIONNAIRE
 
 The items in the questionnaire refer to things and experiences that may cause fear or apprehension. After each item, place a number that describes how much YOU ARE FRIGHTENED BY IT NOWADAYS.
+
+
 |1. Not at all     |2. A little      |3. A fair amount     |4. Much     |5. Very much
           
 
