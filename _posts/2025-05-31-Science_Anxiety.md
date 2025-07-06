@@ -41,7 +41,7 @@ Fear of Physics, H. Kastrup and J. V. Mallow, London: Institute of Physics (2023
 
 SOME PUBLICATIONS
 
-This is a (very) abridged list of of papers we have published, based on work in the US and Denmark, and including students in secondary schools and universities.
+This is a (very) abridged list of of papers that we and our colleagues have published, based on work in the US and Denmark, and including students in secondary schools and universities.
 
 “Gender-related Science Anxiety: A First Binational Study,” J. V. Mallow, Journal of Science Education and Technology 3, 227 (1994).
 
