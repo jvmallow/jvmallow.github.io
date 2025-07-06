@@ -224,7 +224,7 @@ Instructions.  Please circle the number that best describes the degree to which 
 
 WHAT WE HAVE FOUND
 
-Following are abstracts of some our research.
+Following are  summaries of some our research.
 
 
 
@@ -242,14 +242,14 @@ We present the results of a study designed to measure the level of science anxie
 
 Science Anxiety and Gender in Students taking General Education Science Courses” M. K. Udo, G. P. Ramsey, and J. V. Mallow, J. Sci. Educ. and Technol. 13, 435-446 (2004).
 
-Earlier studies [Mallow, J. V. (1994). Gender-related science anxiety: A first binational study. Journal of Science Education and Technology 3: 227–238; Udo, M. K., Ramsey, G. P., Reynolds-Alpert, S., and Mallow, J. V. (2001). Does physics teaching affect gender-based science anxiety? Journal of Science Education and Technology 10: 237–247] of science anxiety in various student cohorts suggested that nonscience majors were highly science anxious (SA), regardless of what science courses they were taking. In this study, we investigated science anxiety in a cohort consisting mostly of nonscience majors taking general education science courses. Regression analysis shows that the leading predictors of science anxiety are (i) nonscience anxiety and (ii) gender, as they were for different cohorts in the earlier studies. We confirm earlier findings that females are more SA than males. Chi-square analysis of acute science anxiety shows an amplification of these differences. We found statistically significant levels of science anxiety in humanities and social science students of both genders, and gender differences in science anxiety, despite the fact that the students were all enrolled in general education science courses specifically designed for nonscience majors. We found acute levels of anxiety in several groups, especially education, nursing, and business majors. 
+Earlier studies of science anxiety in various student cohorts suggested that nonscience majors were highly science anxious (SA), regardless of what science courses they were taking. In these studies, we investigated science anxiety in cohortd consisting mostly of nonscience majors taking general education science courses. Regression analysis shows that the leading predictors of science anxiety are (i) nonscience anxiety and (ii) gender, as they were for different cohorts in the earlier studies. We confirm earlier findings that females are more SA than males. Chi-square analysis of acute science anxiety shows an amplification of these differences. We found statistically significant levels of science anxiety in humanities and social science students of both genders, and gender differences in science anxiety, despite the fact that the students were all enrolled in general education science courses specifically designed for nonscience majors. We found acute levels of anxiety in several groups, especially education, nursing, and business majors. 
 
 
 “Science Anxiety, Science Attitudes, and Constructivism: A Binational Study,” F. Bryant, H. Kastrup, M. Udo, N. Hislop, R. Shefner, and J. Mallow, Journal of Science Education and Technology 22, 432-448 (2013).
 
 Students’ attitudes and anxieties about science were measured by responses to two self-report questionnaires. The cohorts were Danish and American students at the upper secondary- and university-levels. Relationships between and among science attitudes, science anxiety, gender, and nationality were examined. Particular attention was paid to constructivist attitudes about science. These fell into at least three broad conceptual categories: Negativity of Science Toward the Individual, Subjective Construction of Knowledge, and Inherent Bias Against Women. Multigroup confirmatory factor analyses revealed that these dimensions of constructivist attitudes were equally applicable and had the same meaning in both cultures. Gender differences in mean levels of constructivist attitudes were found; these varied across the two cultures. Constructivist beliefs were associated with science anxiety, but in different ways for females and males, and for Danes and Americans. In agreement with earlier studies, females in both the US and Danish cohorts were significantly more science anxious than males, and the gender differences for the Americans were larger than those for the Danes. 
 
-Our work s what is called "action research". We don't just carry out studies, we take action to change attitudes and anxieties: teaching students science skills as well as science anxiety reduction tehcniques, working with educators to recognize anxiety-producing teaching and how to change it, bringing school administrators into the discussion, and more.  
+Our work is what is called "action research". We don't just carry out studies, we take action to change attitudes and anxieties: teaching students science skills as well as science anxiety reduction tehcniques, working with educators to recognize anxiety-producing teaching and how to change it, bringing school administrators into the discussion, and more.  
 
 
 
