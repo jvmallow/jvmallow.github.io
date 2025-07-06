@@ -12,7 +12,7 @@ Many years ago, in what was an otherwise relatively humorless existence as a doc
 Many books are written about the meaning and purpose(s) of humor. Some have focused on Jewish humor. I have written one: 
 Our Pal God and Other Presumptions
 https://www.iuniverse.com/en/bookstore/bookdetails/108093-OUR-PAL-GOD-and-Other-Presumptions.
-Here are some of the jokes therein and newer ones thereout. I'll upload one or more each week. Watch this space!  
+Here are some of the jokes therein and newer ones thereout. 
 
 Here are a few themes and examples.
 
@@ -60,6 +60,9 @@ They go further and stop at another beautiful building.
 Finally, the bus stops in front of a beautiful church.
 “And this is the famous Christ Church,” says the guide.
 Mollie grabs Morrie’s arm and mutters, “Don't you open your mouth."
+
+
+I'll upload more each week. Watch this space!  
 
 
 
