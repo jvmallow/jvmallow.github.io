@@ -17,16 +17,14 @@ Here are some of the jokes therein and newer ones thereout. I'll upload one or m
 Here are a few themes and examples>
 
 THE OLDEST JEWISH JOKE–PROBABLY
-
 It would be impossible to say what the oldest Jewish joke is. But the oldest Jewish joke theme is probably the Ten Commandments. After smashing the first set of tablets, Moses returns with the second set.
 
 “I have good news and bad news,” he announces to the assembled Israelites. “The good news is, I got Him down to only ten. The bad news is, adultery stays in.”
 
 THE NEWEST JEWISH JOKE-PROBABLY
-
 A priest, a minister, and a rabbit walk into  bar.  The bartender asks the rabbit, "What are you doing here?" The rabbit answers, "I came in on Autocorrect."
 
-Heres a few more, on different theme.s
+Here's a few more, on different themes.
 
 In honor of his twenty-fifth year of service, a rabbi receives an all-expenses paid trip to Miami from his congregation. When he checks into his suite at the Hotel Fontainbleau, he discovers a beautiful woman, naked on the bed.
 “What are you doing here?” he asks.
