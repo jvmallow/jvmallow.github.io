@@ -16,10 +16,12 @@ https://www.iuniverse.com/en/bookstore/bookdetails/108093-OUR-PAL-GOD-and-Other-
 Here are some of the jokes therein and newer ones thereout.
 
 Probably the oldest Jewish joke:
-It would be impossible to say what the oldest Jewish joke is. But the oldest Jewish joke theme is probably the Ten Commandments. After smashing the first set of tablets, Moses returns with the second set.
+
+After smashing the first set of tablets, Moses returns with the second set.
 “I have good news and bad news,” he announces to the assembled Israelites. “The good news is, I got Him down to only ten. The bad news is, adultery stays in.”
 
 Probably the newest Jewish joke:
+
 A priest, a minister, and a rabbit walk into  bar.  The bartender asks the rabbit, "What are you doing here?" The rabbit answers, "I came in on Autocorrect."
 
 Here are a few more.
