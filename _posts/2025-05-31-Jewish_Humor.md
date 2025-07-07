@@ -32,15 +32,14 @@ The rabbi stalks over to the phone, places a call to the president of the synago
 He turns around to see the woman getting dressed. “Where are you going?” says the rabbi. “I’m not mad at you.”
 
 A fellow is visiting a strange town when he notices his watch has stopped. He walks down the main street and comes upon a storefront filled with watches in display cases, in the windows, and on the walls. He walks in and asks the proprietor to repair his watch.
-“I don’t fix watches. I’m a moyhel,” is the reply.
+“I don’t fix watches. I’m a moyhel (circumciser),” is the reply.
 “Then why do you have watches displayed everywhere?” asks the frustrated customer.
 The proprietor replies, “So what would you like me to display?”
 
-The early twentieth-century Yiddish writer Sholem Asch, who wrote controversial novels about Jesus and Mary, had a reputation as a cheapskate. Legend has it that, in the1920s, Asch was visiting the Sea of Galilee, near the locale of the Sermon on the Mount, and wanted to take a boat across to the other side. When the oarsman quoted him the price of the ride, Asch reputedly said, “No wonder Jesus walked!”
+The early twentieth-century Yiddish writer Sholem Asch, who wrote controversial novels about Jesus and Mary, had a reputation as a cheapskate. Legend has it that in the1920s, Asch was visiting the Sea of Galilee, near the locale of the Sermon on the Mount, and wanted to take a boat across to the other side. When the oarsman quoted him the price of the ride, Asch reputedly said, “No wonder Jesus walked!”
 
 A Jew is walking down the streets of Moscow when the czar’s carriage drives by. The czar, in a Jew-baiting mood, orders his driver to stop. He dismounts and tells the Jew, “Get down in the gutter behind my horses, and eat what you find there.”
-The poor Jew complies. When he’s finally allowed to rise, he is so humiliated that he takes the chance of his life. He overpowers the driver, wrests his pistol from him, points it at the czar, and says, “Now you get down behind your horses and eat what’s there.” The czar complies.
-After he finishes, the Jew, holding them at bay, disappears into an alley and runs off home.
+The poor Jew complies. When he’s finally allowed to rise, he is so humiliated that he takes the chance of his life. He overpowers the driver, wrests his pistol from him, points it at the czar, and says, “Now you get down behind your horses and eat what’s there.” The czar complies. After he finishes, the Jew, holding them at bay, disappears into an alley and runs off home.
 When he arrives, his wife asks, “Anything interesting happen today?”
 “You’ll never guess who I had lunch with.”
 
