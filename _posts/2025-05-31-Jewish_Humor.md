@@ -13,7 +13,6 @@ Many books are written about the meaning and purpose(s) of humor. Some have focu
 Our Pal God and Other Presumptions
 https://www.iuniverse.com/en/bookstore/bookdetails/108093-OUR-PAL-GOD-and-Other-Presumptions.
 
-
 Here are some of the jokes therein and newer ones thereout.
 
 Probably the oldest Jewish joke:
