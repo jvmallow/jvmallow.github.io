@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-Welcome to my website! I am a physicist, Yiddishist, and humorist. I have a Ph.D. in Physics and a Bachelor's degree in Jewish Literature. I have lectured and published widely in both, about fifty-fifty.  I am the author or co-author of seven books, with an eighth to be published in 2026: Helge Kastrup and Jeffry V. Mallow, ""Breakthroughs: Outstanding Physicists, Their Lives and Accomplishments"".
+Welcome to my website! I am a physicist, Yiddishist, and humorist. I have a Ph.D. in Physics and a Bachelor's degree in Jewish Literature. I have lectured and published widely in both, about fifty-fifty.  I am the author or co-author of seven books, with an eighth to be published in 2026: Helge Kastrup and Jeffry V. Mallow, Breakthroughs: Outstanding Physicists, Their Lives and Accomplishments". ITALICIZE.
 
 I am a member of several organizations, among them the American Association of Physics Teachers and the YIVO Institute for Jewish Research. I grew up in the Bronx and moved to Chicago for my Ph.D. I have lived in Israel, as a post-doctoral researcher in theoretical physics at the Hebrew University of Jerusalem and a chicken farmer on a kibbutz. I have also lived in Denmark, working on science anxiety reduction at Roskilde University, about 45 minutes west of Copenhagen. I have made frequent visits to France with my wife, Ann, who is Franco-American. (No relation to the spaghetti.)
 
