@@ -193,7 +193,7 @@ Instructions.  Please circle the number that best describes the degree to which 
 
 WHAT WE HAVE FOUND
 
-Following are  summaries of some our research. Links appear in the list above.
+Following are  summaries of some our research.
 
 “Gender-related Science Anxiety: A First Binational Study,” J. V. Mallow, Journal of Science Education and Technology 3, 227 (1994).
 https://link.springer.com/article/10.1007/BF01575898
@@ -220,7 +220,7 @@ Earlier studies of science anxiety in various student cohorts suggested that non
 
 Students’ attitudes and anxieties about science were measured by responses to two self-report questionnaires. The cohorts were Danish and American students at the upper secondary- and university-levels. Relationships between and among science attitudes, science anxiety, gender, and nationality were examined. Particular attention was paid to constructivist attitudes about science. These fell into at least three broad conceptual categories: Negativity of Science Toward the Individual, Subjective Construction of Knowledge, and Inherent Bias Against Women. Multigroup confirmatory factor analyses revealed that these dimensions of constructivist attitudes were equally applicable and had the same meaning in both cultures. Gender differences in mean levels of constructivist attitudes were found; these varied across the two cultures. Constructivist beliefs were associated with science anxiety, but in different ways for females and males, and for Danes and Americans. In agreement with earlier studies, females in both the US and Danish cohorts were significantly more science anxious than males, and the gender differences for the Americans were larger than those for the Danes. 
 
-Our work is what is called "action research". We don't just carry out studies, we take action to change attitudes and anxieties: teaching students science skills as well as science anxiety reduction tehcniques, working with educators to recognize anxiety-producing teaching and how to change it, bringing school administrators into the discussion, and more.  
+Our work is what is called "action research". We don't just carry out studies, we take action to change attitudes and anxieties: teaching students science skills as well as science anxiety reduction techniques, working with educators to recognize anxiety-producing teaching and how to change it, bringing school administrators into the discussion, and more.  
 
 
 
