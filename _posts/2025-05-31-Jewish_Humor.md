@@ -19,6 +19,7 @@ GRAPHIC Book cover
 
 Here are some of the jokes therein and newer ones thereout.
 
+SPACING?
 
 Probably the oldest Jewish joke:
 
