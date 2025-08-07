@@ -19,16 +19,19 @@ GRAPHIC Book cover
 
 Here are some of the jokes therein and newer ones thereout.
 
+
 Probably the oldest Jewish joke:
 
 After smashing the first set of tablets, Moses returns with the second set.
-
 “I have good news and bad news,” he announces to the assembled Israelites. “The good news is, I got Him down to ten. The bad news is, adultery stays in.”
 
 Probably the newest Jewish joke:
 
+
 A priest, a minister, and a rabbit walk into a bar.  
+
 The bartender asks the rabbit, "What are you doing here?" 
+
 The rabbit answers, "I came in on Autocorrect."
 
 Here are a few more.
