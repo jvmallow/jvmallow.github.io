@@ -55,39 +55,45 @@ He turns around to see the woman getting dressed.
 ~~~
 
 ~~~
-A fellow is visiting a strange town when he notices his watch has stopped.
-He walks down the main streetand comes upon a storefront filled with watches
+A fellow is visiting a strange town when he notices
+his watch has stopped.He walks down the main street
+and comes upon a storefront filled with watches
 in display cases, in the windows, and on the walls.
 He walks in and asks the proprietor to repair his watch.
-“I don’t fix watches. I’m a moyhel (circumciser),” is the reply.
-“Then why do you have watches displayed everywhere?” asks the
-frustrated customer.
+“I don’t fix watches. I’m a moyhel (circumciser),”
+is the reply.
+“Then why do you have watches displayed everywhere?”
+asks thefrustrated customer.
 “So what would you like me to display?”
 ~~~
 
 ~~~
 The early twentieth-century Yiddish writer Sholem Asch,
 who wrote controversial novels about Jesus and Mary,
-had a reputation as a cheapskate. Legend has it that in the 1920s,
-Asch was visiting the Sea of Galilee,
-near the locale of the Sermon on the Mount,
-and wanted to take a boat across to the other side. W
-hen the oarsman quoted him the price of the ride,
+had a reputation as a cheapskate.Legend has it
+that in the 1920s,Asch was visiting the
+Sea of Galilee,near the locale of the
+Sermon on the Mount,and wanted to take a boat
+across to the other side. When the oarsman
+quoted him the price of the ride,
 Asch reputedly said, “No wonder Jesus walked!”
 ~~~
 
 ~~~
-A Jew is walking down the streets of Moscow when the czar’s carriage drives by.
-The czar, in a Jew-baiting mood, orders his driver to stop.
-He dismounts and tells the Jew,“Get down in the gutter behind my horses, and
+A Jew is walking down the streets of Moscow when the czar’s
+carriage drives by.The czar, in a Jew-baiting mood,
+orders his driver to stop.He dismounts and tells the Jew,
+“Get down in the gutter behind my horses, and
 eat what you find there.”
-The poor Jew complies. When he’s finally allowed to rise, he is so
-humiliated that he takesthe chance of his life. He overpowers the driver,
-wrests his pistol from him, points it at the czar, and says, “Now you get down
+The poor Jew complies. When he’s finally allowed to rise,
+he is sohumiliated that he takesthe chance of his life.
+He overpowers the driver,wrests his pistol from him,
+points it at the czar, and says, “Now you get down
 behind your horses and eat what’s there.” The czar complies.
 After he finishes, the Jew, holding them at bay,
 disappears into an alley and runs off home.
-When he arrives, his wife asks, “Anything interesting happen today?”
+When he arrives, his wife asks,
+“Anything interesting happen today?”
 “You’ll never guess who I had lunch with.”
 
 ~~~
@@ -102,12 +108,14 @@ The rabbi goes out to his Jaguar and saws two inches off the tailpipe.
 ~~~
 
 ~~~
-Mrs. Yoshimura, a Japanese senior citizen on her first trip
-to America, comes into Macy’s Department store in Manhattan.
+Mrs. Yoshimura, a Japanese senior citizen
+on her first tripto America, comes
+into Macy’s Department store in Manhattan.
 She walks up to Mrs. Cohen, a Jewish saleslady
 about her own age,and asks, “Can you tell me
 where the cosmetics department is?”
-“Oh,” says Mrs. Cohen, “Pearl Harbor you could find?”
+“Oh,” says Mrs. Cohen,
+“Pearl Harbor you could find?”
 ~~~
 
 ~~~
