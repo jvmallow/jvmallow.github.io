@@ -24,8 +24,10 @@ SPACING?
 Probably the oldest Jewish joke:
 
 ~~~
-After smashing the first set of tablets, Moses returns with the second set.
-“I have good news and bad news,” he announces tothe assembled Israelites. 
+After smashing the first set of tablets, Moses returns
+with the second set.
+“I have good news and bad news,” he announces
+to the assembled Israelites. 
 “The good news is, I got Him down to ten.
 The bad news is, adultery stays in.”
 ~~~
@@ -51,7 +53,7 @@ the president of the synagogue, and proceeds to berate him.
 “How could you do such a thing? I’m shocked and appalled!”
 And he slams down the phone.
 He turns around to see the woman getting dressed. 
-“Where are you going?” says the rabbi. “I’m not mad at *you*.”
+“Where are you going?” says the rabbi. “I’m not mad at you.”
 ~~~
 
 ~~~
