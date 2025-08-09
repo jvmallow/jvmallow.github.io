@@ -51,9 +51,9 @@ he discovers a beautiful woman, naked on the bed.
 surprise.” The rabbi stalks over to the phone, places a call to
 the president of the synagogue, and proceeds to berate him.
 “How could you do such a thing? I’m shocked and appalled!”
-And he slams down the phone.
-He turns around to see the woman getting dressed. 
-“Where are you going?” says the rabbi. “I’m not mad at you.”
+*And he slams down the phone.*
+He *turns around to see the woman* getting dressed. 
+“Where are you going?” says the rabbi. “ *I’m not mad at you.* ”
 ~~~
 
 ~~~
