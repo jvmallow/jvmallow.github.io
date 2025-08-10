@@ -7,12 +7,7 @@ tags: [Jewish Humor]
 ---
 
 
-Many years ago, in what was an otherwise relatively humorless existence as a doctoral student in physics, I began collecting Jewish jokes. It started simply. I heard a joke, retold it, and exchanged jokes with friends. I then began collecting books of Jewish humor—first in Yiddish and then in other languages as well. As my collection grew, a kind of growth principle took over, like a runaway nuclear chain reaction. For every joke I told, I acquired at least two new ones in exchange. In short order, the thing was completely out of hand. I took to carrying blank scraps of paper to Jewish events in case I heard new jokes. In extreme cases, I wrote them down on the napkins. (Jewish events always include food, and physicists are adept at napkin-writing.) I began doing stand-up comedy. Sometimes, it was in the guise of a lecture on Jewish humor; other times, it was club dates with Chicago’s Maxwell Street Klezmer Band. 
-
-GRAPHIC Maxwell Street Klezmer Band. 
-
-Many books are written about the meaning and purpose(s) of humor. Some have focused on Jewish humor. I have written one: 
-*Our Pal God and Other Presumptions*
+Many years ago, in what was an otherwise relatively humorless existence as a doctoral student in physics, I began collecting Jewish jokes. It started simply. I heard a joke, retold it, and exchanged jokes with friends. I then began collecting books of Jewish humor—first in Yiddish and then in other languages as well. As my collection grew, a kind of growth principle took over, like a runaway nuclear chain reaction. For every joke I told, I acquired at least two new ones in exchange. In short order, the thing was completely out of hand. I took to carrying blank scraps of paper to Jewish events in case I heard new jokes. In extreme cases, I wrote them down on the napkins. (Jewish events always include food, and physicists are adept at napkin-writing.) I began doing stand-up comedy. Sometimes, it was in the guise of a lecture on Jewish humor; other times, it was club dates with Chicago’s Maxwell Street Klezmer Band. Cinally, I took the best of my collection and wrote a book: *Our Pal God and Other Presumptions*
 https://www.amazon.com/Our-Pal-God-Other-Presumptions/dp/1583486283
 
 GRAPHIC Book cover
@@ -52,20 +47,20 @@ surprise.” The rabbi stalks over to the phone, places a call to
 the president of the synagogue, and proceeds to berate him.
 “How could you do such a thing? I’m shocked and appalled!”
 And he slams down the phone.
-He turns around to see the woman* getting dressed. 
+He turns around to see the woman getting dressed. 
 “Where are you going?” says the rabbi. “ I’m not mad at you. ”
 ~~~
 
 ~~~
 A fellow is visiting a strange town when he notices
 his watch has stopped. He walks down the main street
-and comes upon a storefront filled with watches
+and comes upon a storefront filled with watches:
 in display cases, in the windows, and on the walls.
 He walks in and asks the proprietor to repair his watch.
 “I don’t fix watches. I’m a moyhel (circumciser),”
 is the reply.
 “Then why do you have watches displayed everywhere?”
-asks thefrustrated customer.
+asks the frustrated customer.
 “So what would you like me to display?”
 ~~~
 
@@ -73,22 +68,22 @@ asks thefrustrated customer.
 The early twentieth-century Yiddish writer Sholem Asch,
 who wrote controversial novels about Jesus and Mary,
 had a reputation as a cheapskate. Legend has it
-that in the 1920s,Asch was visiting the
-Sea of Galilee,near the locale of the
-Sermon on the Mount,and wanted to take a boat
+that in the 1920s, Asch was visiting the
+Sea of Galilee, near the locale of the
+Sermon on the Mount, and wanted to take a boat
 across to the other side. When the oarsman
 quoted him the price of the ride,
-Asch reputedly said, “No wonder Jesus walked!”
+Asch reputedly said, “No wonder Jesus walked.”
 ~~~
 
 ~~~
 A Jew is walking down the streets of Moscow when the czar’s
 carriage drives by.The czar, in a Jew-baiting mood,
-orders his driver to stop. He dismounts and tells the Jew,
+orders his driver to stop. He tells the Jew,
 “Get down in the gutter behind my horses, and
 eat what you find there.”
 The poor Jew complies. When he’s finally allowed to rise,
-he is so humiliated that he takesthe chance of his life:
+he is so humiliated that he takes the chance of his life.
 He overpowers the driver, wrests his pistol from him,
 points it at the czar, and says, “Now you get down
 behind your horses and eat what’s there.” The czar complies.
@@ -111,8 +106,8 @@ The rabbi goes out to his Jaguar and saws two inches off the tailpipe.
 
 ~~~
 Mrs. Yoshimura, a Japanese senior citizen
-on her first tripto America, comes
-into Macy’s Department store in Manhattan.
+on her first trip to America, comes
+into Macy’s department store in Manhattan.
 She walks up to Mrs. Cohen, a Jewish saleslady
 about her own age,and asks, “Can you tell me
 where the cosmetics department is?”
