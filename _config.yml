@@ -5,10 +5,10 @@
 # Site name (followed by page title)
 name: Jeffry V. Mallow
 name_font: Papyrus,fantasy
-tagline: Professor of Physics, Emeritus, Loyola University Chicago
+tagline: 
 
 # Short description on home page
-description: <br/><font size=4>Physicist, Yiddishist, and humorist</font>
+description: <font size=5>Professor of Physics, Emeritus, Loyola University Chicago<br/>Physicist, Yiddishist, and humorist</font>
 
 # Picture on home page
 avatar: /images/jvmallow.jpeg
