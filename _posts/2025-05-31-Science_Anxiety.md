@@ -32,7 +32,7 @@ In 1996, at a Nordic science educators' conference in Sweden, I had the good for
 
 Our first book is on general science anxiety (dedicated to the memory of Bjørn Felsager):
 
-Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)  [URL](https://iopscience.iop.org/book/mono/978-1-6817-4265-6.pdf)
+<img src="https://github.com/jvmallow/jvmallow.github.io/blob/main/images/student_attitudes.jpg?raw=true" style="float:right; width:50; margin:10" />Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)  [URL](https://iopscience.iop.org/book/mono/978-1-6817-4265-6.pdf)
 
 Our second book is on physics anxiety in particular: 
 
