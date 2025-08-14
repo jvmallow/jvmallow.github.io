@@ -22,8 +22,9 @@ We have also found strong correlations between students' attitudes towards scien
 
 
 
- THE DANISH CONNECTION 
- https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/250px-Flag_of_Denmark.svg.png
+ 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/250px-Flag_of_Denmark.svg.png" style="float:right" />
+THE DANISH CONNECTION 
  
 In 1987 I received a message from Karin Beyer, a faculty member at Roskilde University, Denmark. She and several other science teachers of university and gymnasium (approximately equivalent to high school), several females and one male, would be coming to a meeting in Arbor, Michigan on gender and science education, and could they pass through Chicago and meet me? It turns out they had read my book Science Anxiety and were especially interested in my take on gender. So we met, and the rest is history. Here's the history. We really clicked, both intellectually and personally, and established regular contact. In 1988, they invited my wife Ann and me to visit. There I met with a large variety of educators, and all in all had a great time. When we got home, Ann said, "Get a leave of absence, get a a grant, and get us over there." It took almost three years, but we did it (studying Danish in the meantime). In 1991, I was awarded a Fulbright Fellowship to Denmark and a visiting professorship at Roskilde. My Danish colleagues and I investigated science anxiety among university students, with special attention to gender differences. We later expanded these studies to gymnasiums and teachers' colleges. Ann and I also became very good friends with some of of the "Ann Arbor Group", Karin Beyer, Mette Vedelsby, Sussanne Blegaa, and Helene Sørensen. The one male, Bjørn Felsager, was also a good friend, but sadly, he is no longer with us. Since then we have returned many times, twice for a semester as a vsiting professor at Roskilde, and the rest for more research on science anxiety and for visits with friends.
 
@@ -31,11 +32,11 @@ In 1996, at a Nordic science educators' conference in Sweden, I had the good for
 
 Our first book is on general science anxiety (dedicated to the memory of Bjørn Felsager):
 
-Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)  https://iopscience.iop.org/book/mono/978-1-6817-4265-6.pdf
+Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)  [URL](https://iopscience.iop.org/book/mono/978-1-6817-4265-6.pdf)
 
 Our second book is on physics anxiety in particular: 
 
-Fear of Physics, H. Kastrup and J. V. Mallow, London: Institute of Physics (2023).  https://store.ioppublishing.org/page/detail/Fear-of-Physics//?k=9780750348645
+Fear of Physics, H. Kastrup and J. V. Mallow, London: Institute of Physics (2023). [URL](https://store.ioppublishing.org/page/detail/Fear-of-Physics//?k=9780750348645)
 
 
 OUR STUDIES' QUESTIONNAIRES
@@ -50,7 +51,7 @@ SCIENCE ANXIETY QUESTIONNAIRE
 The items in the questionnaire refer to things and experiences that may cause fear or apprehension. After each item, place a number that describes how much YOU ARE FRIGHTENED BY IT NOWADAYS.
 
 
-|1. Not at all|     |2. A little|      |3. A fair amount|     |4. Much|     |5. Very much|
+<table><tr><td>1. Not at all</td><td>2. A little</td><td>3. A fair amount</td><td>4. Much</td><td>5. Very much</td></tr></table>
           
 
  1.	Learning how to convert Celsius to Fahrenheit degrees as you travel in Canada.
@@ -106,10 +107,8 @@ SCIENCE ATTITUDES QUESTIONNAIRE
 
 Instructions.  Please circle the number that best describes the degree to which you agree or disagree with each item below, using the following scale:
 
-  |1. Strongly disagree| 	      |2. Disagree| 	         |3. Neutral| 	          |4. Agree|	          |5. Strongly agree|
+<table><tr><td>1. Strongly disagree</td><td>2. Disagree</td><td>3. Neutral</td><td>4. Agree</td><td>5. Strongly agree</td></tr></table>
    
-----------------------------------------------------------------------------------------------------------------------------------
-
 45. Science reflects the social and political values, philosophical assumptions, and intellectual norms of the culture in which it is practiced. 
 
 46. Science is a “level playing-field” in which men and women have equal status and opportunity.
@@ -196,27 +195,27 @@ WHAT WE HAVE FOUND
 Following are  summaries of some our research.
 
 “Gender-related Science Anxiety: A First Binational Study,” J. V. Mallow, Journal of Science Education and Technology 3, 227 (1994).
-https://link.springer.com/article/10.1007/BF01575898
+[URL](https://link.springer.com/article/10.1007/BF01575898)
 
 An investigation was carried out to ascertain whether science anxiety as measured by a self-reporting instrument was related to gender for groups of American and Danish students aged 17 and up. In both national groups, females scored significantly higher on a variety of science anxiety measures than did males. Science anxiety proved to be also related to general anxiety and to field of study, but not significantly to national group, albeit the Danish group as a whole registered somewhat lower than the American group, and in particular, Danish fermales registered lower than American males.
 
 
 
-“Does Physics Teaching Affect Gender-based Science Anxiety?” M. K. Udo, G. P. Ramsey, S. Reynolds-Alpert, and J. V. Mallow, Journal of Science Education and Technology 10,  237-247 (2001). “Does Physics Teaching Affect Gender-based Science Anxiety?” M. K. Udo, G. P. Ramsey, S. Reynolds-Alpert, and J. V. Mallow, Journal of Science Education and Technology 10,  237-247 (2001).
-https://www.per-central.org/items/detail.cfm?ID=2986#:~:text=In%20general%2C%20males%20start%20and,exposure%20to%20a%20physics%20course.
+“Does Physics Teaching Affect Gender-based Science Anxiety?” M. K. Udo, G. P. Ramsey, S. Reynolds-Alpert, and J. V. Mallow, Journal of Science Education and Technology 10,  237-247 (2001). “Does Physics Teaching Affect Gender-based Science Anxiety?” M. K. Udo, G. P. Ramsey, S. Reynolds-Alpert, and J. V. Mallow, Journal of Science Education and Technology 10,  237-247 (2001)
+[URL](https://www.per-central.org/items/detail.cfm?ID=2986#:~:text=In%20general%2C%20males%20start%20and,exposure%20to%20a%20physics%20course).
 
 We present the results of a study designed to measure the level of science anxiety in students enrolled in physics courses at Loyola University Chicago. We undertook this study with two objectives: (1) to determine the factors contributing to science anxiety; in particular, to ascertain whether the leading factors identified in an earlier study have remained constant over time, and (2) to investigate whether science anxiety was affected by a semester of introductory physics. This is the first study of its kind, analyzing science anxiety in pre- and posttests of a cohort composed entirely of students taking physics courses. We find that the leading factors contributing to science anxiety are nonscience anxiety, gender, and to a much lesser degree, course of study (major), in agreement with earlier results. In general, males start and end the course with somewhat less science anxiety (and nonscience anxiety) than females. Post-course responses indicated some improvement in nonscience anxiety and in science anxiety for both genders. Acute levels of science anxiety were somewhat decreased by exposure to a physics course. Different pedagogies and gender role models may correlate with anxiety reduction.
 
 
 
 “Science Anxiety and Gender in Students taking General Education Science Courses” M. K. Udo, G. P. Ramsey, and J. V. Mallow, J. Sci. Educ. and Technol. 13, 435-446 (2004).
-https://eric.ed.gov/?id=EJ744866
+[URL](https://eric.ed.gov/?id=EJ744866)
 
 Earlier studies of science anxiety in various student cohorts suggested that nonscience majors were highly science anxious (SA), regardless of what science courses they were taking. In these studies, we investigated science anxiety in cohortd consisting mostly of nonscience majors taking general education science courses. Regression analysis shows that the leading predictors of science anxiety are (i) nonscience anxiety and (ii) gender, as they were for different cohorts in the earlier studies. We confirm earlier findings that females are more SA than males. Chi-square analysis of acute science anxiety shows an amplification of these differences. We found statistically significant levels of science anxiety in humanities and social science students of both genders, and gender differences in science anxiety, despite the fact that the students were all enrolled in general education science courses specifically designed for nonscience majors. We found acute levels of anxiety in several groups, especially education, nursing, and business majors. 
 
 
 “Gender, Science Anxiety, and Constructivism : a Binational Study,” J. V. Mallow and H. Kastrup, Proceedings LMFK, Akureyri, Iceland (2005)
-[https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education)]
+[URL](https://en.wikipedia.org/wiki/Constructivism_(philosophy_of_education))
 
 Students’ attitudes and anxieties about science were measured by responses to two self-report questionnaires. The cohorts were Danish and American students at the upper secondary- and university-levels. Relationships between and among science attitudes, science anxiety, gender, and nationality were examined. Particular attention was paid to constructivist attitudes about science. These fell into at least three broad conceptual categories: Negativity of Science Toward the Individual, Subjective Construction of Knowledge, and Inherent Bias Against Women. Multigroup confirmatory factor analyses revealed that these dimensions of constructivist attitudes were equally applicable and had the same meaning in both cultures. Gender differences in mean levels of constructivist attitudes were found; these varied across the two cultures. Constructivist beliefs were associated with science anxiety, but in different ways for females and males, and for Danes and Americans. In agreement with earlier studies, females in both the US and Danish cohorts were significantly more science anxious than males, and the gender differences for the Americans were larger than those for the Danes. 
 
