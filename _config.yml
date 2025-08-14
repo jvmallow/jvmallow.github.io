@@ -99,9 +99,6 @@ collections:
   yiddish:
     output: true
     directory: /yiddish
-  zionism:
-    output: true
-    directory: /zionism
   humor:
     output: true
     directory: /humor
