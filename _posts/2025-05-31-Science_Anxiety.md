@@ -54,7 +54,7 @@ We have used two questionnaires: one for anxieties, the other for attitudes. In 
 The items in the questionnaire refer to things and experiences that may cause fear or apprehension. After each item, place a number that describes how much YOU ARE FRIGHTENED BY IT NOWADAYS.
 
 
-    [_] Not at all      [_] A little      [_] A fair amount     [_] Much       [_] Very much
+    [_] Not at all  [_] A little  [_] A fair amount  [_] Much  [_] Very much
           
 
  1.	Learning how to convert Celsius to Fahrenheit degrees as you travel in Canada.
@@ -109,7 +109,7 @@ The items in the questionnaire refer to things and experiences that may cause fe
 
 Instructions.  Please circle the number that best describes the degree to which you agree or disagree with each item below, using the following scale:
 
-    [_] Strongly disagree    [_] Disagree    [_] Neutral    [_] Agree     [_] Strongly agree
+    [_] Strongly disagree  [_] Disagree  [_] Neutral  [_] Agree  [_] Strongly agree
    
 45. Science reflects the social and political values, philosophical assumptions, and intellectual norms of the culture in which it is practiced. 
 46. Science is a “level playing-field” in which men and women have equal status and opportunity.
