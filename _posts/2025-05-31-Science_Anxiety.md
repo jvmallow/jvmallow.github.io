@@ -109,7 +109,7 @@ The items in the questionnaire refer to things and experiences that may cause fe
 
 Instructions.  Please circle the number that best describes the degree to which you agree or disagree with each item below, using the following scale:
 
-   [_] Strongly disagree    [_] Disagree    [_] Neutral    [_] Agree     [_] Strongly agree
+    [_] Strongly disagree    [_] Disagree    [_] Neutral    [_] Agree     [_] Strongly agree
    
 45. Science reflects the social and political values, philosophical assumptions, and intellectual norms of the culture in which it is practiced. 
 46. Science is a “level playing-field” in which men and women have equal status and opportunity.
