@@ -39,14 +39,14 @@ Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Sc
 <img src="https://github.com/jvmallow/jvmallow.github.io/blob/main/images/fear_of_physics.jpg?raw=true" style="float:right; width:150px; margin-left:10px" />
 Our second book is on physics anxiety in particular: 
 
-Fear of Physics, H. Kastrup and J. V. Mallow, London: Institute of Physics (2023). [URL](https://store.ioppublishing.org/page/detail/Fear-of-Physics//?k=9780750348645)
+Fear of Physics, J. V. Mallow and H. Kastrup, London: Institute of Physics (2023). [URL](https://store.ioppublishing.org/page/detail/Fear-of-Physics//?k=9780750348645)
 
 
-## Our Studies' Questionnaires
+## Questionnaires
 
-We have used two questionnaires: one for anxieties, the other for attitudes. In some cases we studied anxieties alone; in others, we used both and compared them for correlation between attitudes and anxieties. The Science Anxiety Questionnaire was developed by Rosemarie Alvaro as part of her dissertation in the Loyola Applied Psychology Program.  It was first used by us in the Science Anxiety Clinic, subsequently on cohorts in the US and Denmark. The Science Attitudes Questionnaire was constructed by Fred Bryant, Loyola Professor of Psychology. It was used in conjunction with the Science Anxiety Questionnaire on cohorts in the US and Denmark. 
+In out various studies we have used two questionnaires: one for anxieties, the other for attitudes. In some cases we studied anxieties alone; in others, we used both and compared them for correlation between attitudes and anxieties. The Science Anxiety Questionnaire was developed by Rosemarie Alvaro as part of her dissertation in the Loyola Applied Psychology Program.  It was first used by us in the Science Anxiety Clinic, subsequently on cohorts in the US and Denmark. The Science Attitudes Questionnaire was constructed by Fred Bryant, Loyola Professor of Psychology. It was used in conjunction with the Science Anxiety Questionnaire on cohorts in the US and Denmark. 
 
- Here they are.
+Here they are.
 
 
 ### Science Anxiety Questionnaire
