@@ -90,7 +90,6 @@ disappears into an alley and runs off home.
 When he arrives, his wife asks,
 “Anything interesting happen today?”
 “You’ll never guess who I had lunch with.”
-
 ~~~
 
 ~~~
@@ -125,7 +124,6 @@ Finally, the bus stops in front of a beautiful church.
 “And this is the famous Christ Church,” says the guide.
 Mollie grabs Morrie’s arm and mutters, “Don't you open your mouth."
 ~~~
-
 
 I'll upload more each week. Watch this space!  
 
