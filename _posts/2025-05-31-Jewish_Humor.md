@@ -8,8 +8,8 @@ tags: [Jewish Humor]
 
 
 Many years ago, in what was an otherwise relatively humorless existence as a doctoral student in physics, I began collecting Jewish jokes. It started simply. I heard a joke, retold it, and exchanged jokes with friends. I then began collecting books of Jewish humor—first in Yiddish and then in other languages as well. As my collection grew, a kind of growth principle took over, like a runaway nuclear chain reaction. For every joke I told, I acquired at least two new ones in exchange. In short order, the thing was completely out of hand. I took to carrying blank scraps of paper to Jewish events in case I heard new jokes. In extreme cases, I wrote them down on the napkins. (Jewish events always include food, and physicists are adept at napkin-writing.) I began doing stand-up comedy. Sometimes, it was in the guise of a lecture on Jewish humor; other times, it was club dates with Chicago’s Maxwell Street Klezmer Band. 
-<img src="https://www.amazon.com/Our-Pal-God-Other-Presumptions/dp/1583486283" style="float:right;width:150px;margin-left:10px" />
-Finally, I took the best of my collection and wrote a book: *Our Pal God and Other Presumptions*
+<img src="https://m.media-amazon.com/images/I/41lIhMN7lcL._SY445_SX342_ControlCacheEqualizer_.jpg" style="float:right;width:150px;margin-left:10px" />
+Finally, I took the best of my collection and wrote a book: [*Our Pal God and Other Presumptions*](https://www.amazon.com/Our-Pal-God-Other-Presumptions/dp/1583486283)
 
 
 Here are some of the jokes therein and newer ones thereout.
