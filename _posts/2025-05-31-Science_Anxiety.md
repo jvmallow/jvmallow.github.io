@@ -9,7 +9,7 @@ tags: [Science_Anxiety]
 
 ## The Beginnings
 
-<img src="https://github.com/jvmallow/jvmallow.github.io/blob/main/images/science_anxiety.jpg?raw=true" style="float:right; width:150px; margin-left:10px" />In 1978, as a young assistant professor at Loyola University Chicago, I became aware that some students were doing poorly, although it seemed to me that they were bright and hardworking. What was going on? The term “science anxiety” leapt into mind, and I coined it forthwith. I hearkened back to my own days as an undergraduate physics major. I experienced crippling panic on exams, and did so poorly that my advisor told me that I was not smart enough to become a physicist. In the early 1970’s, the concept of math anxiety had been recognized and various measures were being taken to alleviate it, including “clinics”: small groups of math- anxious students working with mathematicians and psychologists. I proposed to the Loyola Counseling Center that we try a Science Anxiety Clinic. We did, and it worked. You can find the details in my first book, [Science Anxiety](https://www.amazon.com/Science-Anxiety-Fear-How-Overcome/dp/0943202183/ref=sr_1_1?crid=2EHYG3G32N1BX&dib=eyJ2IjoiMSJ9.7mMTW3yD1Okx3vaEzM7yNUEu2tSz2XeqCp5NM9YZasrGjHj071QN20LucGBJIEps.Q2CBVQ45Jtux99BiiRsqUx1rRMdFDo9JTAt8SUjX0NE&dib_tag=se&keywords=science+anxiety+mallow&qid=1755203310&sprefix=science+anxiety+mallow%2Caps%2C115&sr=8-1). It's from 1986, but most of it is still relevant.
+<img src="https://github.com/jvmallow/jvmallow.github.io/blob/main/images/science_anxiety.jpg?raw=true" style="float:right; width:150px; margin-left:10px" />In 1978, as a young assistant professor at Loyola University Chicago, I became aware that some students were doing poorly, although it seemed to me that they were bright and hardworking. What was going on? The term “science anxiety” leapt into mind, and I coined it forthwith. I hearkened back to my own days as an undergraduate physics major. I experienced crippling panic on exams, and did so poorly that my advisor told me that I was not smart enough to become a physicist. In the early 1970’s, the concept of math anxiety had been recognized and various measures were being taken to alleviate it, including “clinics”: small groups of math- anxious students working with mathematicians and psychologists. I proposed to the Loyola Counseling Center that we try a Science Anxiety Clinic. We did, and it worked. You can find the details in my first book, *[Science Anxiety]*(https://www.amazon.com/Science-Anxiety-Fear-How-Overcome/dp/0943202183/ref=sr_1_1?crid=2EHYG3G32N1BX&dib=eyJ2IjoiMSJ9.7mMTW3yD1Okx3vaEzM7yNUEu2tSz2XeqCp5NM9YZasrGjHj071QN20LucGBJIEps.Q2CBVQ45Jtux99BiiRsqUx1rRMdFDo9JTAt8SUjX0NE&dib_tag=se&keywords=science+anxiety+mallow&qid=1755203310&sprefix=science+anxiety+mallow%2Caps%2C115&sr=8-1). It's from 1986, but most of it is still relevant.
 
 
 
@@ -34,12 +34,12 @@ In 1996, at a Nordic science educators' conference in Sweden, I had the good for
 <img src="https://github.com/jvmallow/jvmallow.github.io/blob/main/images/student_attitudes.jpg?raw=true" style="float:right; width:150px; margin-left:10px" />
 Our first book is on general science anxiety (dedicated to the memory of Bjørn Felsager):
 
-Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)  [URL](https://iopscience.iop.org/book/mono/978-1-6817-4265-6.pdf)
+*Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers*, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)  [URL](https://iopscience.iop.org/book/mono/978-1-6817-4265-6.pdf)
 
 <img src="https://github.com/jvmallow/jvmallow.github.io/blob/main/images/fear_of_physics.jpg?raw=true" style="float:right; width:150px; margin-left:10px" />
 Our second book is on physics anxiety in particular: 
 
-Fear of Physics, J. V. Mallow and H. Kastrup, London: Institute of Physics (2023). [URL](https://store.ioppublishing.org/page/detail/Fear-of-Physics//?k=9780750348645)
+*Fear of Physics*, J. V. Mallow and H. Kastrup, London: Institute of Physics (2023). [URL](https://store.ioppublishing.org/page/detail/Fear-of-Physics//?k=9780750348645)
 
 
 ## Questionnaires
