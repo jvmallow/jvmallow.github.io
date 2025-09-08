@@ -31,7 +31,7 @@ In 1987 I received a message from Karin Beyer, a faculty member at Roskilde Univ
 
 In 1996, at a Nordic science educators' conference in Sweden, I had the good fortune to meet a Danish mathematician and physicist who expressed the desire to work with me. His name is Helge Kastrup, and we have become colleagues and best friends. He and I have published two books and numerous papers, as well as given many talks at venues spanning the US and the Nordic countries.
 
-<a href="https://www.amazon.com/Student-Attitudes-Anxieties-Address-Them/dp/1643278924/ref=sr_1_1?crid=1CRBVG71Y6ZE5&dib=eyJ2IjoiMSJ9.a5m_oTjm2cu3Nl25lIQBzPbG5KVTsZYvJbYMuJ8tqTQ.S4vTdvE8DSrG675tVKb3pfHW1xe1a1SMy3-2mm383BE&dib_tag=se&keywords=student+attitudes+mallow&qid=1757047319&sprefix=student+attitudes+mallo%2Caps%2C175&sr=8-1"><img src="https://github.com/jvmallow/jvmallow.github.io/blob/main/images/student_attitudes.jpg?raw=true" style="float:right; width:150px; margin-left:10px" /></a>
+<a href="https://iopscience.iop.org/book/mono/978-1-6817-4265-6"><img src="https://github.com/jvmallow/jvmallow.github.io/blob/main/images/student_attitudes.jpg?raw=true" style="float:right; width:150px; margin-left:10px" /></a>
 Our first book is on general science anxiety (dedicated to the memory of Bjørn Felsager):
 
 *Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers*, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)  [URL](https://iopscience.iop.org/book/mono/978-1-6817-4265-6.pdf)
