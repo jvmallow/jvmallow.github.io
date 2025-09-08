@@ -36,7 +36,7 @@ Our first book is on general science anxiety (dedicated to the memory of Bjørn 
 
 *Student Attitudes, Student Anxieties, and How to Address Them: A Handbook for Science Teachers*, H. Kastrup and J. V. Mallow, London: Institute of Physics (2016)  [URL](https://iopscience.iop.org/book/mono/978-1-6817-4265-6.pdf)
 
-<a target="_blank" href="https://www.amazon.com/Fear-Physics-Jeffry-V-Mallow/dp/075034864X/ref=sr_1_1?crid=1INWI277026V2&dib=eyJ2IjoiMSJ9.4em7mVGq-FLUvT9rNoKC6ewXrZC8DcFx_Rv_mo-W0Hs.VNMxWly_ujr3n2CrgcLIarGUFvlUr42AJAHNCR97U-0&dib_tag=se&keywords=fear+of+physics+mallow&qid=1757046568&sprefix=fear+of+physics+mallow%2Caps%2C199&sr=8-1"><img src="https://github.com/jvmallow/jvmallow.github.io/blob/main/images/fear_of_physics.jpg?raw=true" style="float:right; width:150px; margin-left:10px" /></a>
+<a target="_blank" href="https://iopscience.iop.org/book/mono/978-0-7503-4866-9"><img src="https://github.com/jvmallow/jvmallow.github.io/blob/main/images/fear_of_physics.jpg?raw=true" style="float:right; width:150px; margin-left:10px" /></a>
 Our second book is on physics anxiety in particular: 
 
 *Fear of Physics*, J. V. Mallow and H. Kastrup, London: Institute of Physics (2023). [URL](https://store.ioppublishing.org/page/detail/Fear-of-Physics//?k=9780750348645)
