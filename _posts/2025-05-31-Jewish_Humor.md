@@ -126,7 +126,7 @@ Mollie grabs Morrie’s arm and mutters, “Don't you open your mouth."
 
 I'll upload more each week. Watch this space!  
 
-
+~~~
 
 The Satmar Rebbe, leader of one of the most fanatically pious sects in all of Judaism, dies and goes to Heaven. At the Pearly Gates, he is greeted by a host of angels. The Angel Gabriel steps forward.
 “Rebbe, it is rare indeed that we have such an august personage as yourself join us. In your honor, there will be a reception and banquet!”
@@ -134,7 +134,7 @@ The Satmar Rebbe, leader of one of the most fanatically pious sects in all of Ju
 Gabriel stares at him. “Rebbe, this is Heaven. The Reboyne-sheloylem, God Himself is the mashgiekh.”
 The Rebbe says, “I’ll have the fruit plate.”
 
-
+~~~
 
 
 
