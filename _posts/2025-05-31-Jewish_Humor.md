@@ -135,8 +135,8 @@ is greeted by a host of angels. The Angel Gabriel steps forward.
 as yourself join us. In your honor, there will be a reception and banquet!”
 “A reception and banquet,” muses the Rebbe. “May I ask,
 who is the mashgiekh? Who makes sure the food is kosher?”
-Gabriel stares at him. “Rebbe, this is Heaven. T
-he Reboyne-sheloylem, God Himself is the mashgiekh.”
+Gabriel stares at him. “Rebbe, this is Heaven.
+The Reboyne-sheloylem, God Himself is the mashgiekh.”
 The Rebbe says, “I’ll have the fruit plate.”
 
 ~~~
