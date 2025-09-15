@@ -7,11 +7,8 @@ tags: [Jewish Humor]
 ---
 
 
-Many years ago, in what was an otherwise relatively humorless existence as a doctoral student in physics, I began collecting Jewish jokes. It started simply. I heard a joke, retold it, and exchanged jokes with friends. I then began collecting books of Jewish humor—first in Yiddish and then in other languages as well. As my collection grew, a kind of growth principle took over, like a runaway nuclear chain reaction. For every joke I told, I acquired at least two new ones in exchange. In short order, the thing was completely out of hand. I took to carrying blank scraps of paper to Jewish events in case I heard new jokes. In extreme cases, I wrote them down on the napkins. (Jewish events always include food, and physicists are adept at napkin-writing.) I began doing stand-up comedy. Sometimes, it was in the guise of a lecture on Jewish humor; other times, it was club dates with Chicago’s Maxwell Street Klezmer Band. Finally, I wrote a book.  
-
-Our Pal God and Other Presumptions. (Artwork by Ann Mallow.)
-https://www.thriftbooks.com/w/our-pal-god-and-other-presumptions-a-book-of-jewish-humor_jeffry-v-mallow/1348356/#edition=14417790&idiq=19747705
-
+Many years ago, in what was an otherwise relatively humorless existence as a doctoral student in physics, I began collecting Jewish jokes. It started simply. I heard a joke, retold it, and exchanged jokes with friends. I then began collecting books of Jewish humor—first in Yiddish and then in other languages as well. As my collection grew, a kind of growth principle took over, like a runaway nuclear chain reaction. For every joke I told, I acquired at least two new ones in exchange. In short order, the thing was completely out of hand. I took to carrying blank scraps of paper to Jewish events in case I heard new jokes. In extreme cases, I wrote them down on the napkins. (Jewish events always include food, and physicists are adept at napkin-writing.) I began doing stand-up comedy. Sometimes, it was in the guise of a lecture on Jewish humor; other times, it was club dates with Chicago’s Maxwell Street Klezmer Band. Finally, I wrote a book. <a target="_blank" href="[https://www.iuniverse.com/en/bookstore/bookdetails/108093-OUR-PAL-GOD-and-Other-Presumptions](https://www.thriftbooks.com/w/our-pal-god-and-other-presumptions-a-book-of-jewish-humor_jeffry-v-mallow/1348356/#edition=14417790&idiq=19747705)">
+<img src="https://github.com/jvmallow/jvmallow.github.io/blob/main/images/our_pal_god.jpg?raw=true" style="float:right;width:150px;margin-left:10px" />Our Pal God and Other Presumptions</a>. (Artwork by Ann Mallow.)
 
 Here are some of the jokes therein and newer ones thereout.
 
