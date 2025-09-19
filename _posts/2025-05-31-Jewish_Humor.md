@@ -123,7 +123,6 @@ Finally, the bus stops in front of a beautiful church.
 Mollie grabs Morrie’s arm and mutters, “Don't you open your mouth."
 ~~~
 
-I'll upload more each week. Watch this space!  
 
 ~~~
 
@@ -140,6 +139,7 @@ The Reboyne-sheloylem, God Himself is the mashgiekh.”
 The Rebbe says, “I’ll have the fruit plate.”
 
 ~~~
+I'll upload more each week. Watch this space!  
 
 
 
