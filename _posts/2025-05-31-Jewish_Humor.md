@@ -137,7 +137,7 @@ who is the mashgiekh? Who makes sure the food is kosher?”
 Gabriel stares at him. “Rebbe, this is Heaven.
 The Reboyne-sheloylem, God Himself is the mashgiekh.”
 The Rebbe says, “I’ll have the fruit plate.”
-
+~~~
 ~~~
 It is required that Jews who have been quarreling 
 with each other make peace before Yom Kippur.  
@@ -153,7 +153,6 @@ your forgiveness.”
 “I forgive you, “says Moishe, “and I wish for you 
 in the coming year all that you wish for me.” 
 “Oh,” says Khatskl, “you’re starting again already?”
-
 ~~~
 I'll upload more each week. Watch this space!  
 
