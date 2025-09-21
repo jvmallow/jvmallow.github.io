@@ -139,6 +139,22 @@ The Reboyne-sheloylem, God Himself is the mashgiekh.”
 The Rebbe says, “I’ll have the fruit plate.”
 
 ~~~
+It is required that Jews who have been quarreling 
+with each other make peace before Yom Kippur.  
+Asking and receiving forgiveness from one’s fellow 
+must precede asking forgiveness from God.  
+Two Jews who have been at each others’ throats for 
+the entire year are persuaded to meet and reconcile. 
+Moishe says, “I forgive you for any wrongs I feel 
+you did me during the year, and I ask for 
+your forgiveness.”
+Khatskl  replies, “I forgive you, and I also ask 
+your forgiveness.” 
+“I forgive you, “says Moishe, “and I wish for you 
+in the coming year all that you wish for me.” 
+“Oh,” says Khatskl, “you’re starting again already?”
+
+~~~
 I'll upload more each week. Watch this space!  
 
 
