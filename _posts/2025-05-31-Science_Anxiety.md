@@ -20,12 +20,11 @@ The psychology of anxiety was considered as early as 1844 by the Danish philosop
 
 We have also found strong correlations between students' attitudes towards science and their science anxiety. These are by and large also affected by gender.
 
-
-
+ ## The Danish Connection
  
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Flag_of_Denmark.svg/250px-Flag_of_Denmark.svg.png" style="float:right;margin-left:10px;width:150px" />
 
-## The Danish Connection
+
  
 In 1987 I received a message from Karin Beyer, a faculty member at Roskilde University, Denmark. She and other science teachers of university and gymnasium (approximately equivalent to high school), several females and one male, would be coming to a meeting in Arbor, Michigan on gender and science education, and could they pass through Chicago and meet me? It turns out they had read my book *Science Anxiety* and were especially interested in my take on gender. So we met, and the rest is history. Here's the history. We really clicked, both intellectually and personally, and established regular contact. In 1988, they invited my wife Ann and me to visit. There I met with a large variety of educators, and all in all had a great time. When we got home, Ann said, "Get a leave of absence, get a grant, and get us over there." It took almost three years, but we did it (studying Danish in the meantime). In 1991, I was awarded a Fulbright Fellowship to Denmark and a visiting professorship at Roskilde. My Roskilde colleagues applied for a housing grant administered by the Danish National Bank. Visiting scholars and artists were given an apartment in central Copenhagen. Gratis. And--this is beyond cool-- we got the former apartment of Hans Christian Andersen! 
 
