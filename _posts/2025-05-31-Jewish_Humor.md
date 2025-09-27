@@ -148,11 +148,11 @@ the entire year are persuaded to meet and reconcile.
 Moishe says, “I forgive you for any wrongs I feel 
 you did me during the year, and I ask for 
 your forgiveness.”
-Khatskl  replies, “I forgive you, and I also ask 
+Khatskl  replies, “I forgive you, and I also ask for
 your forgiveness.” 
 “I forgive you, “says Moishe, “and I wish for you 
 in the coming year all that you wish for me.” 
-“Oh,” says Khatskl, “you’re starting again already?”
+“Oh,” says Khatskl, “you’re starting already?”
 ~~~
 I'll upload more each week. Watch this space!  
 
