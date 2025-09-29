@@ -159,13 +159,13 @@ A Jew passes a store and sees a sign:
 "Davening Parrot". He goes in and asks to hear the bird daven.
 The proprietor says to the parrot, 'Daven the Rosh Hashonah service."
 With that, the parrot reaches under one wing,
-whips out a yarmulke,reaches under the other wing
-whips out a siddu, and begins
+whips out a yarmulke,reaches under the other wing,
+whips out a siddur, and begins
 to daven the service.  Flawlessly.
 The Jew says, "I'll buy him."
 One month later is Rosh Hashonah.
 The Jew brings the parrot
-to the service, and starts laying bets.
+to shul and starts laying bets.
 "Ten to one this parrot can daven the service."
 When all the bets are down, he tells the parrot, "Daven."
 No response. The parrot sits there, silent.
