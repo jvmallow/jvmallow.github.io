@@ -154,6 +154,30 @@ your forgiveness.”
 in the coming year all that you wish for me.” 
 “Oh,” says Khatskl, “you’re starting already?”
 ~~~
+~~~
+A Jew passes a store and sees a sign: 
+"Davening Parrot". He goes in and asks to hear the bird daven.
+The proprietor says to the parrot, 'Daven the Rosh Hashonah service."
+With that, the parrot reaches under one wing,
+whips out a yarmulke,reaches under the other wing
+whips out a siddu, and begins
+to daven the service.  Flawlessly.
+The Jew says, "I'll buy him."
+One month later is Rosh Hashonah.
+The Jew brings the parrot
+to the service, and starts laying bets.
+"Ten to one this parrot can daven the service."
+When all the bets are down, he tells the parrot, "Daven."
+No response. The parrot sits there, silent.
+The owner is humiliated and in serious debt.
+He stalks out of the synagogue with the parrot.
+After they're out of earshot, he demands,
+"Why didn't you daven? You just cost me
+a pile of dough!"
+"Relax," says the parrot. "We're gonna
+clean up on Yom Kippur."
+
+~~~~
 I'll upload more each week. Watch this space!  
 
 
