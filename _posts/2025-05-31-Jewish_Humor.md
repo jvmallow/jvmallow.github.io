@@ -178,7 +178,7 @@ a pile of dough!"
 clean up on Yom Kippur."
 
 ~~~~
-I'll upload more each week. Watch this space!  
+  
 ~~~~~
 A Jewish mountain climber is caught in a sudden avalanche.
 As he is swept down the mountain by the rushing snow, he
