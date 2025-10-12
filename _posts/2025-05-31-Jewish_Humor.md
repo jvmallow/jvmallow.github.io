@@ -191,11 +191,11 @@ The Jew again casts his eyes heavenward and asks,
 ~~~~~
 ~~~~~
 Goldstein brags that he knows everyone. Finally his friend
- Shulweiss decides to call his bluff. “Do you know the Pope?”
+Shulweiss decides to call his bluff. “Do you know the Pope?”
 “What a question! Of course I know the Pope; we’re good
 buddies,”says Goldstein.
 “OK,” says Shulweiss, “Here’s two tickets to Rome. You and I
- are going, and I want to see you with the Pope.” So off they go.
+are going, and I want to see you with the Pope.” So off they go.
 Twenty four hours later, they’re in the square outside St. Peter’s.
 The Pope is scheduled to bless the crowd in fifteen minutes.
 “So, big shot?” says Shulweiss.
