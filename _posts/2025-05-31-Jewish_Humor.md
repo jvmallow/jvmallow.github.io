@@ -189,8 +189,23 @@ is heard a voice: “Trust in me. Let go of the branch.”
 The Jew again casts his eyes heavenward and asks,
 “Is there someone else up there I could talk to?”
 ~~~~~
-
-
+~~~~~
+Goldstein brags that he knows everyone. Finally his friend
+ Shulweiss decides to call his bluff. “Do you know the Pope?”
+“What a question! Of course I know the Pope; we’re good
+buddies,”says Goldstein.
+“OK,” says Shulweiss, “Here’s two tickets to Rome. You and I
+ are going, and I want to see you with the Pope.” So off they go.
+Twenty four hours later, they’re in the square outside St. Peter’s.
+The Pope is scheduled to bless the crowd in fifteen minutes.
+“So, big shot?” says Shulweiss.
+“So watch,” says Goldstein, and disappears into the crowd.
+Fifteen minutes later, a roar goes up, and Shulweiss
+sees the Pope appear on the balcony –with Goldstein at his side!
+Shulweiss isdumbfounded. As he stands there with his mouth open,
+a little Italian fellow taps him on the shoulder, and says,
+“Hey, who’s the guy up there with Goldstein?”
+~~~~~
 
 
 
