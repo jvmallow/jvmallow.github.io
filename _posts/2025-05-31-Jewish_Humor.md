@@ -214,7 +214,7 @@ Before I was ordained, I tried ham once.  But let me ask you something.  Have yo
 “Well,” replies the priest, “since we’re such good friends, I’ll tell you:
 before I took holy orders, I tried sex once.”
 “Better than ham, wasn’t it?”says the rabbi.
-
+~~~~~
 
 
 
