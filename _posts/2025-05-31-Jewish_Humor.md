@@ -208,11 +208,13 @@ a little Italian fellow taps him on the shoulder, and says,
 ~~~~~
 ~~~~~
 A priest and a rabbi have been friends for many years.
-One day the priest asks the rabbi, “Tell me the truth, have you ever had ham?”
-“Well,” replies the rabbi, “since you’re such a good friend, I’ll confess to you.
-Before I was ordained, I tried ham once.  But let me ask you something.  Have you ever had sex?”
-“Well,” replies the priest, “since we’re such good friends, I’ll tell you:
-before I took holy orders, I tried sex once.”
+One day the priest asks the rabbi, “Tell me the truth, have
+you ever had ham?”
+“Well,” replies the rabbi, “since you’re such a good friend,
+I’ll confess to you. Before I was ordained, I tried ham once.
+But let me ask you something.  Have you ever had sex?”
+“Well,” replies the priest, “since we’re such good friends,
+I’ll tell you: before I took holy orders, I tried sex once.”
 “Better than ham, wasn’t it?”says the rabbi.
 ~~~~~
 
