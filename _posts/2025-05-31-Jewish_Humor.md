@@ -233,7 +233,12 @@ She walks over and sits down.
 “Twenty five years? May I ask, if you won’t take offense, for what crime?”
 “I murdered and dismembered my wife,” is the reply.
 “Ah,” says Mrs. Birnbaum, “So you’re single?”
-
+~~~~~
+~~~~~
+The Anglo-Jewish writer Israel Zangwill was once at a dinner party next to a British matron.
+Bored with the conversation, he inadvertently let out a large yawn. The matron turned to him and said,
+“Sir, I fear being swallowed up in that large Jewish mouth.”
+“Rest assured, madam, you have no cause for concern,” replied Zangwill, “ My religion prohibits it.” 
 ~~~~~
 
 
