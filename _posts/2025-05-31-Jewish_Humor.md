@@ -202,7 +202,7 @@ The Pope is scheduled to bless the crowd in fifteen minutes.
 “So watch,” says Goldstein, and disappears into the crowd.
 Fifteen minutes later, a roar goes up, and Shulweiss
 sees the Pope appear on the balcony –with Goldstein at his side!
-Shulweiss isdumbfounded. As he stands there with his mouth open,
+Shulweiss is dumbfounded. As he stands there with his mouth open,
 a little Italian fellow taps him on the shoulder, and says,
 “Hey, who’s the guy up there with Goldstein?”
 ~~~~~
