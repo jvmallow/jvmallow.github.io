@@ -45,7 +45,7 @@ Our second book is on physics anxiety in particular:
 
 ## Questionnaires
 
-In out various studies we have used two questionnaires: one for anxieties, the other for attitudes. In some cases we studied anxieties alone; in others, we used both and compared them for correlation between attitudes and anxieties. The Science Anxiety Questionnaire was developed by Rosemarie Alvaro as part of her dissertation in the Loyola Applied Psychology Program.  It was first used by us in the Science Anxiety Clinic, subsequently on cohorts in the US and Denmark. The Science Attitudes Questionnaire was constructed by Fred Bryant, Loyola Professor of Psychology. It was used in conjunction with the Science Anxiety Questionnaire on cohorts in the US and Denmark. 
+In out various studies we have used two questionnaires: one for anxieties, the other for attitudes. In some cases we studied anxieties alone; in others, we used both and compared them for correlations. The Science Anxiety Questionnaire was developed by Rosemarie Alvaro as part of her dissertation in the Loyola Applied Psychology Program.  It was first used by us in the Science Anxiety Clinic, subsequently on cohorts in the US and Denmark. The Science Attitudes Questionnaire was constructed by Fred Bryant, Loyola Professor of Psychology. It was used in conjunction with the Science Anxiety Questionnaire on cohorts in the US and Denmark. 
 
 Here they are.
 
