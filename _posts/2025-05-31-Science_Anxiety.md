@@ -179,6 +179,11 @@ We investigated science anxiety in groups consisting mostly of nonscience majors
 
 Students’ attitudes and anxieties about science were measured by reponses to the questionnaire that we showed above. The groups consisted of Danish and American students at the upper secondary and university levels. We investigated relationships between and among science attitudes, science anxiety, gender, and nationality. We found that in both nations' students, belief in the negativity of science toward the individual, in subjective construction of knowledge ("everything is subjective"), and in inherent bias of science against women were all strongly correlated with science anxiety, and more so for females than males. 
 
+“Science Anxiety, Science Attitudes, and Constructivism: A Binational Study,” F. Bryant, H. Kastrup, M. Udo, N. Hislop, R. Shefner, and J. Mallow, Journal of Science Education and Technology 22, 432-448 (2013).<img width="468" height="55" alt="image" src="https://github.com/user-attachments/assets/47a24e48-b504-4cf7-a8c3-0726daaec841" />
+
+In addition to the findings about geneder and nationality, we found correlations beetween students' negative attitudes toward science (e.g., it's anti-female and anti-human) and their science anxiety.
+
+
 Our work is what is called "action research". We don't just carry out studies, we take action to change attitudes and anxieties: teaching students science skills as well as science anxiety reduction techniques, working with educators to recognize anxiety-producing teaching and how to change it, bringing school administrators into the discussion, and last but not least, fighting to change the destructive attitudes described above.  
 
 
