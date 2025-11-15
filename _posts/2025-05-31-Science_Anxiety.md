@@ -154,14 +154,14 @@ Instructions.  Please circle the number that best describes the degree to which 
 84. The results of scientific research experiments are affected by the views of the culture in which scientists work.
 
 
-## What we have found
+## What we found
 
 Following are  summaries of some our research.
 
 “Gender-related Science Anxiety: A First Binational Study,” J. V. Mallow, Journal of Science Education and Technology 3, 227 (1994).
 [URL](https://link.springer.com/article/10.1007/BF01575898)
 
-We invesigated whether science anxiety was related to gender for groups of American and Danish students aged 17 and up. In both national groups, females were more science-anxious than males. Science anxiety proved to be also related to general anxiety and to field of study. The Danish group as a whole registered somewhat lower in science anxiety than the American group and in particular, Danish fermales registered lower than American males. It seems that different educational systems, including more and earlier instruction to science in Danish schools provided th explanations.
+We invesigated whether science anxiety was related to gender for groups of American and Danish students aged 17 and up. In both national groups, females were more science-anxious than males. Science anxiety proved to be also related to general anxiety and to field of study. The Danish group as a whole registered somewhat lower in science anxiety than the American group and in particular, Danish females registered lower than American males. It seems that different educational systems, including more and earlier instruction in science in Danish schools provided the explanations.
 
 “Does Physics Teaching Affect Gender-based Science Anxiety?” M. K. Udo, G. P. Ramsey, S. Reynolds-Alpert, and J. V. Mallow, Journal of Science Education and Technology 10,  237-247 (2001).
 [URL](https://www.per-central.org/items/detail.cfm?ID=2986#:~:text=In%20general%2C%20males%20start%20and,exposure%20to%20a%20physics%20course).
