@@ -218,6 +218,10 @@ I’ll tell you: before I took holy orders, I tried sex once.”
 “Better than ham, wasn’t it?”says the rabbi.
 ~~~~~
 
+
+
+
+
 ~~~~~
 At a Senior Citizens’ Club in Miami Beach, the widow Birnbaum notices a new fellow
 sitting off to the side: tall, distinguished, with a mane of white hair, and a nice suit.
@@ -264,7 +268,26 @@ The khappers are coming!”
 “Oh?” replies the voice, “And generals they don’t need?”
 ~~~~~
 
+~~~~~
+In nineteenth century Czarist Russia, a plan was devised to convert the Jews.
+The first step was to lure them away from their own schools. Special schools
+were opened, with Jewish students and Jewish teachers–but the school inspectors
+ were Russians. Usually anti-Semites.
 
+One such visits a school, marches into the math class, pushes aside the teacher,
+ and announces, “You Jews think you’re so smart? Here’s a problem for you:
+A train is traveling a distance of 750 verst from Town A to Town B. The train
+has 25 cars. In each car are 18 passengers. How old am I?”
 
+Silence reigns. Then a hand goes up in the back.
+
+“You’re forty eight,” answers a young student.
+
+The inspector is amazed. “How did you know?”
+
+“Simple arithmetic,” says the student, “In our shtetl there’s a guy who’s
+twenty four, and he’s half meshuge*.”
+
+*nuts
 
 
