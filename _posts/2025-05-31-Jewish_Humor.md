@@ -272,10 +272,10 @@ The khappers are coming!”
 In nineteenth century Czarist Russia, a plan was devised to convert the Jews.
 The first step was to lure them away from their own schools. Special schools
 were opened, with Jewish students and Jewish teachers–but the school inspectors
- were Russians. Usually anti-Semites.
+were Russians. Usually anti-Semites.
 
 One such visits a school, marches into the math class, pushes aside the teacher,
- and announces, “You Jews think you’re so smart? Here’s a problem for you:
+and announces, “You Jews think you’re so smart? Here’s a problem for you:
 A train is traveling a distance of 750 verst from Town A to Town B. The train
 has 25 cars. In each car are 18 passengers. How old am I?”
 
