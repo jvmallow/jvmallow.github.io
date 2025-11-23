@@ -291,7 +291,7 @@ The inspector is amazed. “How did you know?”
 “Simple arithmetic,” says the student,
 “In our shtetl there’s a guy who’s
 twenty four, and he’s half meshuge (nuts).”
-
+~~~~~
 ~~~~~
 After smashing the first set of tablets, 
 Moses returns with the second set.
@@ -299,4 +299,5 @@ Moses returns with the second set.
 to the assembled Israelites. “The good news is, 
 I got Him down to only ten. 
 The bad news is, adultery stays in.”
+~~~~~
 ~~~~~
