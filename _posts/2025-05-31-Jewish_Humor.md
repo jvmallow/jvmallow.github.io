@@ -250,22 +250,24 @@ let out a large yawn. The matron turned to him and said,
 ~~~~~
 A particularly horrible practice in the nineteenth century was the
 kidnaping of so-called “cantonists ,” young Jewish boys forcibly
-inducted into the Czar’s army for twenty five years. Many lost contact
- with their family and their faith. So when the “khappers,”
-the grabbers were sighted, the cry went out, and all the
-young boys in the shtetl were hidden.
+inducted into the Czar’s army for twenty five years.
+Many lost contact with their family and their faith.
+So when the “khappers,”the grabbers were sighted, the cry went out,
+and all the young boys in the shtetl were hidden.
 
-As the khappers are heading into a shtetl, the melamed (teacher)takes all
-of the young boys into a cellar hidden by a trap door. There they
-sit in the dark, scarcely daring to breathe. Suddenly, they hear the door
-above slam open, then shut. Footsteps rush over to the trap door.
+As the khappers are heading into a shtetl, the melamed (teacher)
+takes all of the young boys into a cellar hidden by a trap door.
+There theysit in the dark, scarcely daring to breathe.
+Suddenly, they hear the door above slam open, then shut.
+Footsteps rush over to the trap door.
 And a voice cries out in Yiddish, “Open up, let an old Jew in!
 The khappers are coming!”
 
 “What are you worried about?” calls up the melamed,
 “You’re not a young boy, you’re an old man.”
 
-“Oh?” replies the voice, “And generals they don’t need?”
+“Oh?” replies the voice,
+“And generals they don’t need?”
 ~~~~~
 
 ~~~~~
@@ -288,8 +290,13 @@ The inspector is amazed. “How did you know?”
 
 “Simple arithmetic,” says the student,
 “In our shtetl there’s a guy who’s
-twenty four, and he’s half meshuge*.”
+twenty four, and he’s half meshuge (nuts).”
 
-*nuts
 ~~~~~
-
+After smashing the first set of tablets, 
+Moses returns with the second set.
+“I have good news and bad news,” he announces
+to the assembled Israelites. “The good news is, 
+I got Him down to only ten. 
+The bad news is, adultery stays in.”
+~~~~~
