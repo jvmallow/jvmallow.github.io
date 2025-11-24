@@ -293,11 +293,12 @@ The inspector is amazed. “How did you know?”
 twenty four, and he’s half meshuge (nuts).”
 ~~~~~
 ~~~~~
-After smashing the first set of tablets, 
-Moses returns with the second set.
-“I have good news and bad news,” he announces
-to the assembled Israelites. “The good news is, 
-I got Him down to only ten. 
-The bad news is, adultery stays in.”
+The Talmud has rules about Pesakh, one of which is invoked
+by the Rabbi in his pre-Passover sermon.
+“Remember,” he admonishes the congregation, “Do not eat matzoh
+ before Pesakh. To do so, says our Talmud, is as if to make love
+to your fiancee in her father’s parlor.”
+With which an elderly male congregant leaps to his feet
+and shouts, “Rabbi, there’s no comparison whatsoever!”
 ~~~~~
 ~~~~~
