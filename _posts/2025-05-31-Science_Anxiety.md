@@ -1,3 +1,11 @@
+---
+layout: post
+mathjax: true
+title: Science Anxiety
+category: Science_Anxiety
+tags: [Science_Anxiety]
+---
+
 ## The Beginnings
 
 <a target="_blank" href="https://www.amazon.com/Science-Anxiety-Fear-How-Overcome/dp/0943202183/ref=sr_1_1?crid=2EHYG3G32N1BX&dib=eyJ2IjoiMSJ9.7mMTW3yD1Okx3vaEzM7yNUEu2tSz2XeqCp5NM9YZasrGjHj071QN20LucGBJIEps.Q2CBVQ45Jtux99BiiRsqUx1rRMdFDo9JTAt8SUjX0NE&dib_tag=se&keywords=science+anxiety+mallow&qid=1755203310&sprefix=science+anxiety+mallow%2Caps%2C115&sr=8-1"><img src="https://github.com/jvmallow/jvmallow.github.io/blob/main/images/science_anxiety.jpg?raw=true" style="float:right; width:150px; margin-left:10px" /></a>In 1978, as a young assistant professor at Loyola University Chicago, I became aware that some students were doing poorly, although it seemed to me that they were bright and hardworking. What was going on? The term “science anxiety” leapt into mind, and I coined it forthwith. I hearkened back to my own days as an undergraduate physics major. I experienced crippling panic on exams, and did so poorly that my advisor told me that I was not smart enough to become a physicist. In the early 1970’s, the concept of math anxiety had been recognized and various measures were being taken to alleviate it, including “clinics”: small groups of math- anxious students working with mathematicians and psychologists. I proposed to the Loyola Counseling Center that we try a Science Anxiety Clinic. We did, and it worked. You can find the details in my book, [*Science Anxiety*](https://www.amazon.com/Science-Anxiety-Fear-How-Overcome/dp/0943202183/ref=sr_1_1?crid=2EHYG3G32N1BX&dib=eyJ2IjoiMSJ9.7mMTW3yD1Okx3vaEzM7yNUEu2tSz2XeqCp5NM9YZasrGjHj071QN20LucGBJIEps.Q2CBVQ45Jtux99BiiRsqUx1rRMdFDo9JTAt8SUjX0NE&dib_tag=se&keywords=science+anxiety+mallow&qid=1755203310&sprefix=science+anxiety+mallow%2Caps%2C115&sr=8-1). It's from 1986, but most of it is still relevant.
