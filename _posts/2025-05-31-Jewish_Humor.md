@@ -301,3 +301,15 @@ With which an elderly male congregant leaps to his feet
 and shouts, “Rabbi, there’s no comparison whatsoever!”
 ~~~~~
 ~~~~~
+A Jewish mountain climber is caught in a sudden avalanche.
+As he is swept down the mountain by the rushing snow,
+he manages to grab a branch. Hanging on for dear life,
+he casts his eyes heavenward, and cries “Lord, Lord, please save me!”
+The sky opens, a beam of blinding light appears, and from Heaven
+is heard a voice: “Trust in me. Let go of the branch.”
+The Jew again casts his eyes heavenward and asks,
+“Is there someone else up there I could talk to?”
+
+~~~~~
+
+~~~~~
