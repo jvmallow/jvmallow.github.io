@@ -339,6 +339,8 @@ God: No, it’s just cruel to cook a calf in its mother’s milk.
 Moses: And when eventually we have dishwashers we should have one for each set of plates?
 God: Moses, do what you want.
 ~~~~~
+
+~~~~~
 A Jew comes to a priest and says he wants to convert. 
 The priest says, "Fine, but what do know about our religion?"
 The Jews says "Try me."
