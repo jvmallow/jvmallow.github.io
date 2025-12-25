@@ -309,7 +309,7 @@ The sky opens, a beam of blinding light appears, and from Heaven
 is heard a voice: “Trust in me. Let go of the branch.”
 The Jew again casts his eyes heavenward and asks,
 “Is there someone else up there I could talk to?”
-
+~~~~~
 ~~~~~
 Moses goes up to the mountain to talk to God, and God is giving
 him the commandments and other rules to write down. At one
@@ -321,8 +321,7 @@ Moses: Ah, so we should have separate dishes for milk and meat then?
 God: No, it’s just cruel to cook a calf in its mother’s milk.
 Moses: And when eventually we have dishwashers we should have one for each set of plates?
 God: Moses, do what you want.
-
+~~~~~
 ~~~~~
 
-~~~~~
 
