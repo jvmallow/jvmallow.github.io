@@ -336,7 +336,8 @@ Moses: Oh, so we should never eat milk and meat together?
 God: No, it’s just cruel to cook a calf in its mother’s milk.
 Moses: Ah, so we should have separate dishes for milk and meat then?
 God: No, it’s just cruel to cook a calf in its mother’s milk.
-Moses: And when eventually we have dishwashers we should have one for each set of plates?
+Moses: And when eventually we have dishwashers we should have one
+for each set of plates?
 God: Moses, do what you want.
 ~~~~~
 
