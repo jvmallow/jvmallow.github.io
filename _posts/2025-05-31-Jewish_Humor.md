@@ -344,7 +344,7 @@ God: Moses, do what you want.
 ~~~~~
 A Jew comes to a priest and says he wants to convert. 
 The priest says, "Fine, but what do know about our religion?"
-The Jews says "Try me."
+The Jews says, "Try me."
 "OK. Where was Jesus born?"
 "Pittsburgh."
 "Wrong."
