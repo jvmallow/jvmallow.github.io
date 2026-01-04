@@ -353,7 +353,7 @@ The Jew says, "Try me."
 "So where was he born?"
 "Bethlehem."
 "I knew it was Pennsylvania."
-
+~~~~~
 ~~~~~
 A Jew comes to a priest and says he wants to convert. 
 The priest says, "Fine, but what do you know about our religion?"
@@ -366,4 +366,5 @@ left the cave, and walked amongst the multitudes."
 "He looked around, he didn't see his shadow, 
 and they had six more weeks of winter."
 ~~~~~
+
 
