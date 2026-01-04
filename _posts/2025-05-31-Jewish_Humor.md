@@ -355,6 +355,15 @@ The Jew says, "Try me."
 "I knew it was Pennsylvania."
 
 ~~~~~
-
+A Jew comes to a priest and says he wants to convert. 
+The priest says, "Fine, but what do you know about our religion?"
+The Jew says, "Try me."
+"What is the meaning of Easter?"
+The Jew answers, "Jesus was crucified on Good Friday. 
+He was buried in  a cave. On Sunday he rose up from his tomb,
+left the cave, and walked amongst the multitudes."
+"And then what did he do?" asks the priest.
+"He looked around, he didn't see his shadow, 
+and they had six more weeks of winter."
 ~~~~~
 
