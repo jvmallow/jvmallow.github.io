@@ -256,17 +256,14 @@ and all the young boys in the shtetl were hidden.
 
 As the khappers are heading into a shtetl, the melamed (teacher)
 takes all of the young boys into a cellar hidden by a trap door.
-There theysit in the dark, scarcely daring to breathe.
+There they sit in the dark, scarcely daring to breathe.
 Suddenly, they hear the door above slam open, then shut.
 Footsteps rush over to the trap door.
 And a voice cries out in Yiddish, “Open up, let an old Jew in!
 The khappers are coming!”
-
 “What are you worried about?” calls up the melamed,
 “You’re not a young boy, you’re an old man.”
-
-“Oh?” replies the voice,
-“And generals they don’t need?”
+“Oh?” replies the voice, “And generals they don’t need?”
 ~~~~~
 
 ~~~~~
