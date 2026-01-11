@@ -366,15 +366,24 @@ and they had six more weeks of winter."
 ~~~~~
 
 ~~~~~
-In occupied France during the Second World War, a beautiful young woman, an old woman,
-a Frenchman, a German officer, and a Jew are sitting in a train compartment.
-As the train passes through a tunnel, and the lights go out, there is heard the sound of a kiss,
-followed by the sound of a slap. When the lights come back on, the German is holding his cheek.
+In occupied France during the Second World War,
+a beautiful young woman, an old woman,
+a Frenchman, a German officer, and a Jew
+are sitting in a train compartment.
+As the train passes through a tunnel, and the lights go out,
+ there is heard the sound of a kiss,
+followed by the sound of a slap. When the lights come back on,
+the German is holding his cheek.
 What happened?
-The German thinks the Frenchman kissed the young woman, and she slapped him (the German) by mistake.
-The old woman thinks the German kissed the young woman, who then slapped him.
-The young woman thinks the Frenchman kissed the old woman, and she slapped the German by mistake.
-The Frenchman thinks the German kissed the young woman and she slapped him.
-In fact, the Jew kissed his own hand, then slapped the German.
+The German thinks the Frenchman kissed the young woman,
+and she slapped him (the German) by mistake.
+The old woman thinks the German kissed the young woman,
+who then slapped him.
+The young woman thinks the Frenchman kissed the old woman,
+and she slapped the German by mistake.
+The Frenchman thinks the German kissed the young woman
+and she slapped him.
+In fact, the Jew kissed his own hand,
+then slapped the German.
 ~~~~~
 
