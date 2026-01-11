@@ -371,7 +371,7 @@ a beautiful young woman, an old woman,
 a Frenchman, a German officer, and a Jew
 are sitting in a train compartment.
 As the train passes through a tunnel, and the lights go out,
- there is heard the sound of a kiss,
+there is heard the sound of a kiss,
 followed by the sound of a slap. When the lights come back on,
 the German is holding his cheek.
 What happened?
