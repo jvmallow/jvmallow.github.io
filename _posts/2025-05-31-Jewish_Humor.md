@@ -364,6 +364,7 @@ came out of the cave, and walked amongst the multitudes."
 he went back into the cave,  
 and they had six more weeks of winter."
 ~~~~~
+
 ~~~~~
 In occupied France during the Second World War, a beautiful young woman, an old woman,
 a Frenchman, a German officer, and a Jew are sitting in a train compartment.
@@ -375,4 +376,5 @@ The old woman thinks the German kissed the young woman, who then slapped him.
 The young woman thinks the Frenchman kissed the old woman, and she slapped the German by mistake.
 The Frenchman thinks the German kissed the young woman and she slapped him.
 In fact, the Jew kissed his own hand, then slapped the German.
+~~~~~
 
