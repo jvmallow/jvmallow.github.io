@@ -386,6 +386,7 @@ In fact, the Jew kissed his own hand,
 then slapped the German.
 ~~~~~
 
+~~~~~
 
 THE REAL BOOK OF PROVERBS
 
@@ -414,4 +415,6 @@ and eating dinner at 4:00 PM in Florida.
 Any time a person goes into a delicatessen
 and orders pastrami on white bread,
 somewhere a Jew dies.
+~~~~~
 
+~~~~~
