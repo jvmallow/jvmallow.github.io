@@ -385,9 +385,7 @@ and she slapped him.
 In fact, the Jew kissed his own hand,
 then slapped the German.
 ~~~~~
-~~~~~
 
-test
 ~~~~~
 THE REAL BOOK OF PROVERBS
 
