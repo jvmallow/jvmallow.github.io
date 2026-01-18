@@ -410,8 +410,9 @@ Always whisper the names of diseases.
 If it tastes good, it’s probably not kosher.
 
 Laugh now, but one day you’ll be driving a Lexus
- and eating dinner at 4:00 PM in Florida.
+and eating dinner at 4:00 PM in Florida.
 
 Any time a person goes into a delicatessen
-and orders pastrami on white bread, somewhere a Jew dies.
+and orders pastrami on white bread,
+somewhere a Jew dies.
 
