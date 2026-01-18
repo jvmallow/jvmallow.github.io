@@ -387,3 +387,26 @@ In fact, the Jew kissed his own hand,
 then slapped the German.
 ~~~~~
 
+~~~~~
+THE REAL BOOK OF PROVERBS
+
+Where there’s smoke, there may be salmon.
+
+No meal is complete without leftovers.
+
+According to Jewish dietary law, pork and shellfish may be eaten only in Chinese restaurants.
+
+You need ten men for a minyan, but only four in polyester pants and white shoes for pinochle.
+
+Never take a front row seat at a bris.
+
+WASPs leave a party and never say good-bye; Jews say good-bye and never leave.
+
+Always whisper the names of diseases.
+
+If it tastes good, it’s probably not kosher.
+
+Laugh now, but one day you’ll be driving a Lexus and eating dinner at 4:00 PM in Florida.
+
+Any time a person goes into a delicatessen and orders pastrami on white bread, somewhere a Jew dies.
+
