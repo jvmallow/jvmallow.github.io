@@ -415,5 +415,26 @@ Any time a person goes into a delicatessen
 and orders pastrami on white bread,
 somewhere a Jew dies.
 ~~~~~
-
+~~~~~
+Two immigrant Jews are learning English.
+One asks the other, “Can you explain me
+what means ‘alternative’?”
+“Sure,” replies the other, “Just imagine,
+you, a poor Jew, are walking down the street
+here in New York, and you see on the ground
+a twenty dollar bill. You pick it up,
+you go to the market, you buy a rooster and a hen.
+The hen begins to lay eggs, which you sell.
+Thanks to the rooster, some of the eggs hatch,
+you have more chickens, then more hens and more
+eggs and more roosters. Business prospers,
+you buy a nice piece of farmland in New Jersey.
+You build a house, a chicken coop,
+you keep doing better and better.
+Then one day, along comes a downpour,
+the flood destroys your house,
+drowns all the chickens, you’re a poor Jew again.”
+“Yeh,” asks the first Jew, “so what does this have to do
+with the meaning of ‘alternative’?”
+“Ducks.”
 
