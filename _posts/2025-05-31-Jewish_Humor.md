@@ -439,3 +439,27 @@ with the meaning of ‘alternative’?”
 “Ducks.”
 ~~~~~
 
+~~~~~
+An enterprising shnorrer (beggar) comes to a Paris
+antique store with a ratty old military jacket.
+“This was worn by Napoleon himself at the Battle
+of Waterloo. How much will you pay me for such
+a unique relic?”
+“Very interesting,” says the proprietor,
+“but we already have several of Napoleon’s jackets.
+Sorry.” The shnorrer leaves, only to return
+a week later with an old jar.
+“This is the very inkwell used by Victor Hugo
+when he wrote ‘Les Miserables.’ I’m willing
+to let this national treasure go for a reasonable price.”
+“Thanks very much,” says the proprietor,
+“but we have at least half a dozen of Monsieur Hugo’s inkwells.”
+The shnorrer, much chagrined, stalks out. A week later
+he returns with his head swathed in bandages,
+and a small package under his arm.
+“Here,” says he, “I have the very ear that Van Gogh cut off.
+And don’t tell me you already have one,
+because I’ve got the other one too!”
+
+
+
