@@ -155,8 +155,10 @@ in the coming year all that you wish for me.”
 ~~~
 ~~~
 A Jew passes a store and sees a sign: 
-"Davening Parrot". He goes in and asks to hear the bird daven.
-The proprietor says to the parrot, 'Daven the Rosh Hashonah service."
+"Davening Parrot". He goes in and asks
+to hear the bird daven.
+The proprietor says to the parrot,
+'Daven the Rosh Hashonah service."
 With that, the parrot reaches under one wing,
 whips out a yarmulke,reaches under the other wing,
 whips out a siddur, and begins
@@ -166,7 +168,8 @@ One month later is Rosh Hashonah.
 The Jew brings the parrot
 to shul and starts laying bets.
 "Ten to one this parrot can daven the service."
-When all the bets are down, he tells the parrot, "Daven."
+When all the bets are down,
+he tells the parrot, "Daven."
 No response. The parrot sits there, silent.
 The owner is humiliated and in serious debt.
 He stalks out of the synagogue with the parrot.
@@ -296,20 +299,10 @@ twenty four, and he’s half meshuge (nuts).”
 The Talmud has rules about Pesakh, one of which is invoked
 by the Rabbi in his pre-Passover sermon.
 “Remember,” he admonishes the congregation, “Do not eat matzoh
- before Pesakh. To do so, says our Talmud, is as if to make love
+before Pesakh. To do so, says our Talmud, is as if to make love
 to your fiancee in her father’s parlor.”
 With which an elderly male congregant leaps to his feet
 and shouts, “Rabbi, there’s no comparison whatsoever!”
-~~~~~
-~~~~~
-A Jewish mountain climber is caught in a sudden avalanche.
-As he is swept down the mountain by the rushing snow,
-he manages to grab a branch. Hanging on for dear life,
-he casts his eyes heavenward, and cries “Lord, Lord, please save me!”
-The sky opens, a beam of blinding light appears, and from Heaven
-is heard a voice: “Trust in me. Let go of the branch.”
-The Jew again casts his eyes heavenward and asks,
-“Is there someone else up there I could talk to?”
 ~~~~~
 
 ~~~~~
