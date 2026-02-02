@@ -222,8 +222,11 @@ I’ll tell you: before I took holy orders, I tried sex once.”
 
 
 ~~~~~
-At a Senior Citizens’ Club in Miami Beach, the widow Birnbaum notices a new fellow
-sitting off to the side: tall, distinguished, with a mane of white hair, and a nice suit.
+At a Senior Citizens’ Club in Miami Beach,
+the widow Birnbaum notices
+a new fellowsitting off to the side:
+tall, distinguished, with a mane of white hair,
+and a nice suit.
 She walks over and sits down.
 “Are you new here?”
 “Yes,” he replies, “I just moved down to Florida.”
@@ -233,7 +236,8 @@ She walks over and sits down.
 “I was in prison.”
 “Really? For how long, if I may ask?”
 “Twenty five years,” he replies.”
-“Twenty five years? May I ask, if you won’t take offense, for what crime?”
+“Twenty five years? May I ask,
+if you won’t take offense, for what crime?”
 “I murdered and dismembered my wife,” is the reply.
 “Ah,” says Mrs. Birnbaum, “So you’re single?”
 ~~~~~
