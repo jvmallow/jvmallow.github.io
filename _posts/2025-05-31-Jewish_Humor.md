@@ -459,6 +459,12 @@ And don’t tell me you already have one,
 because I’ve got the other one too!”
 
 ~~~~~
+Mrs. Yoshimura, a Japanese senior citizen on her first trip 
+to America, comes into Macy’s Department store in Manhattan. 
+She walks up to Mrs. Cohen, a Jewish saleslady about her own age
+and says, “Excuse me, can you tell me where the cosmetics department is?”
+“Oh,” says Mrs. Cohen, “Pearl Harbor you could find?”
 
+~~~~~
 
 
