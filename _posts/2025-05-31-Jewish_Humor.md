@@ -307,16 +307,18 @@ and shouts, “Rabbi, there’s no comparison whatsoever!”
 
 ~~~~~
 A Jew presents himself at the gates of Heaven in 168 B.C.E., 
-at the height of the Maccabee revolt.
+at the height of the Maccabean revolt.
 “Before we can admit you, we need evidence of your virtue on the earth,”
 says the Angel of Judgment.
 “Well,” says the Jew, “I was a soldier in the Maccabean Army, 
 and fought for a free Jewish commonwealth.”
 “Did you commit any notable acts of courage?” asks the Angel.
 “I believe so,” replies the Jew, “I was captured by the enemy, 
-and brought before Antiochus, their king.  He asked me what I had to say for myself,
-and I replied, “You and your army are a bunch of barbarians, not fit to live with pigs,
-and we shall defeat you and drive you back into the caves where you belong!’”
+and brought before Antiochus, their king.  He asked me what
+I had to say for myself, and I replied,
+“You and your army are a bunch of barbarians,
+not fit to live with pigs,and we shall defeat you
+and drive you back into the caves where you belong!’”
 “Wow,” exclaims the Angel, “When did you say all this?”
 “About three minutes ago."
 ~~~~~
