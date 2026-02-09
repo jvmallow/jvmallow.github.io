@@ -459,16 +459,23 @@ and a small package under his arm.
 “Here,” says he, “I have the very ear that Van Gogh cut off.
 And don’t tell me you already have one,
 because I’ve got the other one too!”
-
 ~~~~~
-
 ~~~~~
-Mrs. Yoshimura, a Japanese senior citizen on her first trip 
-to America, comes into Macy’s Department store in Manhattan. 
-She walks up to Mrs. Cohen, a Jewish saleslady about her own age
-and says, “Excuse me, can you tell me where the cosmetics department is?”
-“Oh,” says Mrs. Cohen, “Pearl Harbor you could find?”
-
+A peasant stops a Jew on the street, and gives him a
+smack in the face.
+“Thank you,” says the Jew, and gives the peasant twenty kopecks.
+“What’s that for?” asks the puzzled peasant.
+“It’s part of our tradition that on Purim, the holiday we
+celebrate today, we are honored to be smacked by our Gentile
+neighbors, and are required to reward them. In fact, you would
+do well to go to the rich end of town and do the same
+to Baron de Hirsch.”
+The peasant hurries off to the de Hirsch mansion, knocks
+on the door, asks to see the Baron, and proceeds to smack
+him in the face. The Baron’s servants duly proceed to beat
+the living daylights out of him, and throw him into
+the ditch.He picks himself up and hobbles off, muttering,
+“Damn Jews. Don’t even know their own customs.”
 ~~~~~
-
+~~~~~
 
