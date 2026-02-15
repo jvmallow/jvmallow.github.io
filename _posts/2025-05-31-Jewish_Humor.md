@@ -479,3 +479,12 @@ the ditch.He picks himself up and hobbles off, muttering,
 ~~~~~
 ~~~~~
 
+Tailoring was a popular Jewish trade, especially among immigrants
+to America. Those who had to learn the skill here were actually
+called “Columbus's shnayders”: Columbus’s tailors.
+Pauline, a retired seamstress, is walking down Fifth Avenue, when
+suddenly a man in a raincoat appears, opens it wide, and exposes himself.
+She peers closely, and remarks, “That you call a lining?”
+
+~~~~~
+~~~~~
