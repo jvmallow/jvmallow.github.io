@@ -488,3 +488,38 @@ She peers closely, and remarks, “That you call a lining?”
 
 ~~~~~
 ~~~~~
+A Jew comes to America in the Roaring Twenties. He goes directly to Chicago,
+where the Hebrew Immigrant Aid Society has found him an apartment and a job.
+No sooner does he get off the train and into the street, than a limousine
+ roars past him, with men in black shirts, white ties, and grey fedoras
+ firing Tommy guns at a pursuing police car. From the limousine is thrown
+ a suitcase, which lands at the feet of the new immigrant. He opens it,
+looks in, and sees that it is bursting with money.
+“Ay, America, America, truly a golden land,” he declares, and putting
+ the suitcase under his arm, he goes to find his new apartment.
+Two days later, well installed, he is surprised by a knock on the door.
+ He opens it to see two men in black shirts, white ties,
+and grey fedoras: “Give us our money.”
+The Jew replies, “Ikh farshtey nisht .” [I don’t understand.]
+The men leave, returning half hour later with a Yiddish-speaking rabbi.
+“Tell him we want our money.” The rabbi translates.
+The immigrant thinks, No way I’m parting with a hundred thousand dollars.
+“Ikh farshtey nisht.”
+The rabbi translates, “He says he doesn’t understand.”
+The two hoods reply, “Tell him we’ll break both his arms if he doesn’t
+give us the money.” The rabbi translates.
+The immigrant thinks, a hundred thousand dollars is certainly worth
+two broken arms. He again tells the rabbi, “Ikh farshtey nisht.”
+The rabbi translates: “He says he still doesn’t understand.”
+The two hoods reply, “Tell him we’ll break both his legs
+if he doesn’t give us the money.” The rabbi dutifully translates.
+The immigrant thinks, a hundred thousand dollars is even worth
+two broken arms and twobroken legs. He again tells the rabbi,
+“Ikh farshtey nisht.”
+The rabbi translates: “He says he still doesn’t understand.”
+The two hoods reply, “Tell him we’ll kill him if he doesn’t
+give us the money.” The rabbi translates.
+The immigrant thinks, a hundred thousand dollars is certainly
+not worth dying for. He tells the rabbi, “Dos gelt is untern bet.”
+[The money is under the bed.]
+The rabbi turns to the two thugs: “He says he still doesn’t understand.”
