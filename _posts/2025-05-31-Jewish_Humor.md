@@ -492,13 +492,13 @@ A Jew comes to America in the Roaring Twenties. He goes directly to Chicago,
 where the Hebrew Immigrant Aid Society has found him an apartment and a job.
 No sooner does he get off the train and into the street, than a limousine
  roars past him, with men in black shirts, white ties, and grey fedoras
- firing Tommy guns at a pursuing police car. From the limousine is thrown
- a suitcase, which lands at the feet of the new immigrant. He opens it,
+firing Tommy guns at a pursuing police car. From the limousine is thrown
+a suitcase, which lands at the feet of the new immigrant. He opens it,
 looks in, and sees that it is bursting with money.
 “Ay, America, America, truly a golden land,” he declares, and putting
- the suitcase under his arm, he goes to find his new apartment.
+the suitcase under his arm, he goes to find his new apartment.
 Two days later, well installed, he is surprised by a knock on the door.
- He opens it to see two men in black shirts, white ties,
+He opens it to see two men in black shirts, white ties,
 and grey fedoras: “Give us our money.”
 The Jew replies, “Ikh farshtey nisht .” [I don’t understand.]
 The men leave, returning half hour later with a Yiddish-speaking rabbi.
