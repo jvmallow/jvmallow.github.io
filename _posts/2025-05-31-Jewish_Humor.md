@@ -503,7 +503,8 @@ Two days later, well installed, he is surprised by a knock on the door.
 He opens it to see two men in black shirts, white ties,
 and grey fedoras: “Give us our money.”
 The Jew replies, “Ikh farshtey nisht .” [I don’t understand.]
-The men leave, returning half an hour later with a Yiddish-speaking rabbi.
+The men leave, returning half an hour later with a
+Yiddish-speaking rabbi.
 “Tell him we want our money.” The rabbi translates.
 The immigrant thinks, No way I’m parting with a hundred thousand dollars.
 “Ikh farshtey nisht.”
@@ -516,7 +517,7 @@ The rabbi translates: “He says he still doesn’t understand.”
 The two hoods reply, “Tell him we’ll break both his legs
 if he doesn’t give us the money.” The rabbi dutifully translates.
 The immigrant thinks, a hundred thousand dollars is even worth
-two broken arms and twobroken legs. He again tells the rabbi,
+two broken arms and two broken legs. He again tells the rabbi,
 “Ikh farshtey nisht.”
 The rabbi translates: “He says he still doesn’t understand.”
 The two hoods reply, “Tell him we’ll kill him if he doesn’t
