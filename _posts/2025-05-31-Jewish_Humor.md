@@ -476,18 +476,10 @@ him in the face. The Baron’s servants duly proceed to beat
 the living daylights out of him, and throw him into
 the ditch.He picks himself up and hobbles off, muttering,
 “Damn Jews. Don’t even know their own customs.”
-~~~~~
-~~~~~
-
-Tailoring was a popular Jewish trade, especially among immigrants
-to America. Those who had to learn the skill here were actually
-called “Columbus's shnayders”: Columbus’s tailors.
-Pauline, a retired seamstress, is walking down Fifth Avenue, when
-suddenly a man in a raincoat appears, opens it wide, and exposes himself.
-She peers closely, and remarks, “That you call a lining?”
 
 ~~~~~
 ~~~~~
+
 A Jew comes to America in the Roaring Twenties.
 He goes directly to Chicago,where the Hebrew Immigrant Aid Society
 has found him an apartment and a job.
@@ -527,4 +519,36 @@ not worth dying for. He tells the rabbi, “Dos gelt is untern bet.”
 [The money is under the bed.]
 The rabbi turns to the two thugs: “He says he still doesn’t understand.”
 ~~~~~
+~~~~~
+
+Tailoring was a popular Jewish trade, especially among immigrants
+to America. Those who had to learn the skill here were actually
+called “Columbus's shnayders”: Columbus’s tailors.
+Pauline, a retired seamstress, is walking down Fifth Avenue, when
+suddenly a man in a raincoat appears, opens it wide, and exposes himself.
+She peers closely, and remarks, “That you call a lining?”
+
+~~~~~
+~~~~~
+It’s well known that Jews have a very low rate of alcoholism,
+whether due to genetics, culture, or both. Only in Jewish
+restaurants does the waiter’s question, “red or white?”
+refer to horseradish.Jews usually ascribe the cause
+of their sobriety to thequality of the beverage,
+and/or the circumstances in whichit is imbibed.
+The first experience of every Jewish male
+with wine, eight days after birth, is accompanied by such
+unpleasantness that it probably has a lifelong aversive
+effect. In any case, we always drink with our legs crossed.
+As for the quality of Jewish wine: the vintage is
+less likely to be described as “1993” than as “last Tuesday.”
+In addition, drunkenness is almost impossible,
+because it is preceded by insulin shock.
+So here’s a riddle:
+Why are French wines stored on their sides, while Jewish
+wines are stored upright?
+Because with French wine you don’t want the cork to dry out;
+with Jewish wine you don’t want the bottle cap to rust.
+~~~~~
+
 ~~~~~
