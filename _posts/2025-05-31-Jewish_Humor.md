@@ -533,9 +533,9 @@ She peers closely, and remarks, “That you call a lining?”
 It’s well known that Jews have a very low rate of alcoholism,
 whether due to genetics, culture, or both. Only in Jewish
 restaurants does the waiter’s question, “red or white?”
-refer to horseradish.Jews usually ascribe the cause
-of their sobriety to thequality of the beverage,
-and/or the circumstances in whichit is imbibed.
+refer to horseradish. Jews usually ascribe the cause
+of their sobriety to the quality of the beverage,
+and/or the circumstances in which it is imbibed.
 The first experience of every Jewish male
 with wine, eight days after birth, is accompanied by such
 unpleasantness that it probably has a lifelong aversive
