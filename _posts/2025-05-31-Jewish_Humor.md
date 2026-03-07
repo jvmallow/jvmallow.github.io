@@ -552,3 +552,40 @@ with Jewish wine you don’t want the bottle cap to rust.
 ~~~~~
 
 ~~~~~
+A Hassid lives with his son in a community populated by their sect,
+north of London. One day the young man decides to seek his fortune
+in the big city. He packs his suitcase and takes the train down to London.
+He isn’t there long before he realizes that he’ll have to get himself
+Anglicized if he wants to make it in business. So off he goes to Saville
+Row, where he exchanges his Hassidic garb for a three-piece pinstriped
+suit, a homburg, and an umbrella. Then off to the barber’s, where he 
+as his beard and peyes shaved off.
+And indeed the transformation works: within six months he is well on
+his way to becoming a wealthy businessman. But he misses his father, 
+so he calls and convinces the old man to join him in his fancy new digs.
+The father packs a suitcase, and takes the train to Victoria Station,
+where he is met by his son, whom he scarcely recognizes.
+“What happened to you, my boy?”
+“Well, Papa,” says the son, “in order to live here, one must become
+completely English.”
+“Me too?” asks the father.
+“Yes indeed,” says the son.
+“OK,” agrees the old man, “What do I have to do?”
+So off they go to Saville Row, where he is
+outfitted in a three-piece suit, complete with homburg and umbrella.
+“That’s it? Now I’m English?”
+“Not yet, Papa, now we go to the barber.” So off they go.
+The old man sits down in the chair, and the barber
+shaves off his luxuriant white beard.
+“Now I’m English?”
+“Not quite yet, Papa.”
+Snip! Off comes one peye.
+Now I’m English?”
+“Almost, Papa.”
+Snip! As the second peye falls,
+the old man bursts into tears.
+“Papa,” says the son, “what’s the matter?”
+The old man sobs, “We gave up India!”
+
+~~~~~
+~~~~~
