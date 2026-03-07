@@ -579,7 +579,7 @@ The old man sits down in the chair, and the barber
 shaves off his luxuriant white beard.
 “Now I’m English?”
 “Not quite yet, Papa.”
-Snip! Off comes one peye.
+Snip! Off comes one peye [earlock].
 Now I’m English?”
 “Almost, Papa.”
 Snip! As the second peye falls,
