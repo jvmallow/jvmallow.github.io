@@ -589,3 +589,28 @@ The old man sobs, “We gave up India!”
 
 ~~~~~
 ~~~~~
+During the days of the Czar, Jews were restricted to living
+in what was called the Pale of Settlement. Only those few
+with specially needed trades could live in the cities.
+Others required a hard-to-come-by special pass to even visit
+relatives there. So some took their chances and visited
+without a pass. The story is told of two brothers, one with
+permission to live in Moscow, the other visiting him on the sly.
+They are taking an after-dinner stroll, when suddenly they
+see a policeman beginning to follow them.
+The resident says to his brother, “I’ll run away. The policeman
+ will chase me. When he loses sight of you, just disappear
+and make your way out of the city.”
+All goes as planned. The legal brother starts to run, the
+policeman chases him, shouting, “Stop, Jew!” The
+ other brother steals away to safety.
+When the resident sees that his brother is safe, he stops,
+and the policeman grabs him by the collar.
+“Ha, Jew, I caught you! You’re here without a pass!”
+“Not at all,” replies the Jew, producing his pass.
+“But then why were you running?” asks the policeman.
+“My doctor told me it’s good for my health to run
+every evening after dinner.”
+“But,” persists the policeman,
+“why didn’t you stop when you saw me running after you?”
+“I assumed you had the same doctor.”
