@@ -599,11 +599,11 @@ permission to live in Moscow, the other visiting him on the sly.
 They are taking an after-dinner stroll, when suddenly they
 see a policeman beginning to follow them.
 The resident says to his brother, “I’ll run away. The policeman
- will chase me. When he loses sight of you, just disappear
+will chase me. When he loses sight of you, just disappear
 and make your way out of the city.”
 All goes as planned. The legal brother starts to run, the
 policeman chases him, shouting, “Stop, Jew!” The
- other brother steals away to safety.
+other brother steals away to safety.
 When the resident sees that his brother is safe, he stops,
 and the policeman grabs him by the collar.
 “Ha, Jew, I caught you! You’re here without a pass!”
