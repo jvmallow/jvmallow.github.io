@@ -620,18 +620,21 @@ every evening after dinner.”
 ~~~~~
 
 A Jewish dentist decides to emigrate from Czarist Russia.
-But he doesn’t want to leave like most of his coreligionists, penniless.
+But he doesn’t want to leave like most of his coreligionists, 
+penniless.
 He needs to find a way to take his fortune, such as it is, with him.
 He turns all of his worldly goods into gold, from which he is able
 to make seven sets of false teeth. These he packs in his bag, and
-heads for the border. Where he is of course stopped by the guards, who find the teeth.
+heads for the border. Where he is of course stopped by the guards,
+who find the teeth.
 “What do you need so many sets of gold teeth for?” they ask.
 “I’m a very religious Jew,” replies the dentist.
-“One set is for when I eat meat, one for dairy, and one for pareve .”
+“One set is for when I eat meat, one for dairy,and one for pareve .”
 “But what about the other sets?” persist the guards.
 “You know,” says the Jew, “that for our Passover holiday,
 we cannot use the same dishes. Since I am very strict in observance,
-I have one set of teeth for Passover meat, one for dairy, and the third for pareve.”
+I have one set of teeth for Passover meat, one for dairy,
+and the third for pareve.”
 “That’s six. What’s the seventh set for?”
 “Every once in a while,” replies the dentist,
 “I get such a craving for pork….”
