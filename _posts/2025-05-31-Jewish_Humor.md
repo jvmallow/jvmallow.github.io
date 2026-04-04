@@ -639,6 +639,8 @@ and the third for pareve.”
 “Every once in a while,” replies the dentist,
 “I get such a craving for pork….”
 ~~~~~
+~~~~~
+
 A priest, a minister and a rabbi all served congregations in a town
 near the Canadian border. They were good friends, and even m
 ore—drinking buddies. One day, several sheets to the wind, 
@@ -659,5 +661,6 @@ He followed me. As soon as he was in the water, I shouted,
 as a lamb, and began to emit soft growls as if he were praying. I left.”
 “But what happened to you?” they asked.
 “You ever try to circumcise a bear?”
-~~~~~
 
+~~~~~
+~~~~~
