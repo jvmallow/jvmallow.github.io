@@ -642,8 +642,8 @@ and the third for pareve.”
 ~~~~~
 
 A priest, a minister and a rabbi all served congregations in a town
-near the Canadian border. They were good friends, and even m
-ore—drinking buddies. One day, several sheets to the wind, 
+near the Canadian border. They were good friends, and even
+more: drinking buddies. One day, several sheets to the wind, 
 they decided to make a bet: who can convert a bear? 
 So off they all stagger into the North Woods.
 Three days later, the priest and minister are visiting the rabbi
