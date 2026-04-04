@@ -639,5 +639,25 @@ and the third for pareve.”
 “Every once in a while,” replies the dentist,
 “I get such a craving for pork….”
 ~~~~~
-
+A priest, a minister and a rabbi all served congregations in a town
+near the Canadian border. They were good friends, and even m
+ore—drinking buddies. One day, several sheets to the wind, 
+they decided to make a bet: who can convert a bear? 
+So off they all stagger into the North Woods.
+Three days later, the priest and minister are visiting the rabbi
+in the hospital. Swathed in bandages, the rabbi asks, “How did it go?”
+“Well,” said the priest, “I went into the woods with a 
+vial of holy water, and suddenly a bear rushed at me. Just as he was 
+about to grab me, I threw the holy water at him and cried, 
+‘I hereby baptize you in the name of the Father, the Son, 
+and the Holy Ghost.’ The bear dropped to its knees and clasped
+its hands together. I left.”
+Said the minister, “I went into the woods and stayed near the river. 
+A bear came rushing at me, so I ran down to the river and jumped in. 
+He followed me. As soon as he was in the water, I shouted, 
+‘You are now baptized and are born again!’ The bear became as gentle
+as a lamb, and began to emit soft growls as if he were praying. I left.”
+“But what happened to you?” they asked.
+“You ever try to circumcise a bear?”
+~~~~~
 
