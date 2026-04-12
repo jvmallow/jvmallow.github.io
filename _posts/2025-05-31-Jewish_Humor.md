@@ -664,3 +664,16 @@ as a lamb, and began to emit soft growls as if he were praying. I left.”
 
 ~~~~~
 ~~~~~
+Nazi Germany’s occupation of Denmark began on April 9, 1940, and lasted
+until German forces withdrew at the end of World War II following
+their surrender to the Allies on May 5, 1945. Surprisingly, there are
+Danish Jewish jokes about the occupation. Here is one.
+Cohen is picked up by the Gestapo in occupied Copenhagen and brought to
+their headquarters for questioning. As he sits in the commandant’s office
+trembling with fear, the phone rings. The commandant picks it up, listens
+for a minute disgustedly, hands the phone to Cohen and tells him,
+“I don’t speak Danish. You translate.” Cohen takes the receiver and says,
+“Gestapo. Cohen speaking.”
+
+~~~~~
+~~~~~
