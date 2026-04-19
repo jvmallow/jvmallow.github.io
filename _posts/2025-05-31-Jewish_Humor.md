@@ -677,3 +677,21 @@ for a minute disgustedly, hands the phone to Cohen and tells him,
 
 ~~~~~
 ~~~~~
+The Soviet Union and its satellites tried to maintain the pretense
+that they had abolished anti-Semitism. A new type of Jewish humor
+grew up around that pretense.
+
+Vladimir goes for a job at a large Moscow firm.
+The head of personnel asks if there is anything
+in Vladimir’s past that they should know.
+“Yes,” says Vladimir, “My grandfather was a general in the army
+of the last Czar.”
+“Please comrade,” replies the personnel chief, “we are not barbarians.
+That was more than half a century ago. We do not hold grudges.
+Anything else?”
+“In fact, yes,” says Vladimir, “My great-grandmother was a Jew.”
+“Comrade,” replies the head of personnel, “this is the Soviet Union.
+We are not prejudiced against any religion.
+But come to think of it, your grandfather’s service
+in the Czar’s army may present a problem….”
+~~~~~
