@@ -695,3 +695,16 @@ We are not prejudiced against any religion.
 But come to think of it, your grandfather’s service
 in the Czar’s army may present a problem….”
 ~~~~~
+~~~~~
+Maurie makes it big in the Big Apple. He wants to send his mother
+in Miami a really elegant birthday gift. So for a thousand dollars,
+he purchases a talking bird. But not just any talking bird:
+this one speaks English Yiddish, Hebrew, French and Spanish.
+He has the bird sent to his mother, and calls her the next day.
+“So Mama, what’d you think of the bird?”
+“Delicious,” replies his mother.
+“You ate it! Mama, that bird spoke five languages!”
+“So why didn’t it say something when I put it in the pot?”
+
+
+~~~~~
