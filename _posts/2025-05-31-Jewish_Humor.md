@@ -706,5 +706,4 @@ He has the bird sent to his mother, and calls her the next day.
 “You ate it! Mama, that bird spoke five languages!”
 “So why didn’t it say something when I put it in the pot?”
 
-
 ~~~~~
