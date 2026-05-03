@@ -707,3 +707,24 @@ He has the bird sent to his mother, and calls her the next day.
 “So why didn’t it say something when I put it in the pot?”
 
 ~~~~~
+~~~~~
+An elderly Jewish lady in Miami goes to a travel agency and asks
+to book a trip to Nepal. The surprised travel agent gets her
+on a plane from Miami to Kathmandu. Once out of Nepalese Customs,
+she hails the nearest cab, and says, “Take me to the Kathmandu Lama.”
+“Madam, the Kathmandu Lama lives in a cave on top of a mountain,
+surrounded by Sherpa guards. He hardly ever sees anyone.”
+“So get me to the nearest town, and hire me a guide.
+I gotta see the Lama.”
+The cab drops her at the foot of the mountain, a guide takes her
+up to the entrance of the cave, where two burly Sherpas block her
+entrance.
+“Please,” she says, “I’m an old lady, I came all the way from Miami,
+I need to say three words to the Kathmandu Lama.”
+The Sherpas relay her message, and return. “The Lama has agreed
+to see you, on condition that you only say three words, no more.”
+“Agreed.” She enters the cave, where the Lama is sitting
+cross-legged on a woven rug, intoning a mantra. She approaches him,
+and as he looks up, she says, “Sheldon, enough already!”
+
+
