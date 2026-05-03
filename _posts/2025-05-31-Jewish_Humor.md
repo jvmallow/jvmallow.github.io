@@ -726,5 +726,4 @@ to see you, on condition that you only say three words, no more.”
 cross-legged on a woven rug, intoning a mantra. She approaches him,
 and as he looks up, she says, “Sheldon, enough already!”
 ~~~~~
-~~~~~
 
