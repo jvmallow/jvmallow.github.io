@@ -714,7 +714,8 @@ on a plane from Miami to Kathmandu. Once out of Nepalese Customs,
 she hails the nearest cab, and says, “Take me to the Kathmandu Lama.”
 “Madam, the Kathmandu Lama lives in a cave on top of a mountain,
 surrounded by Sherpa guards. He hardly ever sees anyone.”
-“So get me to the nearest town, and hire me a guide. I gotta see the Lama.”
+“So get me to the nearest town, and hire me a guide.
+I gotta see the Lama.”
 The cab drops her at the foot of the mountain, a guide takes her
 up to the entrance of the cave, where two burly Sherpas block her
 entrance.
