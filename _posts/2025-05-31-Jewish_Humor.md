@@ -732,7 +732,8 @@ and as he looks up, she says, “Sheldon, enough already!”
 Levine and Feinberg are sitting on their usual Miami park bench,
 making their usual bets.
 “I’ll bet you two dollars that the next plane to fly overhead is a 747.”
-“I’ll bet you three dollars that the next girl to walk by is a natural blonde.”
+“I’ll bet you three dollars that the next girl to walk by is
+a natural blonde.”
 Finally Levine says to Feinberg, “How about a real bet? I’ll bet you
 a thousand dollars that soft is by me longer than is hard by you.”
 “Soft is by you longer than is hard by me?” says Feinberg,
