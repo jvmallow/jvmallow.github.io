@@ -740,7 +740,25 @@ a thousand dollars that soft is by me longer than is hard by you.”
 “You got a bet! So how long is soft by you?”
 “Since 1956.”
 ~~~~~
-
-
+~~~~~
+A Jewish woman comes to the rabbi with a question about
+a soup she is making. It’s a beef soup, and her little son’s
+hat has fallen into it. Is the soup still kosher ?
+“What was on the hat?” asks the rabbi.
+“Well, you know how little boys are. My son was playing in the mud,
+ on the road where all the animals are taken to market.
+You can imagine what kind of dirt was on the hat.”
+“That’s not a problem,” says the rabbi. “What else?”
+“He had hair lice last week, and I think one of the parts
+ of a dead louse was on the hat.”
+“No problem,” says the rabbi, “anything else?”
+“He fell and cut his forehead, and I think his scab came off
+ onto the hat.”
+“Still seems alright. Is that all?”
+“Well,” replies the mother, “I had put some butter on the scab
+ to soften it…”
+“Treyf !” shouts the rabbi.
+~~~~~
+~~~~~
 
 ~~~~~
