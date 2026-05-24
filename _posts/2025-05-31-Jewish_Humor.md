@@ -760,5 +760,18 @@ You can imagine what kind of dirt was on the hat.”
 “Treyf !” shouts the rabbi.
 ~~~~~
 ~~~~~
+Moishe Feigenbaum, newly arrived from Czarist Russia, is riding
+the New York subway for the first time. He sees across from him
+ a Catholic priest. Not recognizing the clerical garb
+(Russian Orthodox priests wear long cassocks), Moishe approaches
+him and says, “Mister, you got your shoyt on beckvards.”
+“I’m a Father,” replies the priest.
+“Fadder shmadder,” says Moishe, “You still got your
+shoyt on beckvards.”
+“You don’t understand,” says the priest,
+“I am a Father to hundreds.”
+“Mister,” says Moishe, “Never mind de shoyt.
+Better you should put your pents on beckvards!”
 
+~~~~~
 ~~~~~
