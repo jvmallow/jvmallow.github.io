@@ -762,7 +762,7 @@ You can imagine what kind of dirt was on the hat.”
 ~~~~~
 Moishe Feigenbaum, newly arrived from Czarist Russia, is riding
 the New York subway for the first time. He sees across from him
- a Catholic priest. Not recognizing the clerical garb
+a Catholic priest. Not recognizing the clerical garb
 (Russian Orthodox priests wear long cassocks), Moishe approaches
 him and says, “Mister, you got your shoyt on beckvards.”
 “I’m a Father,” replies the priest.
