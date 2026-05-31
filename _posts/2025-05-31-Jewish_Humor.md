@@ -775,3 +775,17 @@ Better you should put your pents on beckvards!”
 
 ~~~~~
 ~~~~~
+Six retired guys are playing poker in their Miami Beach condo rec room.
+ Goldstein loses five hundred dollars trying to fill an inside straight.
+He clutches his chest, staggers, and falls to the floor—dead.
+The question is, how are they going to tell Mrs. Goldstein?
+Mandelbaum says, “Don’t worry; I can do it diplomatically.”
+So up he goes to the Goldstein apartment and knocks.
+Mrs. Goldstein comes to the door.
+“I’ve got some bad news,” says Mandelbaum, “Your husband just lost
+five hundred dollars in poker, and is afraid of how you might react.”
+“Tell him he should only drop dead!” she replies.
+“OK,” says Mandelbaum, “I’ll tell him.”
+
+~~~~~
+~~~~~
