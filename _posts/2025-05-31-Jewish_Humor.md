@@ -789,3 +789,12 @@ five hundred dollars in poker, and is afraid of how you might react.”
 
 ~~~~~
 ~~~~~
+A really nasty fellow dies. The rabbi is giving the eulogy,
+and simply has nothing good he can honestly say. He turns to
+the few assembled mourners and asks, “Is there someone here
+who would like to say a few kind words about the deceased?”
+Silence. The rabbi implores, “Isn’t there anyone who can say
+something nice about the departed?”
+Finally, an old fellow gets up, shuffles forward, steps up to the lectern,
+looks over the audience, and proclaims, “His bruddeh vas voys .”
+
