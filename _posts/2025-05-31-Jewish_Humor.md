@@ -796,5 +796,7 @@ who would like to say a few kind words about the deceased?”
 Silence. The rabbi implores, “Isn’t there anyone who can say
 something nice about the departed?”
 Finally, an old fellow gets up, shuffles forward, steps up to the lectern,
-looks over the audience, and proclaims, “His bruddeh vas voys .”
+looks over the audience, and proclaims, “His bruddeh vas voys.”
 
+~~~~~
+~~~~~
