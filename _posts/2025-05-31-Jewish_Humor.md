@@ -800,3 +800,25 @@ looks over the audience, and proclaims, “His bruddeh vas voys.”
 
 ~~~~~
 ~~~~~
+Here is a tale that can serve as revenge for all those who experienced
+anti-Jewish quotas in college:
+
+A college president tells his Dean of Admissions that they are getting
+too many Jews at the school, and they need to start “changing the balance.”
+The president says, “Use the interviews with prospective freshmen to
+weed out the Jews. Don’t ask overt questions: that’s illegal.
+Find some clever ways to get the information.”
+So the Dean does this. He eliminates all the obvious ones:
+Cohen, Levy, Goldstein, and other Jewish or Jewish-sounding names.
+For the rest, he questions where they live, whether they’re
+interested in religion, if they’ve ever been to Israel….
+One day he gets a candidate with a neutral name: Green.
+From a mixed neighborhood. Never been abroad.
+So he questions the kid about his interests, whether he is religious,
+but comes up empty on all counts.
+Finally in desperation he asks, “Mr. Green, do you happen to speak Yiddish?”
+Green replies, “Enough to get around on this campus.”
+
+~~~~~
+~~~~~
+
