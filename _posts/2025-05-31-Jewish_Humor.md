@@ -821,4 +821,17 @@ Green replies, “Enough to get around on this campus.”
 
 ~~~~~
 ~~~~~
-
+A priest of a Miami church hears someone come in to the confessional.
+He asks the penitent for his confession.
+“Vell,” says an elderly voice, “I’m eighty two years old.
+I vas coming yesterday out of de supermarket mit my peckeges, ven, boomp!
+I’m knocked over from behind. I pick myself up, and der’s a beautiful
+young blonde apologizing and helping me pick up my groceries.
+Suddenly she says to me ‘You’re pretty cute.’
+Vun ting leads to anodder,and de next ting you know,
+ve’re over at my place, doing it! And ve did it four times!”
+The priest interrupts this discourse. “This is all very interesting,
+but it seems to me that you are not a member of my church,
+or even a Catholic. Why are you telling me this?”
+“Telling you? I’m telling everyvun!” 
+~~~~~
