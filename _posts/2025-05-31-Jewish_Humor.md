@@ -841,6 +841,7 @@ At the first meeting, the other ladies explain the rules of the club:
 “First of all, no talk about money. Thank God, we’re all comfortable,
 no need to compare incomes. Second, no talk about children.
 Thank God, we all have wonderful kids, who have good lives,
-and produce darling grandchildren. No need to bore each other with the details.
+and produce darling grandchildren.
+No need to bore each other with the details.
 And finally, no talk about sex. Because what was, was!”
 ~~~~~
