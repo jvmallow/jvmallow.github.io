@@ -835,3 +835,12 @@ but it seems to me that you are not a member of my church,
 or even a Catholic. Why are you telling me this?”
 “Telling you? I’m telling everyvun!” 
 ~~~~~
+~~~~~
+Newly arrived in Miami, Mrs. Shulman is invited to join a Mah Jong club.
+At the first meeting, the other ladies explain the rules of the club:
+“First of all, no talk about money. Thank God, we’re all comfortable,
+no need to compare incomes. Second, no talk about children.
+Thank God, we all have wonderful kids, who have good lives,
+and produce darling grandchildren. No need to bore each other with the details.
+And finally, no talk about sex. Because what was, was!”
+~~~~~
