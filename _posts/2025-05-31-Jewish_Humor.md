@@ -851,3 +851,4 @@ His friends ask, “So how was it?”
 “Nice, but hot! 110 degrees in the shade.”
 “So who told you to stand in the shade?”
 ~~~~~
+~~~~~
