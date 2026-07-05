@@ -845,3 +845,9 @@ and produce darling grandchildren.
 No need to bore each other with the details.
 And finally, no talk about sex. Because what was, was!”
 ~~~~~
+~~~~~
+Moyshe returns from his first trip to Israel.
+His friends ask, “So how was it?”
+“Nice, but hot! 110 degrees in the shade.”
+“So who told you to stand in the shade?”
+~~~~~
