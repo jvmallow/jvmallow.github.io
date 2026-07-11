@@ -851,3 +851,13 @@ His friends ask, “So how was it?”
 “Nice, but hot! 110 degrees in the shade.”
 “So who told you to stand in the shade?”
 ~~~~~
+~~~~~
+Berl, Merl, and Shmerl decide to emigrate from Poland to America.
+They land at Ellis Island, where they are advised
+to change their names to something more American.
+Berl has been reading Yiddish translations of westerns
+and promptly changes his name to Buck.
+Merl, not to be outdone, changes his to Muck.
+Shmerl goes back to Poland.
+~~~~~
+~~~~~
