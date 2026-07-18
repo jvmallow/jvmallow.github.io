@@ -867,9 +867,8 @@ Howie Solomon calls his mother from North Dakota State University.
 "She's a Native American," replies Howie. "And you'll meet her and
 her family tomorrow. We're flying to New York."
 The next day, Mrs. Solomon's bell rings. She opens the door to see
-Howie, together with his bride and two men, in
-their native garb.
-"Mama, I'd like you to meet my wife, Running Deer; my father-in-law,
-Stalking Bear; and my brother-in-law, Soaring Eagle."
+Howie, together with his bride and two men, in their native garb.
+"Mama, I'd like you to meet my wife, Running Deer, my father-in-law,
+Stalking Bear, and my brother-in-law, Soaring Eagle."
 "Very pleased to make your acquaintance," says Mrs. Solomon.
 "I'm Howard's mother, Sitting Shiva."
