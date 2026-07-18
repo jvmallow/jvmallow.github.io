@@ -872,3 +872,5 @@ Howie, together with his bride and two men, in their native garb.
 Stalking Bear, and my brother-in-law, Soaring Eagle."
 "Very pleased to make your acquaintance," says Mrs. Solomon.
 "I'm Howard's mother, Sitting Shiva."
+~~~~~
+~~~~~
