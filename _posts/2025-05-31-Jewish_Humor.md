@@ -871,6 +871,6 @@ Howie, together with his bride and two men, in their native garb.
 "Mama, I'd like you to meet my wife, Running Deer, my father-in-law,
 Stalking Bear, and my brother-in-law, Soaring Eagle."
 "Very pleased to make your acquaintance," says Mrs. Solomon.
-"I'm Howard's mother, Sitting Shiva."
+"I'm the mother, Sitting Shiva."
 ~~~~~
 ~~~~~
