@@ -874,3 +874,12 @@ Stalking Bear, and my brother-in-law, Soaring Eagle."
 "I'm the mother, Sitting Shiva."
 ~~~~~
 ~~~~~
+A grandmother and granddaughter are at the beach.
+Suddenly a wave comes in and sweeps the little girl out to sea.
+The grandmother looks up to Heaven and cries,
+“Dear God, please save my granddaughter!”
+Another wave comes crashing in, delivering the child to shore unharmed.
+The grandmother looks up to Heaven and says, “She had a hat.”
+
+~~~~~
+~~~~~
