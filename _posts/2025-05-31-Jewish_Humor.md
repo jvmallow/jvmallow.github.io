@@ -882,4 +882,13 @@ Another wave comes crashing in, delivering the child to shore unharmed.
 The grandmother looks up to Heaven and says, “She had a hat.”
 
 ~~~~~
+“Shadkhn” (Yiddish): matchmaker.
+
+A shadkhn comes to a prospective groom, and announces,
+“Have I got a match for you! She’s as beautiful as a work of art!”
+The young man agrees to meet the prospect. 
+When the shadkhn returns a few days later, the young man is furious:
+“A work of art? Some work of art! One eye half closed, the other too large.
+One ear a good inch below the other, and the nose off center by at least a half inch!”
+“So,” asks the shadkhn, “Picasso you don’t like?”
 ~~~~~
