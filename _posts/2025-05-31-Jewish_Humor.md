@@ -890,7 +890,8 @@ A shadkhn comes to a prospective groom, and announces,
 The young man agrees to meet the prospect. 
 When the shadkhn returns a few days later, the young man is furious:
 “A work of art? Some work of art! One eye half closed, the other too large.
-One ear a good inch below the other, and the nose off center by at least a half inch!”
+One ear a good inch below the other, and the nose off center by
+at least a half inch!”
 “So,” asks the shadkhn, “Picasso you don’t like?”
 ~~~~~
 ~~~~~
