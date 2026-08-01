@@ -893,5 +893,4 @@ When the shadkhn returns a few days later, the young man is furious:
 One ear a good inch below the other, and the nose off center by at least a half inch!”
 “So,” asks the shadkhn, “Picasso you don’t like?”
 ~~~~~
-
 ~~~~~
