@@ -895,6 +895,7 @@ at least a half inch!”
 “So,” asks the shadkhn, “Picasso you don’t like?”
 ~~~~~
 ~~~~~
+
 “Brokhe”: a blessing over food. Religious Jews
  say a different one depending on where the food
  comes from: a tree (fruit), the earth (vegetables); etc.
@@ -920,6 +921,6 @@ I can’t eat them because I don’t know the appropriate brokhe to say over the
 I know the brokhe. When it comes from the sea, I know the brokhe.
 When it comes from a vine, I know the brokhe.
 But I just don’t know the brokhe when it’s coming out of my ears!”
-~~~~~
 
+~~~~~
 ~~~~~
