@@ -895,3 +895,28 @@ at least a half inch!”
 “So,” asks the shadkhn, “Picasso you don’t like?”
 ~~~~~
 ~~~~~
+“Brokhe”: a blessing over food. Religious Jews
+ say a different one depending on where the food
+ comes from: a tree (fruit), the earth (vegetables); etc.
+
+In the Old Country, students studying at yeshivahs far from home
+were often fed by Jewish families in the yeshivah town: every day
+a different family. (If they were lucky enough to get fed every day.)
+The custom was called “esn teg”: “eating days.”
+In one such yeshivah town there arrives a young scholar, a reputed
+genius, who is immediately sought after by the more prominent families
+as a dinner guest.On the first Sunday, he is served baked beans by
+ the woman of the house . Baked beans happens to be his favorite dish,
+and he eats them with much gusto. The hostess, very pleased, tells the next
+ evening’s hostess, who also prepares baked beans. The student eats them,
+but with a shade less enthusiasm.And so it goes, from house to house,
+until by Thursday evening, he is served his fifth consecutive
+baked beans dinner, and he simply stares at the plate. The hostess asks him
+ with some concern, “Why aren’t you eating? I understood that you
+liked baked beans.”“Indeed I do,” replies the student, “But unfortunately,
+I can’t eat them because I don’t know the appropriate brokhe to say over them.”
+“What brokhe? Is there a special brokhe?” asks the worried hostess.
+“Well,” replies the yeshiva student, “When it comes from the ground,
+I know the brokhe. When it comes from the sea, I know the brokhe.
+When it comes from a vine, I know the brokhe.
+But I just don’t know the brokhe when it’s coming out of my ears!”
