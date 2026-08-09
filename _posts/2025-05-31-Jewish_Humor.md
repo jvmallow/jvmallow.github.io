@@ -907,7 +907,7 @@ The custom was called “esn teg”: “eating days.”
 In one such yeshivah town there arrives a young scholar, a reputed
 genius, who is immediately sought after by the more prominent families
 as a dinner guest.On the first Sunday, he is served baked beans by
-the woman of the house . Baked beans happens to be his favorite dish,
+the woman of the house. Baked beans happens to be his favorite dish,
 and he eats them with much gusto. The hostess, very pleased, tells the next
 evening’s hostess, who also prepares baked beans. The student eats them,
 but with a shade less enthusiasm.And so it goes, from house to house,
@@ -915,8 +915,8 @@ until by Thursday evening, he is served his fifth consecutive
 baked beans dinner, and he simply stares at the plate. The hostess asks him
 with some concern, “Why aren’t you eating? I understood that you
 liked baked beans.”“Indeed I do,” replies the student, “But unfortunately,
-I can’t eat them because I don’t know the appropriate brokhe to say over them.”
-“What brokhe? Is there a special brokhe?” asks the worried hostess.
+I can’t eat them because I don’t know the appropriate brokhe to say over
+them.”“What brokhe? Is there a special brokhe?” asks the worried hostess.
 “Well,” replies the yeshiva student, “When it comes from the ground,
 I know the brokhe. When it comes from the sea, I know the brokhe.
 When it comes from a vine, I know the brokhe.
