@@ -282,7 +282,7 @@ Special schoolswere opened, with Jewish students and Jewish teachers
 One such visits a school, marches into the math class, pushes aside
 the teacher,and announces, “You Jews think you’re so smart?
 Here’s a problem for you:A train is traveling a distance of 750 verst
-from Town A to Town B. The trainhas 25 cars.
+from Town A to Town B. The train has 25 cars.
 In each car are 18 passengers. How old am I?”
 
 Silence reigns. Then a hand goes up in the back.
