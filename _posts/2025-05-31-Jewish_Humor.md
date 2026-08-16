@@ -926,8 +926,7 @@ But I just don’t know the brokhe when it’s coming out of my ears!”
 ~~~~~
 Point:
 Hyman comes home early from work one day,
-to find his wife
-in bed with Moishe, his best friend.
+to find his wife in bed with Moishe, his best friend.
 “Moishe,” he says, “I have to. But you?”
 
 Counterpoint:
