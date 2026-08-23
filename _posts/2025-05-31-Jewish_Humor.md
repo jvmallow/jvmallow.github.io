@@ -935,3 +935,23 @@ to find his wife in bed with Moishe, his best friend.
 His wife looks up and says, “Watch. Learn something.”
 ~~~~~
 ~~~~~
+THIS YOU CALL ENGLISH? A TRIAD
+An elderly Jewish man is run over.
+He’s lying in the street when the paramedics arrive.
+As they load him carefully onto the stretcher, one asks,
+“Are you comfortable?”
+He replies, “Thank God, I make a living.”
+
+An elderly Jewish lady is run over.
+A lawyer rushes to her side, hands her his card,
+and says, “Call me: I can get you damages.”
+The lady replies, “Damages I already have.
+What I need is repairs!”
+
+“Sadie,” asks Minnie, “tell me,
+do you and Sam have mutual orgasm.”
+Sadie thinks for a minute and says,
+“No, I think we have State Farm.”
+
+~~~~~
+~~~~~
