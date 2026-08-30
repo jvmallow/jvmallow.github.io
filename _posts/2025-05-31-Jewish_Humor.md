@@ -974,3 +974,5 @@ The peasant reattaches the horse to his wagon and drives on.
 The Jews look after him.
 “Big deal,” says one, “brute force.”
 
+~~~~~
+~~~~~
