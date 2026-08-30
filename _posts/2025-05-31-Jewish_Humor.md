@@ -955,17 +955,22 @@ Sadie thinks for a minute and says,
 
 ~~~~~
 ~~~~~
-wo Jews are driving through the Polish countryside
+Two Jews are driving through the Polish countryside
 in their horse-drawn wagon, when they come upon a fallen log
-blocking the road. They descend, look over the log, and begin discussing strategy.
+blocking the road. They descend, look over the log,
+and begin discussing strategy.
 “According to Rabbi Yekhezkl of Plotsk,” says the one,
-“A fallen log must have its branches removed before one attempts to move it.”
-“But,” replies the other, “Rabbi Yehoshua of Kotsk says, on the contrary,
-that the trunk should be lifted first, before any branches are removed.”
-So they argue for a full hour. A Polish peasant comes by in his wagon.
-He descends, releases his horse’s reins from the wagon, attaches them
- to the log, shouts “Giddap!,” whereupon the horse drags the log
-to the side of the road. The peasant reattaches the horse to his wagon and drives on.
+“A fallen log must have its branches removed
+before one attempts to move it.”
+“But,” replies the other, “Rabbi Yehoshua of Kotsk says,
+on the contrary,that the trunk should be lifted first,
+before any branches are removed.”
+So they argue for a full hour. A Polish peasant
+comes by in his wagon. He descends, releases his horse’s
+reins from the wagon, attaches them
+to the log, shouts “Giddap!,”
+whereupon the horse drags the log to the side of the road.
+The peasant reattaches the horse to his wagon and drives on.
 The Jews look after him.
 “Big deal,” says one, “brute force.”
 
