@@ -973,6 +973,14 @@ whereupon the horse drags the log to the side of the road.
 The peasant reattaches the horse to his wagon and drives on.
 The Jews look after him.
 “Big deal,” says one, “brute force.”
-
+~~~~~
+~~~~~
+A rabbi, a cantor, and a shames (synagogue caretaker) are
+captured by terrorists, who tell them, "We're going
+to kill you, but you can have one last wish." 
+The rabbi say, "I'd like to preach my Rosheshone sermon."
+The cantor says, "I'd like to chant my Rosheshone liturgy."
+The shames says, "Kill me first."
+~~~~~
 ~~~~~
 ~~~~~
