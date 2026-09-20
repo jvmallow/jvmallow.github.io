@@ -984,3 +984,12 @@ The shames says, "Kill me first."
 ~~~~~
 ~~~~~
 ~~~~~
+An Italian, a Frenchman, and a Jew are boasting about their love lives. 
+The Italian says, “I rub my wife’s entire body with the finest olive oil
+before we make love; she screams for fifteen minutes.”
+The Frenchman says, ” “I rub my wife’s entire body with the finest French butter
+before we make love; she screams for thirty minutes.”
+The Jew says, “I rub my wife’s entire body with the finest chicken shmaltz
+before we make love; she screams for two hours.”
+“Wow! Two hours? Really?”
+“Yes. I wipe my hands on the drapes.”
