@@ -255,10 +255,10 @@ let out a large yawn. The matron turned to him and said,
 
 ~~~~~
 A particularly horrible practice in the nineteenth century was the
-kidnaping of so-called “cantonists ,” young Jewish boys forcibly
+kidnaping of so-called “cantonists”, young Jewish boys forcibly
 inducted into the Czar’s army for twenty five years.
 Many lost contact with their family and their faith.
-So when the “khappers,”the grabbers were sighted, the cry went out,
+So when the “khappers”, the grabbers were sighted, the cry went out,
 and all the young boys in the shtetl were hidden.
 
 As the khappers are heading into a shtetl, the melamed (teacher)
