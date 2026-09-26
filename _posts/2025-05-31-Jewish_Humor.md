@@ -983,6 +983,18 @@ The cantor says, "I'd like to chant my Rosheshone liturgy."
 The shames says, "Kill me first."
 ~~~~~
 ~~~~~
+
+An Italian, a Frenchman, and a Jew are boasting about their love lives. 
+The Italian says, “I rub my wife’s entire body with the finest olive oil
+before we make love; she screams for fifteen minutes.”
+The Frenchman says, “I rub my wife’s entire body with the finest French
+butter before we make love; she screams for thirty minutes.”
+The Jew says, “I rub my wife’s entire body with the finest chicken shmaltz
+before we make love; she screams for two hours.”
+“Wow! Two hours? Really?”
+“Yes. I wipe my hands on the drapes.”
+~~~~~
+~~~~~
 The Royal Shakespeare Repertory Company is traveling around the world,
 looking for a new leading man. No luck. Nowhere is there anyone of the 
 stature of say, the late great Olivier. Finally, they end up in New York. 
@@ -995,7 +1007,6 @@ A little comic relief would be nice.
 “I’m gonna do Hemlet’s solilokvy,” says the Jew. With that he 
 launches into “To be or not to be….” in fluent British English,
 letter perfect, from memory, with a brilliant interpretation.
-
 The company is on its feet with applause, and he is hired on the spot. 
 The director takes him aside, and can’t resist asking, 
 “I hear how you talk normally. How in the world are you able 
@@ -1004,15 +1015,4 @@ The Jew pulls himself up, smiles broadly, points his finger at the director,
 and says “Det’s ecting!”
 
 ~~~~~
-~~~~~
-
-An Italian, a Frenchman, and a Jew are boasting about their love lives. 
-The Italian says, “I rub my wife’s entire body with the finest olive oil
-before we make love; she screams for fifteen minutes.”
-The Frenchman says, “I rub my wife’s entire body with the finest French
-butter before we make love; she screams for thirty minutes.”
-The Jew says, “I rub my wife’s entire body with the finest chicken shmaltz
-before we make love; she screams for two hours.”
-“Wow! Two hours? Really?”
-“Yes. I wipe my hands on the drapes.”
 ~~~~~
