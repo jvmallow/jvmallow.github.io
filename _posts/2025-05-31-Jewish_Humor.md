@@ -983,6 +983,28 @@ The cantor says, "I'd like to chant my Rosheshone liturgy."
 The shames says, "Kill me first."
 ~~~~~
 ~~~~~
+The Royal Shakespeare Repertory Company is traveling around the world,
+looking for a new leading man. No luck. Nowhere is there anyone of the 
+stature of say, the late great Olivier. Finally, they end up in New York. 
+For three weeks they audition hopefuls, but no one can quite cut it.
+The Company is about to pack up on the last day, when a knock comes
+on the stage door, and in walks a little Jew.
+“Vould it be OK if I take a shot?” he asks, in heavily accented Yinglish. 
+The Company is dubious, but what’s there to lose? 
+A little comic relief would be nice.
+“I’m gonna do Hemlet’s solilokvy,” says the Jew. With that he 
+launches into “To be or not to be….” in fluent British English,
+letter perfect, from memory, with a brilliant interpretation.
+
+The company is on its feet with applause, and he is hired on the spot. 
+The director takes him aside, and can’t resist asking, 
+“I hear how you talk normally. How in the world are you able 
+to do Shakespeare without a trace of accent?”
+The Jew pulls himself up, smiles broadly, points his finger at the director,
+and says “Det’s ecting!”
+
+~~~~~
+~~~~~
 
 An Italian, a Frenchman, and a Jew are boasting about their love lives. 
 The Italian says, “I rub my wife’s entire body with the finest olive oil
