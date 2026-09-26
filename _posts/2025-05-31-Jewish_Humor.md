@@ -225,11 +225,9 @@ I’ll tell you: before I took holy orders, I tried sex once.”
 
 
 ~~~~~
-At a Senior Citizens’ Club in Miami Beach,
-the widow Birnbaum notices
-a new fellowsitting off to the side:
-tall, distinguished, with a mane of white hair,
-and a nice suit.
+At a Senior Citizens’ Club in Miami Beach, the widow Birnbaum
+notices a new fellow sitting off to the side:
+tall, distinguished, with a mane of white hair, and a nice suit.
 She walks over and sits down.
 “Are you new here?”
 “Yes,” he replies, “I just moved down to Florida.”
