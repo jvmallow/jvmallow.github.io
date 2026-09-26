@@ -158,7 +158,7 @@ A Jew passes a store and sees a sign:
 "Davening Parrot". He goes in and asks
 to hear the bird daven.
 The proprietor says to the parrot,
-'Daven the Rosh Hashonah service."
+"Daven the Rosh Hashonah service."
 With that, the parrot reaches under one wing,
 whips out a yarmulke,reaches under the other wing,
 whips out a siddur, and begins
