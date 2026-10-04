@@ -1015,10 +1015,10 @@ and says “Det’s ecting!”
 ~~~~~
 A group of Hassidim, seeking shelter from a sudden rainstorm, run into a 
 Catholic church right in the middle of the service when newly-minted nuns 
-take their marriage vows to Christ.
-The Jews try to remain quiet and unobtrusive, but they are of course noticed. 
-The Mother Superior comes over and asks, “What are you doing here at the 
-marriage ceremony between these girls and our Lord?”
+take their marriage vows to Christ.The Jews try to remain quiet
+and unobtrusive,but they are of course noticed. 
+The Mother Superior comes over and asks, “What are you doing here
+at the marriage ceremony between these girls and our Lord?”
 The Hassidim reply, “We’re from the groom’s side.”
 ~~~~~
 ~~~~~
