@@ -1049,8 +1049,8 @@ strikes up a conversation with Frank.
 “Talleysim,” says Frank without hesitation.
  The woman thinks for a few seconds and says,
  “You know, I’ve always wondered what those
-Hebrew words around the collar say.”
-Frank replies, “I wouldn’t know. We just make the sleeves.”
+ Hebrew words around the collar say.”
+ Frank replies, “I wouldn’t know. We just make the sleeves.”
 
 ~~~~~
 ~~~~~
