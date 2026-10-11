@@ -1023,7 +1023,7 @@ The Hassidim reply, “We’re from the groom’s side.”
 ~~~~~
 ~~~~~
 Two friends, Sol and Frank, of Jewish and Italian origin respectively,
- are trying to decide where to vacation.
+are trying to decide where to vacation.
 “How about the Poconos?” proposes Frank. “A lot of my people go there.”
 “Nah,” says Sol, “let’s go to the Catskills.
 A great place to meet the ladies.”
