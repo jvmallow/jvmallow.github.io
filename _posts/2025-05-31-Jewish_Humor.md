@@ -1022,14 +1022,23 @@ at the marriage ceremony between these girls and our Lord?”
 The Hassidim reply, “We’re from the groom’s side.”
 ~~~~~
 ~~~~~
-Two friends, Sol and Frank, of Jewish and Italian origin respectively, are trying to decide where to vacation.
+Two friends, Sol and Frank, of Jewish and Italian origin respectively,
+ are trying to decide where to vacation.
 “How about the Poconos?” proposes Frank. “A lot of my people go there.”
-“Nah,” says Sol, “let’s go to the Catskills. A great place to meet the ladies.”
-Frank is hesitant. “Sure I’d like to meet some nice ladies, but they’re Jewish. What happens if they ask me about myself?”
-Sol has his advice ready. “You tell them your name is Frank, you’re from the Bronx, you’re a manufacturer. If they ask what you manufacture, you tell them, ‘talleysim .’ Can you remember that? ‘Talleysim.’”
+“Nah,” says Sol, “let’s go to the Catskills.
+A great place to meet the ladies.”
+Frank is hesitant. “Sure I’d like to meet some nice ladies,
+but they’re Jewish. What happens if they ask me about myself?”
+Sol has his advice ready. “You tell them your name is Frank,
+you’re from the Bronx, you’re a manufacturer.
+If they ask what you manufacture, you tell them, ‘talleysim .’
+Can you remember that? ‘Talleysim.’”
 “What’s it mean?” asks Frank.
-“Never mind,” Sol reassures him. “Once you say “talleysim” they won’t even question your origins anymore.”
-And so it goes. The first night in the Catskills, Sol and Frank are at the resort bar, and a very attractive woman strikes up a conversation with Frank.
+“Never mind,” Sol reassures him. “Once you say “talleysim”
+they won’t even question your origins anymore.”
+And so it goes. The first night in the Catskills, Sol and Frank
+are at the resort bar, and a very attractive woman
+strikes up a conversation with Frank.
 “What’s your name?”
 “Frank.”
 “Where are you from?”
@@ -1037,7 +1046,10 @@ And so it goes. The first night in the Catskills, Sol and Frank are at the resor
 “What do you do?”
 “I’m a manufacturer.”
 “What do you manufacture?”
-“Talleysim,” says Frank without hesitation. The woman thinks for a few seconds and says, “You know, I’ve always wondered what those Hebrew words around the collar say.”
+“Talleysim,” says Frank without hesitation.
+ The woman thinks for a few seconds and says,
+ “You know, I’ve always wondered what those
+Hebrew words around the collar say.”
 Frank replies, “I wouldn’t know. We just make the sleeves.”
 
 ~~~~~
