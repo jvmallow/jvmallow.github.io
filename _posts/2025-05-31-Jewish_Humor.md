@@ -1054,3 +1054,26 @@ strikes up a conversation with Frank.
 
 ~~~~~
 ~~~~~
+A priest, a minister, a rabbi, a duck, and a horse walk into a bar.
+The bartender says, “What is this, a joke?”
+~~~~~
+~~~~~
+An anti-Semite walks into a bar and is about to order a drink
+when he sees a guy at the end of the bar wearing a Jewish cap,
+a prayer shawl, and traditional earlocks . He doesn’t have to
+be an Einstein to know that this guy is Jewish.
+So he shouts over to the bartender so loudly that everyone can hear,
+“Drinks for everyone in here, bartender, but not for that Jew over there.”
+Soon after the drinks have been handed out, the Jew gives him a big smile,
+waves at him, says, “Thank you!” in an equally loud voice.
+This infuriates the anti-Semite. He once again loudly orders drinks
+for everyone except the Jew. As before, this does not seem to bother
+the Jewish guy. He continues to smile, and again yells, “Thank you!”
+The anti-Semite asks the bartender, “What’s the hell is the matter
+with that Jew? I’ve ordered two rounds of drinks for everyone in the
+bar but him, and all the silly bugger does is smile and thank me.
+Is he nuts?
+“Nope,” replies the bartender. “He owns the place.”
+
+~~~~~
+~~~~~
