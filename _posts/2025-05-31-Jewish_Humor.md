@@ -1077,3 +1077,13 @@ Is he nuts?
 
 ~~~~~
 ~~~~~
+Prescient:
+A Polish Jew in the 1960's inherits 20,00 zlotys.
+He asks his rabbi what to do with it.
+"Put it in the Polish National Bank."
+"But the bank could fail."
+"That's not very likely. It's backed by the Polish government."
+"But the government could collapse."
+"That's also not likely. Poland is backed by the might of the Soviet Union."
+"But the Soviet Union could fall."
+The rabbi smiles. "Wouldn't that be worth 20,000 zlotys?"
