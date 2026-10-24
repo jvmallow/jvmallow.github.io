@@ -1077,6 +1077,7 @@ Is he nuts?
 
 ~~~~~
 ~~~~~
+~~~~~
 Prescient:
 A Polish Jew in the 1960's inherits 20,00 zlotys.
 He asks his rabbi what to do with it.
@@ -1087,3 +1088,5 @@ He asks his rabbi what to do with it.
 "That's also not likely. Poland is backed by the might of the Soviet Union."
 "But the Soviet Union could fall."
 The rabbi smiles. "Wouldn't that be worth 20,000 zlotys?"
+~~~~~
+~~~~~
