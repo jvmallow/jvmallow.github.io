@@ -1076,7 +1076,7 @@ Is he nuts?
 “Nope,” replies the bartender. “He owns the place.”
 
 ~~~~~
-~~~~~
+
 ~~~~~
 Prescient:
 A Polish Jew in the 1960's inherits 20,00 zlotys.
