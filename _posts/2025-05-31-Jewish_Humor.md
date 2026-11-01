@@ -1090,3 +1090,27 @@ He asks his rabbi what to do with it.
 The rabbi smiles. "Wouldn't that be worth 20,000 zlotys?"
 ~~~~~
 ~~~~~
+A Jewish golfer is a real duffer: never done better than ten over par.
+One day he’s playing, and he sees a foursome of ultra-Orthodox Jews
+playing amazingly good golf. He watches for a while, and finally goes
+over and asks them the secret of their skill.
+“Religion,” they reply, “Are you Jewish?” He says yes.
+“OK. Here’s what you have to do: pray three times a day. Keep kosher.
+And join the Orthodox shul (synagogue).”
+Our hero gets down his old talles (prayer shawl) and prays regularly.
+He gets two new sets of dishes, one for milk and
+one for meat, and makes his home strictly kosher. He joins the
+Orthodox shul down the street. But his game does not improve.
+Two months later, he encounters the same pious foursome,
+playing their usual under-par game.
+“I don’t know what I’m doing wrong,” he complains, “
+I did everything you said.”
+“You pray regularly?” they ask.
+“Three times a day.”
+“Keep kosher?”
+“Strictly.”
+“Did you join an Orthodox shul?”
+“Yes, I joined Anshe Sholem, just down the street.”
+“Ah,”say the foursome, “That’s the problem.
+Anshe Sholem’s the tennis shul.”
+
