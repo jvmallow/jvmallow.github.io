@@ -1118,7 +1118,7 @@ Anshe Sholem’s the tennis shul.”
 A Jew newly arrived in America takes a package to the post office
 to send home to his family. He puts what he thinks is the right
 postage on it, but the clerk weighs it and says, “It’s too heavy.
-You need to a more stamps.
+You need to add more stamps."
 “And how,” asks the Jew, “will that make it lighter?”
 ~~~~~
 ~~~~~
