@@ -1122,3 +1122,21 @@ You need to add more stamps."
 “And how,” asks the Jew, “will that make it lighter?”
 ~~~~~
 ~~~~~
+Well this one doesn't work any more. But it was a good one.
+
+A Chicago Jew is walking along Lake Michigan when he spies
+ an old fashioned oil lamp. He picks it up and rubs it—and
+ out comes a cloud of smoke, which materializes into a genii.
+“You have released me from the lamp,” says the genii, “so I must grant you a wish.”
+What does a good Jew wish for? “A full and secure peace in the Middle East.”
+The genii reaches into the folds of its ectoplasm, and pulls out a map of the area.
+“That’s a pretty tough wish. Look, here’s Lebanon, with Hezbollah supported by Iran.
+Syria sits on the Golan Heights. Not to mention Hamas in Gaza, and
+Jewish settlements scattered around the West Bank. And then there’s Jerusalem.
+Listen, haven’t you got an alternate wish?”
+What does any Chicagoan wish for? “The Cubs should win the World Series.”
+The genii is silent for a minute, then replies,
+“Maybe we better have another look at that map.”
+
+~~~~~
+~~~~~
