@@ -1122,7 +1122,8 @@ You need to add more stamps."
 “And how,” asks the Jew, “will that make it lighter?”
 ~~~~~
 ~~~~~
-Well this one doesn't work any more. But it was a good one.
+
+Well, this doesn't work anymore. But it was a good one.
 
 A Chicago Jew is walking along Lake Michigan when he spies
 an old fashioned oil lamp. He picks it up and rubs it—and
